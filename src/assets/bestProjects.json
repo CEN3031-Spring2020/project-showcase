@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "project1" : {
+        "id": 1,
+        "description": "This is a short blurb about the project",
+        "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+      },
+      "project2" : {
+        "id": 2,
+        "description": "This is a short blurb about the project",
+        "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+      },
+      "project3" : {
+        "id": 3,
+        "description": "This is a short blurb about the project",
+        "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+      },
+      "project4" : {
+        "id": 4,
+        "description": "This is a short blurb about the project",
+        "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+      }
+  }
+]
+}

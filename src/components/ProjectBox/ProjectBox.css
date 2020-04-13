@@ -1,0 +1,52 @@
+.slide-container {
+    width: 70%;
+    margin: auto; }
+
+h3 {
+    text-align: center; }
+
+.each-fade {
+    display: flex;
+}
+
+.each-fade .image-container {
+    width: 75%;
+    overflow: hidden;
+}
+
+.each-fade .image-container img {
+    width: 100%;
+}
+
+.each-fade h2 {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background: #adceed;
+}
+
+.project-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 5%;
+}
+
+.project-description {
+    width: 30%;
+}
+
+.project-slide {
+    width: 70%;
+    object-fit: fill;
+}
+
+.project-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    object-fit: fill;
+}
