@@ -1,52 +1,44 @@
 {
-  "projects": {
-    "spring2020": {
-      "project1" : {
-        "group1": {
-          "id": 1
-        },
-        "group2": {
-
-        },
-        "group3": {
-
-        },
-        "group4": {
-
+  "projects": [
+    {
+      "spring2020": [
+        {
+          "project1": {
+            "group1": {
+            },
+            "group2": {
+            },
+            "group3": {
+            },
+            "group4": {
+            }
+          },
+          "project2": {
+            "group1": {
+            },
+            "group2": {
+            },
+            "group3": {
+            },
+            "group-": {
+            }
+          },
+          "project3": {
+            "group1": {
+            },
+            "group2": {
+            },
+            "group3": {
+            },
+            "group4": {
+            }
+          }
         }
-      },
-      "project2" : {
-        "group1": {
-
-        },
-        "group2": {
-
-        },
-        "group3": {
-
-        },
-        "group-": {
-
+      ],
+      "summer2020": [
+        {
         }
-      },
-      "project3" : {
-        "group1": {
-
-        },
-        "group2": {
-
-        },
-        "group3": {
-
-        },
-        "group4": {
-
-        }
-      }
-
-    },
-    "summer2020": {
-
+      ]
     }
-  }
+  ]
 }

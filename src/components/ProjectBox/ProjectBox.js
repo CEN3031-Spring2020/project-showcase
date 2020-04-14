@@ -1,5 +1,4 @@
 import React from 'react';
-import Slideshow from './Slideshow';
 import {Slide} from "react-slideshow-image";
 import './ProjectBox.css'
 
@@ -28,13 +27,13 @@ function ProjectBox({bestProjects}) {
                             <div className="project-slide">
                                 <Slide {...slideProperties}>
                                     <div className="project-image">
-                                        <img src={project.images[0]} alt="project picture" />
+                                        <img src={project.images[0]} alt="project" />
                                     </div>
                                     <div className="project-image">
-                                        <img src={project.images[1]} alt="project picture" />
+                                        <img src={project.images[1]} alt="project" />
                                     </div>
                                     <div className="project-image">
-                                        <img src={project.images[2]} alt="project picture" />
+                                        <img src={project.images[2]} alt="project" />
                                     </div>
                                 </Slide>
                             </div>

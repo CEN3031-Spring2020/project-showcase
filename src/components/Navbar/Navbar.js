@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './NavBar.css';
+import './Navbar.css';
 
-const NavBar = () => {
+const Navbar = () => {
     return (
         <div className = "header">
             {/* Logo */}
@@ -14,11 +14,10 @@ const NavBar = () => {
             <div className = "nav-items">
                 <Link className = "nav-link" to='/Home'>Home</Link>
 
-                <a className = "nav-link" target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/docs/">Node Docs</a>
+                <Link className = "nav-link" to='/Projects'>Projects</Link>
             </div>
-
         </div>
     )
 };
 
-export default NavBar;
+export default Navbar;

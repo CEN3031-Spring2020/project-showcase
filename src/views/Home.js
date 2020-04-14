@@ -1,13 +1,12 @@
-import React, {useState} from 'react';
+import React from 'react';
 import ProjectBox from '../components/ProjectBox/ProjectBox';
 import bestProjects from '../assets/bestProjects.json';
 
 function Home() {
-    const [projectData, setProjectData] = useState(bestProjects.projects[0]);
 
     return(
         <div>
-            <ProjectBox bestProjects={projectData}/>
+            <ProjectBox bestProjects={bestProjects.projects[0]}/>
         </div>
     )
 }
