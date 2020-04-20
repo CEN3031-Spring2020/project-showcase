@@ -1,44 +1,71 @@
 {
   "projects": [
     {
-      "spring2020": [
-        {
-          "project1": {
-            "group1": {
+      "spring2020": {
+        "professor": "Dr. Thomas",
+        "projects": [
+          {
+            "project1": {
+              "title": "Teach. Leave. Live.",
+              "TAs": ["Fernando Rivera", "Shaila Patel"],
+              "description": "This is a short blurb about the project",
+              "groups": [
+                {
+                  "group1": {
+                    "members": ["Joe Shmo", "Joe Shro", "Joey Crow"],
+                    "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+                  },
+                  "group2": {
+                    "members": ["Joe Shmo", "Joe Shro", "Joey Crow"],
+                    "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+                  }
+                }
+              ]
             },
-            "group2": {
-            },
-            "group3": {
-            },
-            "group4": {
-            }
-          },
-          "project2": {
-            "group1": {
-            },
-            "group2": {
-            },
-            "group3": {
-            },
-            "group-": {
-            }
-          },
-          "project3": {
-            "group1": {
-            },
-            "group2": {
-            },
-            "group3": {
-            },
-            "group4": {
+            "project2": {
+              "title": "Teach. Leave. Live.",
+              "TAs": ["Dakota", "Jon"],
+              "description": "This is a short blurb about the project",
+              "groups": [
+                {
+                  "group1": {
+                    "members": ["Joe Shmo", "Joe Shro", "Joey Crow"],
+                    "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+                  },
+                  "group2": {
+                    "members": ["Joe Shmo", "Joe Shro", "Joey Crow"],
+                    "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+                  }
+                }
+              ]
             }
           }
-        }
-      ],
-      "summer2020": [
-        {
-        }
-      ]
+        ]
+      },
+      "summer2020": {
+        "professor": "Dr. Thomas",
+        "projects": [
+          {
+            "project1": {
+              "title": "Teach. Leave. Live.",
+              "TAs": ["Fernando Rivera", "Shaila Patel"],
+              "description": "This is a short blurb about the project",
+              "groups": [
+                {
+                  "group1": {
+                    "members": ["Joe Shmo", "Joe Shro", "Joey Crow"],
+                    "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+                  },
+                  "group2": {
+                    "members": ["Joe Shmo", "Joe Shro", "Joey Crow"],
+                    "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
     }
   ]
 }
