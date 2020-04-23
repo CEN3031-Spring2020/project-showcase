@@ -12,7 +12,7 @@ function ProjectBox({bestProjects}) {
         indicators: true,
         arrows: true,
         pauseOnHover: true
-    }
+    };
 
     return(
         <div>
