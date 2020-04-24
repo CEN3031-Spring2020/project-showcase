@@ -2,6 +2,10 @@ import React, {useEffect, useState} from 'react';
 import SideBar from '../components/Sidebar/Sidebar';
 import projects from '../assets/projs.json';
 import '../css/tailwind.css';
+import Modal from "@material-ui/core/Modal";
+import Fade from "@material-ui/core/Fade";
+import Backdrop from "@material-ui/core/Backdrop";
+import {makeStyles} from "@material-ui/core/styles";
 
 function getSemesters() {
     let semesters = projects.semesters;
@@ -99,10 +103,6 @@ const Project = (props) => {
         'background-image': 'linear-gradient(to right, rgba(0, 0, 0, 0), rgba(9, 211, 172, 0.75), rgba(0, 0, 0, 0))'
     };
 
-    const onClick = (e) => {
-
-    };
-
     return (
         <>
             <div style={{
@@ -145,14 +145,11 @@ const Project = (props) => {
                                 'text-align': 'center',
                                 'display': 'grid',
                                 'marginTop': '2em',
-                                'grid-template-columns': '33% 33% 33%',
+                                'grid-template-columns': '33.3333% 33.3333% 33.3333%',
                                 'grid-gap': '0.5em',
-                                'overflow': 'hidden'
-                            }}>
+                            }} className='justify-center'>
                                 {
-                                    proj.images.map(image => <img src={image} className='border-0 hover:'
-                                                                  style={{'width': '100%'}}
-                                                                  alt='Not found.'/>)
+                                    proj.images.map(image => <Image image={image}/>)
                                 }
                             </div>
                             <br/>
@@ -164,5 +161,53 @@ const Project = (props) => {
         </>
     )
 };
+
+const Image = ({image}) => {
+    const [open, setOpen] = useState(false);
+
+    return <>
+        <img onClick={() => setOpen(!open)}
+             className='w-full overflow-visible transition duration-300 ease-in-out cursor-pointer border-transparent border border-solid hover:border-gray-400'
+             src={image}
+             alt='Not found.'/>
+        <div className='absolute'>
+            <TransitionsModal toggleState={open} image={image}/>
+        </div>
+    </>;
+};
+
+function TransitionsModal({toggleState, image}) {
+    const [open, setOpen] = useState(false);
+
+    const handleClose = () => {
+        setOpen(false);
+    };
+
+    useEffect(() => {
+        setOpen(toggleState);
+    }, [toggleState]);
+
+    return (
+        <div>
+            <Modal
+                aria-labelledby="transition-modal-title"
+                aria-describedby="transition-modal-description"
+                className='flex items-center justify-center'
+                open={open}
+                onClose={handleClose}
+                closeAfterTransition
+                BackdropProps={{
+                    timeout: 500,
+                }}
+            >
+                <Fade in={open}>
+                    <div className='focus:outline-none shadow-xl'>
+                        <img className='transition duration-1000 ease-in-out border-transparent border border-solid border-t-0 border-l-0 border-r-0 hover:border-gray-400 w-full h-full' src={image}/>
+                    </div>
+                </Fade>
+            </Modal>
+        </div>
+    );
+}
 
 export default ProjectList;
