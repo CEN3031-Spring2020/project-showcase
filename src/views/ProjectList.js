@@ -36,10 +36,17 @@ function ProjectList() {
     return (
         <>
             <SideBar items={projects}/>
-            <div style={{width: 'calc(100vw - 240px)', marginLeft: '240px', marginTop: '73.25px'}}>
-                {
-                    getSemesters().map(sem => <Semester data={sem}/>)
-                }
+            <div style={{overflow: "hidden"}}>
+                <div style={{
+                    width: 'calc(100vw - 240px)',
+                    marginLeft: '240px',
+                    marginTop: '73.25px',
+                    overflow: "hidden"
+                }}>
+                    {
+                        getSemesters().map(sem => <Semester data={sem}/>)
+                    }
+                </div>
             </div>
         </>
     );
@@ -143,7 +150,8 @@ const Project = (props) => {
                                 'overflow': 'hidden'
                             }}>
                                 {
-                                    proj.images.map(image => <img src={image} className='border-0 hover:' style={{'width': '100%'}}
+                                    proj.images.map(image => <img src={image} className='border-0 hover:'
+                                                                  style={{'width': '100%'}}
                                                                   alt='Not found.'/>)
                                 }
                             </div>
