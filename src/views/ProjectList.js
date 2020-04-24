@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import SideBar from '../components/Sidebar/Sidebar';
 import projects from '../assets/projs.json';
+import '../css/tailwind.css';
 
 function getSemesters() {
     let semesters = projects.semesters;
@@ -20,8 +21,6 @@ function getSemesters() {
             }
         };
 
-        console.log(`${semesters['1'].year} ? ${semesters['2'].year}`)
-
         if (semesters['1'].year > semesters['2'].year)
             return -1;
         else if (semesters['1'].year === semesters['2'].year)
@@ -36,10 +35,12 @@ function ProjectList() {
 
     return (
         <>
-            {/*<SideBar items={projects.semesters}/>*/}
-            {
-                getSemesters().map(sem => <Semester data={sem}/>)
-            }
+            <SideBar className="h-full" items={projects} depth={0} depthStep={10} expanded/>
+            <div style={{width: 'calc(100vw - 240px)', marginLeft: '240px', marginTop: '73.25px'}}>
+                {
+                    getSemesters().map(sem => <Semester data={sem}/>)
+                }
+            </div>
         </>
     );
 }
@@ -55,7 +56,7 @@ const Semester = (props) => {
         }}>
 
             <h1 style={{'text-align': 'center', "text-shadow": "0 1px 2px #000"}}>{props.data.semester}</h1>
-            <Projects projects={props.data.projects}/>
+            <Projects projects={props.data.projects} semester={props.data.semester}/>
         </div>
     );
 };
@@ -77,7 +78,8 @@ const Projects = (props) => {
         <>
             {
                 Object.keys(projs).length > 0 ? Object.keys(projs).map(key => <Project
-                    name={key} description={projs[key][0]['description']} data={projs[key]}/>) : null
+                    name={key} semester={props.semester} description={projs[key][0]['description']}
+                    data={projs[key]}/>) : null
             }
         </>
     )
@@ -89,6 +91,11 @@ const Project = (props) => {
         'height': '1px',
         'background-image': 'linear-gradient(to right, rgba(0, 0, 0, 0), rgba(9, 211, 172, 0.75), rgba(0, 0, 0, 0))'
     };
+
+    const onClick = (e) => {
+
+    };
+
     return (
         <>
             <div style={{
@@ -98,7 +105,8 @@ const Project = (props) => {
                 'color': '#09D3AC',
                 "text-shadow": "0 1px 2px rgba(0,0,0,0.4)"
             }}>
-                <h2><span style={{'color': 'white', 'line-height': '0px'}}>Project Name:</span> {props.name}</h2>
+                <h2 id={props.semester + props.name}><span style={{'color': 'white', 'line-height': '0px'}}>Project Name:</span> {props.name}
+                </h2>
                 <h4><span style={{'color': 'white', 'fontWeight': 'bold'}}>Description: </span>{props.description}</h4>
                 {
                     props.data.map(proj => {
@@ -119,18 +127,26 @@ const Project = (props) => {
                                 <div style={{'textIndent': '3em', 'lineHeight': '1.5em'}}>
                                     <ul>
                                         {
-                                            proj.members.map(ta => <li>{ta}</li>)
+                                            proj.members.map(member => <li>{member}</li>)
                                         }
                                     </ul>
                                 </div>
                             </div>
 
-                            <div style={{'width': '100%', 'text-align': 'center', 'display': 'grid', 'marginTop': '2em', 'grid-template-columns': '33% 33% 33%', 'grid-gap': '0.5em', 'overflow': 'hidden'}}>
+                            <div style={{
+                                'width': '100%',
+                                'text-align': 'center',
+                                'display': 'grid',
+                                'marginTop': '2em',
+                                'grid-template-columns': '33% 33% 33%',
+                                'grid-gap': '0.5em',
+                                'overflow': 'hidden'
+                            }}>
                                 {
-                                    proj.images.map(image => <img src={image} style={{'width': '100%'}} alt='Not found.'/>)
+                                    proj.images.map(image => <img src={image} style={{'width': '100%'}}
+                                                                  alt='Not found.'/>)
                                 }
                             </div>
-
                             <br/>
                             <hr style={hrStyle}/>
                         </div>
