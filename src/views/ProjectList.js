@@ -35,7 +35,7 @@ function ProjectList() {
 
     return (
         <>
-            <SideBar className="h-full" items={projects} depth={0} depthStep={10} expanded/>
+            <SideBar items={projects}/>
             <div style={{width: 'calc(100vw - 240px)', marginLeft: '240px', marginTop: '73.25px'}}>
                 {
                     getSemesters().map(sem => <Semester data={sem}/>)

@@ -84,12 +84,12 @@ function Menu({items}) {
 function Sidebar({items}) {
     const classes = useStyles();
     return (
-        <div>
+        <div className="h-full sticky top-0">
             <CssBaseline/>
-            <Drawer variant='permanent' classes={{
+            <Drawer className="h-full sticky top-0" variant='permanent' classes={{
                 paper: classes.drawerPaper,
             }}>
-                <Menu items={items}/>
+                <Menu className="h-full sticky top-0" items={items}/>
             </Drawer>
         </div>
     );
@@ -102,15 +102,15 @@ const useStyles = makeStyles(theme => ({
         display: 'flex',
     },
     drawerPaper: {
-        position: 'fixed',
+        position: 'absolute',
         whiteSpace: 'nowrap',
         width: drawerWidth,
         paddingTop: theme.spacing(4),
         paddingBottom: theme.spacing(4),
         background: '#2C2F33',
-        top: "73.25px",
         color: '#fff',
-        overflow: 'hidden'
+        overflow: 'hidden',
+        height: '100vh'
     },
     content: {
         flexGrow: 1,
