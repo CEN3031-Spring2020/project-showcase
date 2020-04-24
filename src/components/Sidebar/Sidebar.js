@@ -107,7 +107,7 @@ const useStyles = makeStyles(theme => ({
         width: drawerWidth,
         paddingTop: theme.spacing(4),
         paddingBottom: theme.spacing(4),
-        background: '#2C2F33',
+        background: '#282b30',
         color: '#fff',
         overflow: 'hidden',
         height: '100vh'

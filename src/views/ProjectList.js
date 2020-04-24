@@ -48,7 +48,7 @@ function ProjectList() {
 const Semester = (props) => {
     return (
         <div style={{
-            'backgroundColor': '#23272a', 'maxWidth': '75%', 'marginLeft': '15%',
+            'backgroundColor': '#1e2124', 'maxWidth': '75%', 'marginLeft': '12%',
             'marginRight': '2em',
             'marginTop': '2em',
             'color': 'white',
@@ -100,7 +100,7 @@ const Project = (props) => {
         <>
             <div style={{
                 'display': 'block',
-                'backgroundColor': '#2C2F33',
+                'backgroundColor': '#282b30',
                 'padding': '20px',
                 'color': '#09D3AC',
                 "text-shadow": "0 1px 2px rgba(0,0,0,0.4)"
@@ -143,7 +143,7 @@ const Project = (props) => {
                                 'overflow': 'hidden'
                             }}>
                                 {
-                                    proj.images.map(image => <img src={image} style={{'width': '100%'}}
+                                    proj.images.map(image => <img src={image} className='border-0 hover:' style={{'width': '100%'}}
                                                                   alt='Not found.'/>)
                                 }
                             </div>
