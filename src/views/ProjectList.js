@@ -171,16 +171,17 @@ const Image = ({image}) => {
              src={image}
              alt='Not found.'/>
         <div className='absolute'>
-            <TransitionsModal toggleState={open} image={image}/>
+            <TransitionsModal toggleState={open} image={image} setToggle={setOpen}/>
         </div>
     </>;
 };
 
-function TransitionsModal({toggleState, image}) {
+function TransitionsModal({toggleState, image, setToggle}) {
     const [open, setOpen] = useState(false);
 
     const handleClose = () => {
         setOpen(false);
+        setToggle(false);
     };
 
     useEffect(() => {
