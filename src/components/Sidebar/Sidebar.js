@@ -1,118 +1,149 @@
-import React from "react";
+import React, {useEffect, useState} from "react";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import Divider from "@material-ui/core/Divider";
-import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
-import ExpandLessIcon from "@material-ui/icons/ExpandLess";
 import Collapse from "@material-ui/core/Collapse";
+import Drawer from "@material-ui/core/Drawer";
+import makeStyles from "@material-ui/core/styles/makeStyles";
+import CssBaseline from "@material-ui/core/CssBaseline";
+import ListItemIcon from '@material-ui/core/ListItemIcon'
+import ListItemText from '@material-ui/core/ListItemText'
 
-function SidebarItem({ depthStep = 10, depth = 0, expanded, item, ...rest }) {
-    const [collapsed, setCollapsed] = React.useState(true);
-    const { label, items, Icon, onClick: onClickProp } = item;
+import IconExpandLess from '@material-ui/icons/ExpandLess'
+import IconExpandMore from '@material-ui/icons/ExpandMore'
 
-    function toggleCollapse() {
-        setCollapsed(prevValue => !prevValue);
-    }
+import IconLibraryBooks from '@material-ui/icons/LibraryBooks'
+import {createStyles} from "@material-ui/core";
 
-    function onClick(e) {
-        if (Array.isArray(items)) {
-            toggleCollapse();
-        }
-        if (onClickProp) {
-            onClickProp(e, item);
-        }
-    }
+function MenuItem({semester: semesters}) {
+    const classes = useInnerStyles();
+    const [open, setOpen] = useState(false);
 
-    let expandIcon;
+    const [projs, setProjects] = useState({});
+    useEffect(() => {
+        const projs = {};
+        semesters.projects.forEach(curr => {
+            if (projs[curr["project-name"]])
+                projs[curr['project-name']].push(curr);
+            else
+                projs[curr['project-name']] = [curr];
+        });
+        setProjects(projs);
+    }, []);
 
-    if (Array.isArray(items) && items.length) {
-        expandIcon = !collapsed ? (
-            <ExpandLessIcon
-                className={
-                    "sidebar-item-expand-arrow" + " sidebar-item-expand-arrow-expanded"
-                }
-            />
-        ) : (
-            <ExpandMoreIcon className="sidebar-item-expand-arrow" />
-        );
+    function handleClick() {
+        setOpen(!open);
     }
 
     return (
-        <>
-            <ListItem
-                className="sidebar-item"
-                onClick={onClick}
-                button
-                dense
-                {...rest}
-            >
-                <div
-                    style={{ paddingLeft: depth * depthStep }}
-                    className="sidebar-item-content"
-                >
-                    {Icon && <Icon className="sidebar-item-icon" fontSize="small" />}
-                    <div className="sidebar-item-text">{label}</div>
-                </div>
-                {expandIcon}
+        <div>
+            <ListItem button onClick={handleClick} className={classes.menuItem}>
+                <ListItemIcon className={classes.menuItemIcon}>
+                    <IconLibraryBooks/>
+                </ListItemIcon>
+                <ListItemText primary={semesters.semester}/>
+                {open ? <IconExpandLess/> : <IconExpandMore/>}
             </ListItem>
-            <Collapse in={!collapsed} timeout="auto" unmountOnExit>
-                {Array.isArray(items) ? (
-                    <List disablePadding dense>
-                        {items.map((subItem, index) => (
-                            <React.Fragment key={`${subItem}${index}`}>
-                                {subItem === "divider" ? (
-                                    <Divider style={{ margin: "6px 0" }} />
-                                ) : (
-                                    <SidebarItem
-                                        depth={depth + 1}
-                                        depthStep={depthStep}
-                                        item={Object.entries(subItem)}
-                                    />
-                                )}
-                            </React.Fragment>
-                        ))}
-                    </List>
-                ) : null}
-            </Collapse>
-        </>
-    );
+            {
+                semesters.projects.length > 0 ?
+                    generateCollapseMenus(projs, classes, open, semesters.semester) : null
+            }
+        </div>
+    )
 }
 
-function Sidebar({ items, depthStep, depth, expanded }) {
+function generateCollapseMenus(projects, classes, open, semester) {
     return (
-        <div className="sidebar">
-            <List disablePadding dense>
-                {items.map((sidebarItem, index) => (
-                    <React.Fragment key={`${sidebarItem.name}${index}`}>
-                        {sidebarItem === "divider" ? (
-                            <Divider style={{ margin: "6px 0" }} />
-                        ) : (
-                            <SidebarItem
-                                depthStep={depthStep}
-                                depth={depth}
-                                expanded={expanded}
-                                item={sidebarItem}
-                            />
-                        )}
-                    </React.Fragment>
-                ))}
-            </List>
+        <div>
+            {
+                Object.keys(projects).map(project => {
+                    return <Collapse in={open} timeout="auto" unmountOnExit>
+                        <Divider/>
+                        <List component="div" disablePadding>
+                            <ListItem button component='a' href={'#' + semester + project} className={classes.content}>
+                                <ListItemText inset primary={project}/>
+                            </ListItem>
+                        </List>
+                    </Collapse>
+                })
+            }
+
+        </div>
+    )
+}
+
+function Menu({items}) {
+    const classes = useStyles();
+    return <List component="nav" className={classes.appMenu} disablePadding>
+        {
+            items.semesters.map(semester => <MenuItem semester={semester}/>)
+        }
+    </List>;
+}
+
+function Sidebar({items}) {
+    const classes = useStyles();
+    return (
+        <div className="h-full sticky top-0">
+            <CssBaseline/>
+            <Drawer className="h-full sticky top-0" variant='permanent' classes={{
+                paper: classes.drawerPaper,
+            }}>
+                <Menu className="h-full sticky top-0" items={items}/>
+            </Drawer>
         </div>
     );
 }
 
+const drawerWidth = 240;
+
+const useStyles = makeStyles(theme => ({
+    root: {
+        display: 'flex',
+    },
+    drawerPaper: {
+        position: 'absolute',
+        whiteSpace: 'nowrap',
+        width: drawerWidth,
+        paddingTop: theme.spacing(4),
+        paddingBottom: theme.spacing(4),
+        background: '#282b30',
+        color: '#fff',
+        overflow: 'hidden',
+        height: '100vh'
+    },
+    content: {
+        flexGrow: 1,
+        height: '100vh',
+        overflow: 'auto',
+    },
+    container: {
+        paddingTop: theme.spacing(4),
+        paddingBottom: theme.spacing(4),
+        overflow: 'hidden'
+    },
+}));
+
+const useInnerStyles = makeStyles(theme =>
+    createStyles({
+        appMenu: {
+            width: '100%',
+            overflow: 'hidden'
+        },
+        navList: {
+            width: drawerWidth,
+            overflow: 'hidden'
+
+        },
+        menuItem: {
+            width: drawerWidth,
+            overflow: 'hidden'
+        },
+        menuItemIcon: {
+            color: '#09d3ac',
+            overflow: 'hidden'
+        },
+    }),
+);
+
 export default Sidebar;
-
-
-
-        // <div>
-        //     {
-        //         Object.values(projects).map((year, i) => {
-        //             return(
-        //                 <div>
-        //
-        //                 </div>
-        //             )
-        //         })
-        //     }
-        // </div>

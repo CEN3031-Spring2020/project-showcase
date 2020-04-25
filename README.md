@@ -1,5 +1,61 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Adding new semesters and projects
+To add a new semester and new projects follow the process listed below:
+- navigate to `project-showcase/src/assets/projs.json` and open the file.
+- the schema in the file is as follows: 
+```json
+{
+  "semesters": [
+    {
+      "semester": "Spring 2020",
+      "professor": "Dr. Thomas",
+      "projects": [...]
+    }
+  ]
+}
+```
+
+This is how you will add new semesters to the JSON document.<br/>
+To add a new project you will need to add a new JSON object to the "projects" array as follows:<br/>
+```json
+"projects": [
+  {
+    "project-name": "The Team's Project Name",
+    "description": "A description.",
+    "tas": ["Whoever", "Were", "The", "TAs", "Supervising", "The", "Project"],
+    "members": ["Students", "Who", "Contributed"],
+    "images": ["path/image1", "path/image2", "path/image3"]
+  }
+]
+```
+
+Overall, your final result should be something like: <br/>
+```json
+{
+  "semesters": [
+    {
+      "semester": "Spring 2020",
+      "professor": "Dr. Thomas",
+      "projects": [
+        {
+            "project-name": "The Team's Project Name",
+            "description": "A description.",
+            "tas": ["Whoever", "Were", "The", "TAs", "Supervising", "The", "Project"],
+            "members": ["Students", "Who", "Contributed"],
+            "images": ["path/image1", "path/image2", "path/image3"]
+          }
+      ]
+    },
+    {
+      "semester": "Summer 2020",
+      "professor": "Dr. Thomas",
+      "projects": [...]
+    }
+  ]
+}
+```
+
 ## Available Scripts
 
 In the project directory, you can run:

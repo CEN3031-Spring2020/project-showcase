@@ -1,0 +1,51 @@
+{
+  "semesters": [
+    {
+      "semester": "Spring 2020",
+      "professor": "Dr. Thomas",
+      "projects": [
+        {
+          "project-name": "A Project",
+          "description": "This is a short blurb about the project",
+          "tas": ["Overlord Jon", "Pasta Luigi"],
+          "members": ["Jon", "Con", "and the Biz"],
+          "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+        },
+        {
+          "project-name": "A Project",
+          "description": "This is a short blurb about the project",
+          "tas": ["Overlord Jon"],
+          "members": ["Jon", "Con", "and the Secondary Biz"],
+          "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+        },
+        {
+          "project-name": "A Project2",
+          "description": "This is a short blurb about the project",
+          "tas": ["Overlord Jon"],
+          "members": ["Jon", "Con", "and the Tertiary Biz"],
+          "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+        },
+        {
+          "project-name": "A Project2",
+          "description": "This is a short blurb about the project",
+          "tas": ["Overlord Jon"],
+          "members": ["Jon", "Con", "and the Quaternary Biz"],
+          "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+        }
+      ]
+    },
+    {
+      "semester": "Summer 2020",
+      "professor": "Dr. Thomas",
+      "projects": [
+        {
+          "project-name": "A Project2",
+          "description": "This is a short blurb about the project",
+          "tas": ["Overlord Jon"],
+          "members": ["Jon", "Con", "and the Quaternary Biz"],
+          "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+        }
+      ]
+    }
+  ]
+}

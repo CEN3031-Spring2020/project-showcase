@@ -7,8 +7,8 @@ import Navbar from "./components/Navbar/Navbar";
 
 const App = () => {
     return (
-        <div>
-            <Navbar />
+        <div style={{backgroundColor: '#424549'}}>
+            <Navbar/>
             <Switch>
                 <Route exact path="/Home" component={Home} />
                 <Route exact path="/">
