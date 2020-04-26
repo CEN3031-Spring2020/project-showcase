@@ -3,8 +3,7 @@ import ProjectBox from '../components/ProjectBox/ProjectBox';
 import bestProjects from '../assets/bestProjects.json';
 
 function Home() {
-
-    return(
+    return (
         <div>
             <ProjectBox bestProjects={bestProjects.projects[0]}/>
         </div>

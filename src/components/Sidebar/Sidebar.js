@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, {useContext, useEffect, useState} from "react";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import Divider from "@material-ui/core/Divider";
@@ -14,15 +14,16 @@ import IconExpandMore from '@material-ui/icons/ExpandMore'
 
 import IconLibraryBooks from '@material-ui/icons/LibraryBooks'
 import {createStyles} from "@material-ui/core";
+import {ThemeContext} from "../../App";
 
-function MenuItem({semester: semesters}) {
+function MenuItem({semester: currSemester}) {
     const classes = useInnerStyles();
     const [open, setOpen] = useState(false);
 
     const [projs, setProjects] = useState({});
     useEffect(() => {
         const projs = {};
-        semesters.projects.forEach(curr => {
+        currSemester.projects.forEach(curr => {
             if (projs[curr["project-name"]])
                 projs[curr['project-name']].push(curr);
             else
@@ -34,19 +35,20 @@ function MenuItem({semester: semesters}) {
     function handleClick() {
         setOpen(!open);
     }
+    const scheme = useContext(ThemeContext);
 
     return (
         <div>
             <ListItem button onClick={handleClick} className={classes.menuItem}>
-                <ListItemIcon className={classes.menuItemIcon}>
+                <ListItemIcon className={classes.menuItemIcon} style={{color: scheme.menuItemIcon}}>
                     <IconLibraryBooks/>
                 </ListItemIcon>
-                <ListItemText primary={semesters.semester}/>
+                <ListItemText primary={currSemester.semester}/>
                 {open ? <IconExpandLess/> : <IconExpandMore/>}
             </ListItem>
             {
-                semesters.projects.length > 0 ?
-                    generateCollapseMenus(projs, classes, open, semesters.semester) : null
+                currSemester.projects.length > 0 ?
+                    generateCollapseMenus(projs, classes, open, currSemester.semester) : null
             }
         </div>
     )
@@ -82,6 +84,7 @@ function Menu({items}) {
 }
 
 function Sidebar({items}) {
+
     const classes = useStyles();
     return (
         <div className="h-full sticky top-0">
@@ -140,7 +143,6 @@ const useInnerStyles = makeStyles(theme =>
             overflow: 'hidden'
         },
         menuItemIcon: {
-            color: '#09d3ac',
             overflow: 'hidden'
         },
     }),

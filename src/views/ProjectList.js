@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React, {useContext, useEffect, useState} from 'react';
 import SideBar from '../components/Sidebar/Sidebar';
 import projects from '../assets/projs.json';
 import '../css/tailwind.css';
@@ -6,6 +6,7 @@ import Modal from "@material-ui/core/Modal";
 import Fade from "@material-ui/core/Fade";
 import Backdrop from "@material-ui/core/Backdrop";
 import {makeStyles} from "@material-ui/core/styles";
+import {ThemeContext} from "../App";
 
 function getSemesters() {
     let semesters = projects.semesters;
@@ -57,12 +58,13 @@ function ProjectList() {
 }
 
 const Semester = (props) => {
+    const scheme = useContext(ThemeContext);
     return (
         <div style={{
             'backgroundColor': '#1e2124', 'maxWidth': '75%', 'marginLeft': '12%',
             'marginRight': '2em',
             'marginTop': '2em',
-            'color': 'white',
+            'color': scheme.semesterTitleColor,
             'paddingTop': '0.05em'
         }}>
 
@@ -88,19 +90,18 @@ const Projects = (props) => {
     return (
         <>
             {
-                Object.keys(projs).length > 0 ? Object.keys(projs).map(key => <Project
-                    name={key} semester={props.semester} description={projs[key][0]['description']}
-                    data={projs[key]}/>) : null
+                Object.keys(projs).length > 0 ? Object.keys(projs).map(key => <Project name={key} semester={props.semester} description={projs[key][0]['description']} data={projs[key]}/>) : null
             }
         </>
     )
 };
 
 const Project = (props) => {
+    const scheme = useContext(ThemeContext);
     const hrStyle = {
         'border': 0,
         'height': '1px',
-        'background-image': 'linear-gradient(to right, rgba(0, 0, 0, 0), rgba(9, 211, 172, 0.75), rgba(0, 0, 0, 0))'
+        'background-image': scheme.projectHRColor
     };
 
     return (
@@ -109,7 +110,7 @@ const Project = (props) => {
                 'display': 'block',
                 'backgroundColor': '#282b30',
                 'padding': '20px',
-                'color': '#09D3AC',
+                'color': scheme.projectDescText,
                 "text-shadow": "0 1px 2px rgba(0,0,0,0.4)"
             }}>
                 <h2 id={props.semester + props.name}><span style={{'color': 'white', 'line-height': '0px'}}>Project Name:</span> {props.name}
@@ -203,7 +204,9 @@ function TransitionsModal({toggleState, image, setToggle}) {
             >
                 <Fade in={open}>
                     <div className='focus:outline-none shadow-xl'>
-                        <img className='transition duration-1000 ease-in-out border-transparent border border-solid border-t-0 border-l-0 border-r-0 hover:border-gray-400 w-full h-full' src={image}/>
+                        <img
+                            className='transition duration-1000 ease-in-out border-transparent border border-solid border-t-0 border-l-0 border-r-0 hover:border-gray-400 w-full h-full'
+                            src={image}/>
                     </div>
                 </Fade>
             </Modal>
