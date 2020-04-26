@@ -5,45 +5,242 @@
       "professor": "Dr. Thomas",
       "projects": [
         {
-          "project-name": "A Project",
+          "project-name": "Gonzalo Law",
           "description": "This is a short blurb about the project",
-          "tas": ["Overlord Jon", "Pasta Luigi"],
-          "members": ["Jon", "Con", "and the Biz"],
-          "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+          "tas": ["Dakota Rennemann", "Jon Conlin"],
+          "members": ["Michael Altomare"],
+          "images": ["images/spring20/3/S20_3_leftovers_1.gif","images/spring20/3/S20_3_leftovers_2.gif","images/spring20/3/S20_3_leftovers_3.gif"]
         },
         {
-          "project-name": "A Project",
+          "project-name": "Gonzalo Law",
           "description": "This is a short blurb about the project",
-          "tas": ["Overlord Jon"],
-          "members": ["Jon", "Con", "and the Secondary Biz"],
-          "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+          "tas": ["Dakota Rennemann", "Jon Conlin"],
+          "members": ["Pablo Estrada", "Edward Mensah", "Herman Perera", "Hutchinson VanDyke", "Nathaniel Stull", "Tyler Metzger"],
+          "images": ["images/spring20/3/S20_P3_TeamEggs_1.gif","images/spring20/3/S20_P3_TeamEggs_2.gif","images/spring20/3/S20_P3_TeamEggs_3.gif"]
         },
         {
-          "project-name": "A Project2",
+          "project-name": "Gonzalo Law",
           "description": "This is a short blurb about the project",
-          "tas": ["Overlord Jon"],
-          "members": ["Jon", "Con", "and the Tertiary Biz"],
-          "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+          "tas": ["Dakota Rennemann", "Jon Conlin"],
+          "members": ["Daniel Alvarez", "Connor Bolick", "Andres Holguin", "Luke Jones", "Anna Lanzino", "Yashiya Sylvester"],
+          "images": ["images/spring20/3/S20_3_redplusyellow_1.gif","images/spring20/3/S20_3_redplusyellow_2.gif","images/spring20/3/S20_3_redplusyellow_3.gif"]
         },
         {
-          "project-name": "A Project2",
+          "project-name": "Gonzalo Law",
           "description": "This is a short blurb about the project",
-          "tas": ["Overlord Jon"],
-          "members": ["Jon", "Con", "and the Quaternary Biz"],
-          "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
-        }
-      ]
-    },
-    {
-      "semester": "Summer 2020",
-      "professor": "Dr. Thomas",
-      "projects": [
+          "tas": ["Dakota Rennemann", "Jon Conlin"],
+          "members": ["Austin Kuyrkendall", "Rohan Saini", "Raul Salazar", "Camilo Catasus", "Sarah Wheeler", "Luis Gruber"],
+          "images": ["images/spring20/3/S20_3_NoShow_1.gif","images/spring20/3/S20_3_NoShow_2.gif","images/spring20/3/S20_3_NoShow_3.gif"]
+        },
         {
-          "project-name": "A Project2",
+          "project-name": "Gonzalo Law",
           "description": "This is a short blurb about the project",
-          "tas": ["Overlord Jon"],
-          "members": ["Jon", "Con", "and the Quaternary Biz"],
-          "images": ["images/600x400.png","images/600x400.png","images/600x400.png"]
+          "tas": ["Dakota Rennemann", "Jon Conlin"],
+          "members": ["Siyu Chen", "Jack Zheng", "Adriel Mohammed", "Skylar McCain"],
+          "images": ["images/spring20/3/S20_3_Help_1.gif","images/spring20/3/S20_3_Help_2.gif","images/spring20/3/S20_3_Help_3.gif"]
+        },
+        {
+          "project-name": "Heavenly Writing",
+          "description": "This is a short blurb about the project",
+          "tas": ["Dakota Rennemann", "Jon Conlin"],
+          "members": ["Kaitlyn O’Hern", "Andrew Kennedy", "Ryan O’Keefe", "Michael McAllister", "Chris Schaefer", "Andrew Kim", "Amogh Agarwal", "Song Li"],
+          "images": ["images/spring20/4/S20_4_TeamAzul_1.gif","images/spring20/4/S20_4_TeamAzul_2.gif","images/spring20/4/S20_4_TeamAzul_3.gif"]
+        },
+        {
+          "project-name": "Heavenly Writing",
+          "description": "This is a short blurb about the project",
+          "tas": ["Dakota Rennemann", "Jon Conlin"],
+          "members": ["Jack Wittmayer", "Joseph Cortez", "Kenneth Schultz", "Marcin Karcz", "Melinda Chhu", "Nickolas Phen", "Ziyad Morsi"],
+          "images": ["images/spring20/4/S20_4_GreenTeam_1.gif","images/spring20/4/S20_4_GreenTeam_2.gif","images/spring20/4/S20_4_GreenTeam_3.gif"]
+        },
+        {
+          "project-name": "Attractions Salon",
+          "description": "This is a short blurb about the project",
+          "tas": ["Paola Solari", "Bao Nguyen"],
+          "members": ["Adithya Haridas", "Dylan Hawley", "Jessica O’Dell", "Adrian Salazar", "Adam Opyrchal", "Caleb Wong", "Kasey Kaufmann"],
+          "images": ["images/spring20/5/S20_5_Bootcamp5_1.gif","images/spring20/5/S20_5_Bootcamp5_2.gif","images/spring20/5/S20_5_Bootcamp5_3.gif"]
+        },
+        {
+          "project-name": "Attractions Salon",
+          "description": "This is a short blurb about the project",
+          "tas": ["Paola Solari", "Bao Nguyen"],
+          "members": ["Charles Charlestin", "Gabriel Rodriguez Torres", "Luke Antoljak", "Jewel Posniak", "Enzo Egues Dominguez", "Sophie Lesher", "Brian Koehler"],
+          "images": ["images/spring20/5/S20_5_CodeMonkeys_1.gif","images/spring20/5/S20_5_CodeMonkeys_2.gif","images/spring20/5/S20_5_CodeMonkeys_3.gif"]
+        },
+        {
+          "project-name": "Attractions Salon",
+          "description": "This is a short blurb about the project",
+          "tas": ["Paola Solari", "Bao Nguyen"],
+          "members": ["Aaliyah Richlen", "Addison Biaggi", "Gary Wu", "Noah Zinn", "Randolph Maynes", "Santoshkrishna Tirumala", "Soham Kale"],
+          "images": ["images/spring20/5/S20_5_Thunderbolt_1.gif","images/spring20/5/S20_5_Thunderbolt_2.gif","images/spring20/5/S20_5_Thunderbolt_3.gif"]
+        },
+        {
+          "project-name": "Attractions Salon",
+          "description": "This is a short blurb about the project",
+          "tas": ["Paola Solari", "Bao Nguyen"],
+          "members": ["Lauren Newman", "Christopher Miller", "Dhruv Patel", "Tommy Tu", "Alen James●Matthew Ruiz"],
+          "images": ["images/spring20/5/S20_5_Swee_1.gif","images/spring20/5/S20_5_Swee_2.gif","images/spring20/5/S20_5_Swee_3.gif"]
+        },
+        {
+          "project-name": "Consider Herbs",
+          "description": "This is a short blurb about the project",
+          "tas": ["Paola Solari", "Daniel Garzon Moreno"],
+          "members": ["Sumanth Aluri", "Nathan Andreo", "Keanu Budham", "Olga Cabrera Hernandez", "Grey Johnson", "Arham Khan", "Cosima West"],
+          "images": ["images/spring20/6/S20_6_NonTraditionalists_1.gif","images/spring20/6/S20_6_NonTraditionalists_2.gif","images/spring20/6/S20_6_NonTraditionalists_3.gif"]
+        },
+        {
+          "project-name": "Consider Herbs",
+          "description": "This is a short blurb about the project",
+          "tas": ["Paola Solari", "Daniel Garzon Moreno"],
+          "members": ["Zlata Itkin", "Vinicius Martinson", "Vinicius Martinson", "Davis Rash", "Cole Frishman", "Zlata Itkin", "Manuel Cordero", "Andrew Bricero", "Jeremy Tinana"],
+          "images": ["images/spring20/6/S20_6_ShortOnTime_1.gif","images/spring20/6/S20_6_ShortOnTime_2.gif","images/spring20/6/S20_6_ShortOnTime_3.gif"]
+        },
+        {
+          "project-name": "Consider Herbs",
+          "description": "This is a short blurb about the project",
+          "tas": ["Paola Solari", "Daniel Garzon Moreno"],
+          "members": ["Derek Leonhardt", "Oluwaseyi Oluwaleimu", "Christina Carlson", "Hosung Lee", "Paul Lundgren", "Srecko Markovic"],
+          "images": ["images/spring20/6/S20_6_HomeopathicHomies_1.gif","images/spring20/6/S20_6_HomeopathicHomies_2.gif","images/spring20/6/S20_6_HomeopathicHomies_3.gif"]
+        },
+        {
+          "project-name": "Consider Herbs",
+          "description": "This is a short blurb about the project",
+          "tas": ["Paola Solari", "Daniel Garzon Moreno"],
+          "members": ["Eric De Rezende", "Anna Villena", "Gavin Gui", "Benji Labonte", "Djoni Austin", "Rafael Gonzalez"],
+          "images": ["images/spring20/6/S20_P6_HerbalMed_1.gif","images/spring20/6/S20_P6_HerbalMed_2.gif","images/spring20/6/S20_P6_HerbalMed_3.gif"]
+        },
+        {
+          "project-name": "Neuro Navigation",
+          "description": "This is a short blurb about the project",
+          "tas": ["Bao Nguyen", "Daniel Garzon Moreno"],
+          "members": ["Wesley Finch", "Alan Nguyen", "Christie Ruales", "Rohan Samanta", "Andrew Sowinski", "Rohil Tuli", "Megan Wolf"],
+          "images": ["images/spring20/7/S20_7_Group4_1.gif","images/spring20/7/S20_7_Group4_2.gif","images/spring20/7/S20_7_Group4_3.gif"]
+        },
+        {
+          "project-name": "Neuro Navigation",
+          "description": "This is a short blurb about the project",
+          "tas": ["Bao Nguyen", "Daniel Garzon Moreno"],
+          "members": ["Laurel Vernon", "Jaeyong Sin", "Olivia Dunbar", "Ezra Lee", "Sabrina Snider", "Tyler Mueller", "Prerna Arora"],
+          "images": ["images/spring20/7/S20_7_Braniacs_1.gif","images/spring20/7/S20_7_Braniacs_2.gif","images/spring20/7/S20_7_Braniacs_3.gif"]
+        },
+        {
+          "project-name": "Neuro Navigation",
+          "description": "This is a short blurb about the project",
+          "tas": ["Bao Nguyen", "Daniel Garzon Moreno"],
+          "members": ["Jordi Bardia", "Andrew Gil", "Jasmine Liu", "Alec Shears", "Shada Thykandy", "Ailish Tierney", "Saw Luke Loo Wah"],
+          "images": ["images/spring20/7/S20_7_HealthTech_1.gif","images/spring20/7/S20_7_HealthTech_2.gif","images/spring20/7/S20_7_HealthTech_3.gif"]
+        },
+        {
+          "project-name": "Neuro Navigation",
+          "description": "This is a short blurb about the project",
+          "tas": ["Bao Nguyen", "Daniel Garzon Moreno"],
+          "members": ["Jason Fernandez", "Samia Gilani", "Peyton Marinelli", "Alyssa Marotta", "Darren Wang", "Bradon Zhang"],
+          "images": ["images/spring20/7/S20_7_Neuro6_1.gif","images/spring20/7/S20_7_Neuro6_2.gif","images/spring20/7/S20_7_Neuro6_3.gif"]
+        },
+        {
+          "project-name": "DC Rock Fitness",
+          "description": "This is a short blurb about the project",
+          "tas": ["Melissa Perez", "Fernando Rivera"],
+          "members": ["Geneva Anderson", "Norland Batista", "Connor Catlett", "Christopher Clarke", "Zoe Frongillo", "Jovanny Vera"],
+          "images": ["images/spring20/8/S20_8_TeamA_1.gif","images/spring20/8/S20_8_TeamA_2.gif","images/spring20/8/S20_8_TeamA_3.gif"]
+        },
+        {
+          "project-name": "DC Rock Fitness",
+          "description": "This is a short blurb about the project",
+          "tas": ["Melissa Perez", "Fernando Rivera"],
+          "members": ["Hunter Young", "Zachary Jackson", "Gianfranco Cortes", "Munish Tanwar", "Ajay Patel", "Nate Strand", "Christopher Heydolph"],
+          "images": ["images/spring20/8/S20_8_runEscape_1.gif","images/spring20/8/S20_8_runEscape_2.gif","images/spring20/8/S20_8_runEscape_3.gif"]
+        },
+        {
+          "project-name": "DC Rock Fitness",
+          "description": "This is a short blurb about the project",
+          "tas": ["Melissa Perez", "Fernando Rivera"],
+          "members": ["Derek Mackey", "Connor Meacham", "Eric Navar", "Benjamin Rheault", "Rachel Romaine", "David Sadowsky", "Edilberto Torres"],
+          "images": ["images/spring20/8/S20_8_UnicornTurtleGang_1.gif","images/spring20/8/S20_8_UnicornTurtleGang_2.gif","images/spring20/8/S20_8_UnicornTurtleGang_3.gif"]
+        },
+        {
+          "project-name": "Teach. Leave. Live.",
+          "description": "This is a short blurb about the project",
+          "tas": ["Shaila Patel", "Fernando Rivera"],
+          "members": ["Spencer Bass", "Amanda Aribe", "Brian Barker", "Simon Frank", "Juyeong (Daniel) Park", "Omer Amir"],
+          "images": ["images/spring20/9/S20_9_SuperFriends_1.gif","images/spring20/9/S20_9_SuperFriends_2.gif","images/spring20/9/S20_9_SuperFriends_3.gif"]
+        },
+        {
+          "project-name": "Teach. Leave. Live.",
+          "description": "This is a short blurb about the project",
+          "tas": ["Shaila Patel", "Fernando Rivera"],
+          "members": ["Natascha Kempfe", "Ryan Widgeon", "Matthew Lamperski", "Connor Bullock", "Dylan Booth", "Michael Hoffman", "Noah Rieck"],
+          "images": ["images/spring20/9/S20_9_DevOps_1.gif","images/spring20/9/S20_9_DevOps_2.gif","images/spring20/9/S20_9_DevOps_3.gif"]
+        },
+        {
+          "project-name": "Teach. Leave. Live.",
+          "description": "This is a short blurb about the project",
+          "tas": ["Shaila Patel", "Fernando Rivera"],
+          "members": ["Daniel D'Alessandro", "Thomas Domas", "Martin Lasprilla", "Andrew Rodrigues", "Ciara Sadaka", "Brandon Wand", "Andrew Watson"],
+          "images": ["images/spring20/9/S20_9_WeAreNumber4s_1.gif","images/spring20/9/S20_9_WeAreNumber4s_2.gif","images/spring20/9/S20_9_WeAreNumber4s_3.gif"]
+        },
+        {
+          "project-name": "Teach. Leave. Live.",
+          "description": "This is a short blurb about the project",
+          "tas": ["Shaila Patel", "Fernando Rivera"],
+          "members": ["Patrick Bower", "Kyle Cheng", "Marissa Garcia", "Alejandro Lopez", "Kevin Nguyen", "Agnieszka Tomasik", "Brandon Wojtaszak"],
+          "images": ["images/spring20/9/S20_P9_DreamTeam_1.gif","images/spring20/9/S20_P9_DreamTeam_2.gif","images/spring20/9/S20_P9_DreamTeam_3.gif"]
+        },
+        {
+          "project-name": "City Traffic",
+          "description": "This is a short blurb about the project",
+          "tas": ["Alex Prascak", "Michael Nunn"],
+          "members": ["Ryan Ahmed", "David Gutierrez", "Riad Becirevic", "Gabriel Coto", "John Hook", "Nathan Schwartz"],
+          "images": ["images/spring20/10/S20_10_Codewire_1.gif","images/spring20/10/S20_10_Codewire_2.gif","images/spring20/10/S20_10_Codewire_3.gif"]
+        },
+        {
+          "project-name": "City Traffic",
+          "description": "This is a short blurb about the project",
+          "tas": ["Alex Prascak", "Michael Nunn"],
+          "members": ["Jose Bouza", "Bryan Delgado", "Alexis Dougherty", "Dillon McGovern", "Vince Salapuddin", "Geoffrey Simon", "David Wang"],
+          "images": ["images/spring20/10/S20_10_Coders_1.gif","images/spring20/10/S20_10_Coders_2.gif","images/spring20/10/S20_10_Coders_3.gif", "images/spring20/10/S20_10_Coders_4.gif"]
+        },
+        {
+          "project-name": "City Traffic",
+          "description": "This is a short blurb about the project",
+          "tas": ["Alex Prascak", "Michael Nunn"],
+          "members": ["Adam Van Belkum", "Brock Major", "Elijah Springer", "Ethan Sodikromo", "Grant Boicheff", "Kareem Joudeh", "Matthew Petela"],
+          "images": ["images/spring20/10/S20_10_ATeam_1.gif","images/spring20/10/S20_10_ATeam_2.gif","images/spring20/10/S20_10_ATeam_3.gif"]
+        },
+        {
+          "project-name": "City Traffic",
+          "description": "This is a short blurb about the project",
+          "tas": ["Alex Prascak", "Michael Nunn"],
+          "members": ["Joshua Zimmerman", "Joshua Gerstenfeld", "Cameron White", "Aaron Gonzalez", "Cameron Self", "Garrick Sewsankar", "Julia Mckay"],
+          "images": ["images/spring20/10/S20_10_teamDoubleName_1.gif","images/spring20/10/S20_10_teamDoubleName_2.gif","images/spring20/10/S20_10_teamDoubleName_3.gif"]
+        },
+        {
+          "project-name": "Surgeon Tools",
+          "description": "This is a short blurb about the project",
+          "tas": ["Alex Prascak", "Michael Nunn"],
+          "members": ["Antonio Antonian", "Jiahao Fan", "Cassandra Patterson", "Yaswanth Potluri", "Benjamin Simon", "Tyler Toper", "Trevor Vente"],
+          "images": ["images/spring20/11/S20_11_Coders_Unite_1.gif","images/spring20/11/S20_11_Coders_Unite_2.gif","images/spring20/11/S20_11_Coders_Unite_3.gif"]
+        },
+        {
+          "project-name": "Surgeon Tools",
+          "description": "This is a short blurb about the project",
+          "tas": ["Alex Prascak", "Michael Nunn"],
+          "members": ["Robert Casanova", "Zach Cowan", "Willy Deng", "Drew Gill", "Arun Jairam", "Nick Orrick", "Alex Towriss"],
+          "images": ["images/spring20/11/S20_11_Group2_1.gif","images/spring20/11/S20_11_Group2_2.gif","images/spring20/11/S20_11_Group2_3.gif"]
+        },
+        {
+          "project-name": "Surgeon Tools",
+          "description": "This is a short blurb about the project",
+          "tas": ["Alex Prascak", "Michael Nunn"],
+          "members": ["Christopher Cooper", "Raymond Figueroa", "Wyatt Townsend", "Jeremy Triplett", "Griffin West", "Michael Wollenhaup", "Lutong Zhang"],
+          "images": ["images/spring20/11/S20_11_Doctor'sCoder_1.gif","images/spring20/11/S20_11_Doctor'sCoder_2.gif","images/spring20/11/S20_11_Doctor'sCoder_3.gif"]
+        },
+        {
+          "project-name": "Surgeon Tools",
+          "description": "This is a short blurb about the project",
+          "tas": ["Alex Prascak", "Michael Nunn"],
+          "members": ["Mohammed Immam", "Zane Zudans", "Carlos Morales-Diaz", "Vishvak Seenichamy", "Alexis Vega", "Ahsan Rohan"],
+          "images": ["images/spring20/11/S20_11_MedDevelopers_1.gif","images/spring20/11/S20_11_MedDevelopers_2.gif","images/spring20/11/S20_11_MedDevelopers_3.gif"]
         }
       ]
     }
