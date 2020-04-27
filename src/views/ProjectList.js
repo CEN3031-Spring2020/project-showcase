@@ -90,7 +90,10 @@ const Projects = (props) => {
     return (
         <>
             {
-                Object.keys(projs).length > 0 ? Object.keys(projs).map(key => <Project name={key} semester={props.semester} description={projs[key][0]['description']} data={projs[key]}/>) : null
+                Object.keys(projs).length > 0 ? Object.keys(projs).map(key => <Project name={key}
+                                                                                       semester={props.semester}
+                                                                                       description={projs[key][0]['description']}
+                                                                                       data={projs[key]}/>) : null
             }
         </>
     )
@@ -150,7 +153,7 @@ const Project = (props) => {
                                 'grid-gap': '0.5em',
                             }} className='justify-center'>
                                 {
-                                    proj.images.map(image => <Image image={image}/>)
+                                    proj.images.map(image => <Image className='w-full' image={image}/>)
                                 }
                             </div>
                             <br/>
@@ -167,9 +170,9 @@ const Image = ({image}) => {
     const [open, setOpen] = useState(false);
 
     return <>
-        <img onClick={() => setOpen(!open)}
-             className='w-full overflow-visible transition duration-300 ease-in-out cursor-pointer border-transparent border border-solid hover:border-gray-400'
-             src={image}
+        <div onClick={() => setOpen(!open)}
+             style={{'height': '20vh', 'background-image': `url(\'${image}\')`}}
+             className='w-full bg-cover overflow-visible transition duration-300 ease-in-out cursor-pointer border-transparent border border-solid hover:border-gray-400'
              alt='Not found.'/>
         <div className='absolute'>
             <TransitionsModal toggleState={open} image={image} setToggle={setOpen}/>
