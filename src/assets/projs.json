@@ -734,6 +734,110 @@
             "images/spring20/11/S20_11_MedDevelopers_2.gif",
             "images/spring20/11/S20_11_MedDevelopers_3.gif"
           ]
+        },
+        {
+          "project-name": "Career Clusters",
+          "description": "This is a short blurb about the project",
+          "tas": [
+            "Shaila Patel", "Melissa Perez"
+          ],
+          "members": [
+            "Valerie Prater",
+            "Jose Bautista",
+            "Moise Jean",
+            "Luis Aparicio"
+          ],
+          "images": [
+            "images/spring20/online/S20_online_Group1_1.gif",
+            "images/spring20/online/S20_online_Group1_2.gif",
+            "images/spring20/online/S20_online_Group1_3.gif"
+          ]
+        },
+        {
+          "project-name": "Career Clusters",
+          "description": "This is a short blurb about the project",
+          "tas": [
+            "Shaila Patel", "Melissa Perez"
+          ],
+          "members": [
+            "Ashley Adames",
+            "Noah Cline",
+            "Luis Venereo",
+            "Kyler Katz"
+          ],
+          "images": [
+            "images/spring20/online/S20_online_2_1.gif",
+            "images/spring20/online/S20_online_2_2.gif",
+            "images/spring20/online/S20_online_2_3.gif"
+          ]
+        },
+        {
+          "project-name": "Career Clusters",
+          "description": "This is a short blurb about the project",
+          "tas": [
+            "Shaila Patel", "Melissa Perez"
+          ],
+          "members": [
+            "Stephen McDonald",
+            "Javier Perez",
+            "Joshua Main-Smith"
+          ],
+          "images": [
+            "images/spring20/online/S20_online_3_1.gif",
+            "images/spring20/online/S20_online_3_2.gif",
+            "images/spring20/online/S20_online_3_3.gif"
+          ]
+        },
+        {
+          "project-name": "Career Clusters",
+          "description": "This is a short blurb about the project",
+          "tas": [
+            "Shaila Patel", "Melissa Perez"
+          ],
+          "members": [
+            "Christian de Guzman",
+            "Travis Groesbeck",
+            "Kelsey Dewey"
+          ],
+          "images": [
+            "images/spring20/online/S20_online_4_1.gif",
+            "images/spring20/online/S20_online_4_2.gif",
+            "images/spring20/online/S20_online_4_3.gif"
+          ]
+        },
+        {
+          "project-name": "Career Clusters",
+          "description": "This is a short blurb about the project",
+          "tas": [
+            "Shaila Patel", "Melissa Perez"
+          ],
+          "members": [
+            "David Hellmer",
+            "Justin Charles Calma",
+            "Rachana Podaralla"
+          ],
+          "images": [
+            "images/spring20/online/S20_online_5_1.gif",
+            "images/spring20/online/S20_online_5_2.gif",
+            "images/spring20/online/S20_online_5_3.gif"
+          ]
+        },
+        {
+          "project-name": "Career Clusters",
+          "description": "This is a short blurb about the project",
+          "tas": [
+            "Shaila Patel", "Melissa Perez"
+          ],
+          "members": [
+            "Brian Hicks",
+            "Robert Caplin",
+            "Brian Snow"
+          ],
+          "images": [
+            "images/spring20/online/S20_online_6_1.gif",
+            "images/spring20/online/S20_online_6_2.gif",
+            "images/spring20/online/S20_online_6_3.gif"
+          ]
         }
       ]
     }
