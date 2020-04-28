@@ -4,7 +4,7 @@ import './Navbar.css';
 import {ThemeContext} from "../../App";
 
 const Navbar = ({schemes, setSchemes}) => {
-    const [toggleColor, setToggleColor] = useState(false);
+    const [toggleColor, setToggleColor] = useState(localStorage.getItem('toggleState') ? JSON.parse(localStorage.getItem('toggleState')).currToggle : false);
     const [hover, setHover] = useState({
         button1: false,
         button2: false,
@@ -14,10 +14,11 @@ const Navbar = ({schemes, setSchemes}) => {
 
     useEffect(() => {
         if (toggleColor) {
-            setSchemes(schemes.second)
+            setSchemes(schemes.second);
         } else {
             setSchemes(schemes.first);
         }
+        localStorage.setItem('toggleState', JSON.stringify({currToggle: toggleColor}));
     }, [toggleColor]);
 
     const scheme = useContext(ThemeContext);
@@ -54,20 +55,24 @@ const Navbar = ({schemes, setSchemes}) => {
     return (
         <div className="header">
             {/* Logo */}
-            <Link className="nav-link" style={style.button1} onMouseEnter={() => setHover(doHover(0))} onMouseLeave={() => setHover(doUnhover(0))} to="/">
+            <Link className="nav-link" style={style.button1} onMouseEnter={() => setHover(doHover(0))}
+                  onMouseLeave={() => setHover(doUnhover(0))} to="/">
                 CEN 3031
             </Link>
-            <div className='ml-3 cursor-pointer nav-link' style={style.button2} onMouseEnter={() => setHover(doHover(1))} onMouseLeave={() => setHover(doUnhover(1))}
+            <div className='ml-3 cursor-pointer nav-link' style={style.button2}
+                 onMouseEnter={() => setHover(doHover(1))} onMouseLeave={() => setHover(doUnhover(1))}
                  onClick={() => setToggleColor(!toggleColor)}>
                 Swap Color Scheme
             </div>
 
             {/* Page Links */}
             <div className="nav-items">
-                <Link className="nav-link" style={style.button3} onMouseEnter={() => setHover(doHover(2))} onMouseLeave={() => setHover(doUnhover(2))}
+                <Link className="nav-link" style={style.button3} onMouseEnter={() => setHover(doHover(2))}
+                      onMouseLeave={() => setHover(doUnhover(2))}
                       to='/Home'>Home</Link>
 
-                <Link className="ml-3 nav-link" style={style.button4} onMouseEnter={() => setHover(doHover(3))} onMouseLeave={() => setHover(doUnhover(3))}
+                <Link className="ml-3 nav-link" style={style.button4} onMouseEnter={() => setHover(doHover(3))}
+                      onMouseLeave={() => setHover(doUnhover(3))}
                       to='/Projects'>Projects</Link>
             </div>
         </div>
