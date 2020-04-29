@@ -148,6 +148,48 @@
           ]
         },
         {
+          "project-name": "Heavenly Writing",
+          "description": "This is a short blurb about the project",
+          "tas": [
+            "Dakota Rennemann",
+            "Jon Conlin"
+          ],
+          "members": [
+            "Shaun Fidler",
+            "Kiara Kubo",
+            "Mark Drewry",
+            "Maxwell Rosenzweig",
+            "Oliver Qiu",
+            "Rovaldy Applyrs",
+            "Spencer Dupree"
+          ],
+          "images": [
+            "images/spring20/4/S20_4_MVP_1.gif",
+            "images/spring20/4/S20_4_MVP_2.gif",
+            "images/spring20/4/S20_4_MVP_3.gif"
+          ]
+        },
+        {
+          "project-name": "Heavenly Writing",
+          "description": "This is a short blurb about the project",
+          "tas": [
+            "Dakota Rennemann",
+            "Jon Conlin"
+          ],
+          "members": [
+            "James Boultinghouse",
+            "Josh Chan",
+            "Paul Wei",
+            "Amaya Jimenez",
+            "Logan Welsh"
+          ],
+          "images": [
+            "images/spring20/4/S20_4_DFC_1.gif",
+            "images/spring20/4/S20_4_DFC_2.gif",
+            "images/spring20/4/S20_4_DFC_3.gif"
+          ]
+        },
+        {
           "project-name": "Attractions Salon",
           "description": "This is a short blurb about the project",
           "tas": [
@@ -225,7 +267,8 @@
             "Christopher Miller",
             "Dhruv Patel",
             "Tommy Tu",
-            "Alen James●Matthew Ruiz"
+            "Alen James",
+            "Matthew Ruiz"
           ],
           "images": [
             "images/spring20/5/S20_5_Swee_1.gif",
@@ -449,6 +492,28 @@
             "images/spring20/8/S20_8_runEscape_1.gif",
             "images/spring20/8/S20_8_runEscape_2.gif",
             "images/spring20/8/S20_8_runEscape_3.gif"
+          ]
+        },
+        {
+          "project-name": "DC Rock Fitness",
+          "description": "This is a short blurb about the project",
+          "tas": [
+            "Melissa Perez",
+            "Fernando Rivera"
+          ],
+          "members": [
+            "Ryan Aponte",
+            "Ziyang Fang",
+            "Donald Hartman",
+            "Marco Kalnay",
+            "Max Krieger",
+            "Jing Low",
+            "Ricardo Posadah"
+          ],
+          "images": [
+            "images/spring20/8/S20_8_create_1.gif",
+            "images/spring20/8/S20_8_create_2.gif",
+            "images/spring20/8/S20_8_create_3.gif"
           ]
         },
         {
@@ -837,6 +902,24 @@
             "images/spring20/online/S20_online_6_1.gif",
             "images/spring20/online/S20_online_6_2.gif",
             "images/spring20/online/S20_online_6_3.gif"
+          ]
+        },
+        {
+          "project-name": "Career Clusters",
+          "description": "This is a short blurb about the project",
+          "tas": [
+            "Shaila Patel", "Melissa Perez"
+          ],
+          "members": [
+            "Jesus Gonzalez",
+            "Gabe Fernandez",
+            "Jonathan Rudich",
+            "Kevin Nance"
+          ],
+          "images": [
+            "images/spring20/online/7_1.gif",
+            "images/spring20/online/7_2.gif",
+            "images/spring20/online/7_3.gif"
           ]
         }
       ]
