@@ -55,7 +55,7 @@ const Navbar = ({schemes, setSchemes}) => {
     return (
         <div className="header">
             {/* Logo */}
-            <Link className="nav-link" style={style.button1} onMouseEnter={() => setHover(doHover(0))}
+            {/*<Link className="nav-link" style={style.button1} onMouseEnter={() => setHover(doHover(0))}
                   onMouseLeave={() => setHover(doUnhover(0))} to="/">
                 CEN 3031
             </Link>
@@ -63,7 +63,7 @@ const Navbar = ({schemes, setSchemes}) => {
                  onMouseEnter={() => setHover(doHover(1))} onMouseLeave={() => setHover(doUnhover(1))}
                  onClick={() => setToggleColor(!toggleColor)}>
                 Swap Color Scheme
-            </div>
+            </div>*/}
 
             {/* Page Links */}
             <div className="nav-items">

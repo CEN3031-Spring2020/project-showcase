@@ -9,7 +9,7 @@ import schemes from './views/themes/themes';
 export const ThemeContext = createContext(schemes.first);
 
 const App = () => {
-    const [_schemes, _setSchemes] = useState(localStorage.getItem('toggleState') ? JSON.parse(localStorage.getItem('toggleState')).currToggle ? schemes.second : schemes.first : schemes.first);
+    const [_schemes, _setSchemes] = useState(schemes.second);
 
     return (
         <ThemeContext.Provider value={_schemes}>

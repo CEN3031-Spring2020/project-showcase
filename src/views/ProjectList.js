@@ -67,9 +67,11 @@ const Semester = (props) => {
             'color': scheme.semesterTitleColor,
             'paddingTop': '0.05em'
         }}>
+            {/*University of Florida CEN 3031 Software Engineering Class Web Application Projects */}
 
-            <h1 style={{'text-align': 'center', "text-shadow": "0 1px 2px #000"}}>{props.data.semester}</h1>
-            <Projects projects={props.data.projects} semester={props.data.semester}/>
+            <h1 style={{'text-align': 'center', "text-shadow": "0 1px 2px #000"}} className='pr-4 pl-4'>{props.data.semester}</h1>
+            <h3 style={{'text-align': 'center', "text-shadow": "0 1px 2px #000"}} className='pr-4 pl-4'>{props.data.professor}</h3>
+            <Projects projects={props.data.projects} semester={props.data.semester} prof={props.data.professor}/>
         </div>
     );
 };
@@ -91,9 +93,10 @@ const Projects = (props) => {
         <>
             {
                 Object.keys(projs).length > 0 ? Object.keys(projs).map(key => <Project name={key}
-                    semester={props.semester}
-                    description={projs[key][0]['description']}
-                    data={projs[key]}/>) : null
+                                                                                       semester={props.semester}
+                                                                                       prof={props.prof}
+                                                                                       description={projs[key][0]['description']}
+                                                                                       data={projs[key]}/>) : null
             }
         </>
     )
@@ -116,12 +119,21 @@ const Project = (props) => {
                 'color': scheme.projectDescText,
                 "text-shadow": "0 1px 2px rgba(0,0,0,0.4)"
             }}>
-                <h2 id={props.semester + props.name}><span style={{'color': 'white', 'line-height': '0px'}}>Project Name:</span> {props.name}
+                <h2 id={props.semester + props.name}><span style={{'color': scheme.subtitleText, 'line-height': '0px'}}>Project Name:</span> {props.name}
                 </h2>
-                <h4><span style={{'color': 'white', 'fontWeight': 'bold'}}>Description: </span>{props.description}</h4>
+                <h4><span
+                    style={{'color': scheme.subtitleText, 'fontWeight': 'bold'}}>Description: </span>
+                </h4>
+                <p className='pl-5 pr-5'>{props.description}</p>
                 {
-                    props.data.map(proj => {
+                    props.data.map((proj, index) => {
                         return <div style={{'color': 'white'}}>
+                            <div className='text-center justify-center items-center content-center'>
+                                <div className='pt-6'>
+                                    <p style={{"font-size": "24px", "text-shadow": "0px 0px 2px rgba(0,0,0,0.6)", "color": scheme.teamNameColor}}
+                                        className='underline border border-solid border-b-0 border-t-0 border-l border-r'>Team {index + 1}</p>
+                                </div>
+                            </div>
                             <div style={{'textIndent': '2.5em', 'lineHeight': '0.3em', 'marginTop': '2.5em'}}>
                                 Teaching Assistants:
                                 <div style={{'textIndent': '3em', 'lineHeight': '1.5em'}}>
