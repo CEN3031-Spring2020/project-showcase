@@ -91,9 +91,9 @@ const Projects = (props) => {
         <>
             {
                 Object.keys(projs).length > 0 ? Object.keys(projs).map(key => <Project name={key}
-                                                                                       semester={props.semester}
-                                                                                       description={projs[key][0]['description']}
-                                                                                       data={projs[key]}/>) : null
+                    semester={props.semester}
+                    description={projs[key][0]['description']}
+                    data={projs[key]}/>) : null
             }
         </>
     )
