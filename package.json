@@ -3,6 +3,11 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "authors": [
+    "Jonathan Conlin",
+    "Dakota Rennemann",
+    "Shaila Patel"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

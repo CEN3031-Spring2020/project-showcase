@@ -68,6 +68,11 @@ const Navbar = ({schemes, setSchemes}) => {
                 <span style={{fontSize: '24px', color: scheme.navbarTextColor}}>
                 Web Application Project Showcase
                 </span>
+                <div className='flex flex-wrap w-full font-normal pt-2 pb-0 m-0'>
+                     <span style={{fontSize: '12px', color: scheme.teamNameColor}}>
+                        Site created by: Jonathan Conlin, Dakota Rennemann, and Shaila Patel
+                     </span>
+                </div>
             </div>
 
             {/* Page Links */}
