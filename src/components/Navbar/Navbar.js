@@ -4,7 +4,7 @@ import './Navbar.css';
 import {ThemeContext} from "../../App";
 
 const Navbar = ({schemes, setSchemes}) => {
-    const [toggleColor, setToggleColor] = useState(localStorage.getItem('toggleState') ? JSON.parse(localStorage.getItem('toggleState')).currToggle : false);
+    // const [toggleColor, setToggleColor] = useState(localStorage.getItem('toggleState') ? JSON.parse(localStorage.getItem('toggleState')).currToggle : false);
     const [hover, setHover] = useState({
         button1: false,
         button2: false,
@@ -12,14 +12,14 @@ const Navbar = ({schemes, setSchemes}) => {
         button4: false
     });
 
-    useEffect(() => {
+    /*useEffect(() => {
         if (toggleColor) {
             setSchemes(schemes.second);
         } else {
             setSchemes(schemes.first);
         }
         localStorage.setItem('toggleState', JSON.stringify({currToggle: toggleColor}));
-    }, [toggleColor]);
+    }, [toggleColor]);*/
 
     const scheme = useContext(ThemeContext);
 
@@ -64,6 +64,11 @@ const Navbar = ({schemes, setSchemes}) => {
                  onClick={() => setToggleColor(!toggleColor)}>
                 Swap Color Scheme
             </div>*/}
+            <div className='flex flex-wrap w-1/4 p-3 font-medium' style={{width: '240'}}>
+                <span style={{fontSize: '24px', color: scheme.navbarTextColor}}>
+                Web Application Project Showcase
+                </span>
+            </div>
 
             {/* Page Links */}
             <div className="nav-items">

@@ -1,76 +1,106 @@
 {
-  "projects": [
-    {
-      "project1" : {
-        "id": 1,
-        "description": "This web application services Gonzalo Law Firm and allows clients to monitor their case progress, upload files, monitor upcoming appointments, view lawyers working on their case and pay invoices.",
-        "images": ["images/spring20/3/S20_3_leftovers_1.gif",
-          "images/spring20/3/S20_3_leftovers_2.gif",
-          "images/spring20/3/S20_3_leftovers_3.gif"]
-      },
-      "project2" : {
-        "id": 2,
-        "description": "An astrological wellness web application where clients receive their horoscopes every 2.5 days, when the moon phase changes. The horoscopes are dependent on the user’s ascendant sign, the current moon phase, and the moon sign of the user. When the user subscribes they can receive their horoscopes a via text, email, or through the site.",
-        "images": ["images/spring20/4/S20_4_MVP_1.gif",
-          "images/spring20/4/S20_4_MVP_2.gif",
-          "images/spring20/4/S20_4_MVP_3.gif"]
-      },
-      "project3" : {
-        "id": 3,
-        "description": "Hair salon web application. This website is a platform for potential and current clients of Attractions Salon to request appointments, pay in advance, and access various information about the salon. This information includes basic salon information--location, hours, and salon menu.",
-        "images": ["images/spring20/5/S20_5_Swee_1.gif",
-          "images/spring20/5/S20_5_Swee_2.gif",
-          "images/spring20/5/S20_5_Swee_3.gif"]
-      },
-      "project4" : {
-        "id": 4,
-        "description": "Herbal and holistic life web application. The purpose of this web app is to provide users with herb-based recipes and remedies for common ailments on the body. User can interact with the body model to get specific information about their ailments. Users can also access the forum where they can read and write posts and comment on posts, schedule consultations, sign up for courses and make purchases.",
-        "images": ["images/spring20/6/S20_P6_HerbalMed_1.gif",
-          "images/spring20/6/S20_P6_HerbalMed_2.gif",
-          "images/spring20/6/S20_P6_HerbalMed_3.gif"]
-      },
-      "project5" : {
-        "id": 5,
-        "description": "Patient appointment and navigation web application. The system allows admins of the clinic to create and manage a database of patients as well as appointments for those patients. Admins can set up automatic reminders for their patients as well as send specific texts to patients. Patients can view and manage their appointments as well as view helpful directions from their current location to clinic parking, and then to the clinic.",
-        "images": ["images/spring20/7/S20_7_Group4_1.gif",
-          "images/spring20/7/S20_7_Group4_2.gif",
-          "images/spring20/7/S20_7_Group4_3.gif"]
-      },
-      "project6" : {
-        "id": 6,
-        "description": "Personal trainer workout plan web application.  This is a web  application that  facilitates interaction between  a personal trainer and  the  clients. Through the web application, the personal trainer will have the ability to deliver workout plans and nutritional information that is customized for each client.",
-        "images": ["images/spring20/8/S20_8_TeamA_1.gif",
-          "images/spring20/8/S20_8_TeamA_2.gif",
-          "images/spring20/8/S20_8_TeamA_3.gif"]
-      },
-      "project7" : {
-        "id": 7,
-        "description": "An educator's resource web application. The purpose of this web application is to provide a platform for teachers to learn from each other and provide tools to help teachers in the classroom. The platform allows teachers to sign up for a weekly newsletter, take courses through an LMS system, access blog content and participate in a discussion board.",
-        "images": ["images/spring20/9/S20_9_SuperFriends_1.gif",
-          "images/spring20/9/S20_9_SuperFriends_2.gif",
-          "images/spring20/9/S20_9_SuperFriends_3.gif"]
-      },
-      "project8" : {
-        "id": 8,
-        "description": "A multi city traffic condition and accident web application. The main objective of the web application is to encourage safe driving by reinforcing common road rules and displaying data on traffic accidents per city to foster a competitive spirit for safe driving. Users will be able to see “competing” cities and work towards making their city the one with the safest drivers and least number of traffic accidents.",
-        "images": ["images/spring20/10/S20_10_Codewire_1.gif",
-          "images/spring20/10/S20_10_Codewire_2.gif",
-          "images/spring20/10/S20_10_Codewire_3.gif"]
-      },
-      "project9" : {
-        "id": 9,
-        "description": "A rapid identification of surgical tools web application. the purpose of creating a web application to provide rapid access to photos of surgical instruments using metadata. It allows for quick retrieval of medical tools through keyword search and image identification. Additionally, the system shall allow for analysis of retrieval times for identification of tools taking unusually long to retrieve.",
-        "images": ["images/spring20/11/S20_11_Group2_1.gif",
-          "images/spring20/11/S20_11_Group2_2.gif",
-          "images/spring20/11/S20_11_Group2_3.gif"]
-      },
-      "project10" : {
-        "id": 10,
-        "description": "A career finder web application",
-        "images": ["images/spring20/online/S20_online_4_1.gif",
-          "images/spring20/online/S20_online_4_2.gif",
-          "images/spring20/online/S20_online_4_3.gif"]
-      }
+  "title": "University of Florida CEN 3031 Software Engineering Class Spring 2020 Project Winners",
+  "professor": "Dr. Sanethia Thomas",
+  "projects": {
+    "project1": {
+      "id": 1,
+      "name": "Gonzalo Law",
+      "description": "This web application services Gonzalo Law Firm and allows clients to monitor their case progress, upload files, monitor upcoming appointments, view lawyers working on their case and pay invoices.",
+      "images": [
+        "images/spring20/3/S20_3_leftovers_1.gif",
+        "images/spring20/3/S20_3_leftovers_2.gif",
+        "images/spring20/3/S20_3_leftovers_3.gif"
+      ]
+    },
+    "project2": {
+      "id": 2,
+      "name": "Heavenly Writing",
+      "description": "An astrological wellness web application where clients receive their horoscopes every 2.5 days, when the moon phase changes. The horoscopes are dependent on the user’s ascendant sign, the current moon phase, and the moon sign of the user. When the user subscribes they can receive their horoscopes a via text, email, or through the site.",
+      "images": [
+        "images/spring20/4/S20_4_MVP_1.gif",
+        "images/spring20/4/S20_4_MVP_2.gif",
+        "images/spring20/4/S20_4_MVP_3.gif"
+      ]
+    },
+    "project3": {
+      "id": 3,
+      "name": "Attractions Salon",
+      "description": "Hair salon web application. This website is a platform for potential and current clients of Attractions Salon to request appointments, pay in advance, and access various information about the salon. This information includes basic salon information--location, hours, and salon menu.",
+      "images": [
+        "images/spring20/5/S20_5_Swee_1.gif",
+        "images/spring20/5/S20_5_Swee_2.gif",
+        "images/spring20/5/S20_5_Swee_3.gif"
+      ]
+    },
+    "project4": {
+      "id": 4,
+      "name": "Consider Herbs",
+      "description": "Herbal and holistic life web application. The purpose of this web app is to provide users with herb-based recipes and remedies for common ailments on the body. User can interact with the body model to get specific information about their ailments. Users can also access the forum where they can read and write posts and comment on posts, schedule consultations, sign up for courses and make purchases.",
+      "images": [
+        "images/spring20/6/S20_P6_HerbalMed_1.gif",
+        "images/spring20/6/S20_P6_HerbalMed_2.gif",
+        "images/spring20/6/S20_P6_HerbalMed_3.gif"
+      ]
+    },
+    "project5": {
+      "id": 5,
+      "name": "Neuro Navigation",
+      "description": "Patient appointment and navigation web application. The system allows admins of the clinic to create and manage a database of patients as well as appointments for those patients. Admins can set up automatic reminders for their patients as well as send specific texts to patients. Patients can view and manage their appointments as well as view helpful directions from their current location to clinic parking, and then to the clinic.",
+      "images": [
+        "images/spring20/7/S20_7_Group4_1.gif",
+        "images/spring20/7/S20_7_Group4_2.gif",
+        "images/spring20/7/S20_7_Group4_3.gif"
+      ]
+    },
+    "project6": {
+      "id": 6,
+      "name": "DC Rock Fitness",
+      "description": "Personal trainer workout plan web application.  This is a web  application that  facilitates interaction between  a personal trainer and  the  clients. Through the web application, the personal trainer will have the ability to deliver workout plans and nutritional information that is customized for each client.",
+      "images": [
+        "images/spring20/8/S20_8_TeamA_1.gif",
+        "images/spring20/8/S20_8_TeamA_2.gif",
+        "images/spring20/8/S20_8_TeamA_3.gif"
+      ]
+    },
+    "project7": {
+      "id": 7,
+      "name": "Teach. Leave. Live.",
+      "description": "An educator's resource web application. The purpose of this web application is to provide a platform for teachers to learn from each other and provide tools to help teachers in the classroom. The platform allows teachers to sign up for a weekly newsletter, take courses through an LMS system, access blog content and participate in a discussion board.",
+      "images": [
+        "images/spring20/9/S20_9_SuperFriends_1.gif",
+        "images/spring20/9/S20_9_SuperFriends_2.gif",
+        "images/spring20/9/S20_9_SuperFriends_3.gif"
+      ]
+    },
+    "project8": {
+      "id": 8,
+      "name": "City Traffic",
+      "description": "A multi city traffic condition and accident web application. The main objective of the web application is to encourage safe driving by reinforcing common road rules and displaying data on traffic accidents per city to foster a competitive spirit for safe driving. Users will be able to see “competing” cities and work towards making their city the one with the safest drivers and least number of traffic accidents.",
+      "images": [
+        "images/spring20/10/S20_10_Codewire_1.gif",
+        "images/spring20/10/S20_10_Codewire_2.gif",
+        "images/spring20/10/S20_10_Codewire_3.gif"
+      ]
+    },
+    "project9": {
+      "id": 9,
+      "name": "Surgeon Tools",
+      "description": "A rapid identification of surgical tools web application. The purpose of creating a web application to provide rapid access to photos of surgical instruments using metadata. It allows for quick retrieval of medical tools through keyword search and image identification. Additionally, the system shall allow for analysis of retrieval times for identification of tools taking unusually long to retrieve.",
+      "images": [
+        "images/spring20/11/S20_11_Group2_1.gif",
+        "images/spring20/11/S20_11_Group2_2.gif",
+        "images/spring20/11/S20_11_Group2_3.gif"
+      ]
+    },
+    "project10": {
+      "id": 10,
+      "name": "Career Finder",
+      "description": "Career Finder provides middle school students with easily navigable\ninformation about careers, along with a skills and interests\nsurvey so that they can discover which careers they may be best suited to. The\napp incentivises participation and exploration by tracking the pages the user\nhas visited and giving them points for activity. Administrators of the site can use\nthese points at their discretion to reward students.",
+      "images": [
+        "images/spring20/online/S20_online_4_1.gif",
+        "images/spring20/online/S20_online_4_2.gif",
+        "images/spring20/online/S20_online_4_3.gif"
+      ]
     }
-  ]
+  }
 }

@@ -69,8 +69,10 @@ const Semester = (props) => {
         }}>
             {/*University of Florida CEN 3031 Software Engineering Class Web Application Projects */}
 
-            <h1 style={{'text-align': 'center', "text-shadow": "0 1px 2px #000"}} className='pr-4 pl-4'>{props.data.semester}</h1>
-            <h3 style={{'text-align': 'center', "text-shadow": "0 1px 2px #000"}} className='pr-4 pl-4'>{props.data.professor}</h3>
+            <h1 style={{'text-align': 'center', "text-shadow": "0 1px 2px #000"}}
+                className='pr-4 pl-4'>{props.data.semester} Class Projects</h1>
+            <h3 style={{'text-align': 'center', "text-shadow": "0 1px 2px #000"}}
+                className='pr-4 pl-4'>{props.data.professor}</h3>
             <Projects projects={props.data.projects} semester={props.data.semester} prof={props.data.professor}/>
         </div>
     );
@@ -130,8 +132,13 @@ const Project = (props) => {
                         return <div style={{'color': 'white'}}>
                             <div className='text-center justify-center items-center content-center'>
                                 <div className='pt-6'>
-                                    <p style={{"font-size": "24px", "text-shadow": "0px 0px 2px rgba(0,0,0,0.6)", "color": scheme.teamNameColor}}
-                                        className='underline border border-solid border-b-0 border-t-0 border-l border-r'>Team {index + 1}</p>
+                                    <p style={{
+                                        "font-size": "24px",
+                                        "text-shadow": "1px 2px 2px rgba(0,0,0,0.4)",
+                                        "color": scheme.teamNameColor,
+                                        'backgroundColor': 'rgba(30,33,36, 0.4)'
+                                    }}
+                                       className='p-1 underline border border-solid border-b-0 border-t-0 border-l-2 border-r-0'>Team {index + 1}</p>
                                 </div>
                             </div>
                             <div style={{'textIndent': '2.5em', 'lineHeight': '0.3em', 'marginTop': '2.5em'}}>

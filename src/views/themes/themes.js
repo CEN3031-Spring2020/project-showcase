@@ -1,5 +1,6 @@
 const schemes = {
     first: {
+        navbarTextColor: '#08bd9a',
         homePageTitle: '#08bd9a',
         homePageProfessor: '#08bd9a',
         buttonColor: "#09d3ac",
@@ -13,6 +14,7 @@ const schemes = {
         menuItemIcon: "#09d3ac"
     },
     second: {
+        navbarTextColor: 'rgb(226, 143, 65)',
         homePageTitle: 'rgb(226, 143, 65)',
         homePageProfessor: 'rgb(226, 143, 65)',
         buttonColor: "rgb(0,82,155)",
