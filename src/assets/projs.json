@@ -850,6 +850,58 @@
           ]
         },
         {
+          "project-name": "Home Order",
+          "description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
+          "tas": ["Megan Wolf"],
+          "members": [
+            "Kyle Ginter",
+            "Nicolas Molano",
+            "Joe Seidel",
+            "Noah Smith",
+            "Martin Tolxdorf"
+          ],
+          "images": [
+            "images/summer20/17934/Napper/1.gif",
+            "images/summer20/17934/Napper/2.gif",
+            "images/summer20/17934/Napper/3.gif"
+
+          ]
+        },
+        {
+          "project-name": "Home Order",
+          "description":"This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
+          "tas": ["Megan Wolf"],
+          "members": [
+            "Siyu Chen",
+            "Hudhayfah Ilyas",
+            "Andrew Pereiro",
+            "Sam Reina",
+            "Xuanhao Shi"
+          ],
+          "images": [
+            "images/summer20/17934/MangoDB/1.gif",
+            "images/summer20/17934/MangoDB/2.gif",
+            "images/summer20/17934/MangoDB/3.gif"
+          ]
+        },
+        {
+          "project-name": "Home Order",
+          "description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
+          "tas": ["Megan Wolf"],
+          "members": [
+            "Carson Hamel",
+            "Ashley Kang",
+            "Omar Nasir",
+            "Anthony Neher",
+            "Mark Van Ree"
+          ],
+          "images": [
+            "images/summer20/17935/Spark/1.gif",
+            "images/summer20/17935/Spark/2.gif",
+            "images/summer20/17935/Spark/3.gif"
+          ]
+        },
+        {
           "project-name": "Voter Pass",
           "description": "In an effort to limit long lines and to facilitate social distancing, this solution borrows from Disney’s FastPass to facilitate voting processes. It can be implemented nationwide quickly, easily, securely and with very little new technology.",
           "tas": ["Jack Zheng"],
@@ -900,6 +952,24 @@
           ]
         },
         {
+          "project-name": "Voter Pass",
+          "description": "In an effort to limit long lines and to facilitate social distancing, this solution borrows from Disney’s FastPass to facilitate voting processes. It can be implemented nationwide quickly, easily, securely and with very little new technology.",
+          "tas": ["Megan Wolf"],
+          "members": [
+            "Thomas Burns",
+            "Daniela Fragoso Diaz",
+            "Zack Galpern",
+            "Cooper Martin",
+            "Jacob Sparks"
+          ],
+          "images": [
+            "images/summer20/17935/VPTeam/1.gif",
+            "images/summer20/17935/VPTeam/2.gif",
+            "images/summer20/17935/VPTeam/3.gif"
+          ]
+
+        },
+        {
           "project-name": "Activist Agenda",
           "description": "A distance-policing method for conducting traffic stops.",
           "tas": ["Jack Zheng"],
@@ -931,6 +1001,73 @@
             "images/summer20/17933/The_Crusty_Crabs/1.gif",
             "images/summer20/17933/The_Crusty_Crabs/2.gif",
             "images/summer20/17933/The_Crusty_Crabs/3.gif"
+          ]
+        },
+        {
+          "project-name": "Pin & Protest",
+          "description": "Crowdsourced protest tracker where locations of protests (violent and non-violent) are displayed on a map. It helps people trying to avoid violent protests or join in peaceful ones. Users are central to the implementation. Those witnessing protests can report them on the web app so that others can see their location. There are also protest-specific news feeds where people can upload pictures or updates therefore giving them the possibility to focus on a particular protest and filter out others.",
+          "tas":["Megan Wolf"],
+          "members": [
+            "Cole Fisher",
+            "Pratik Gajjar",
+            "Ismail Hilali",
+            "Alexander Mead",
+            "Isabella  Rodriguez"
+          ],
+          "images":[
+            "images/summer20/17934/The_Crocodiles/1.gif",
+            "images/summer20/17934/The_Crocodiles/2.gif",
+            "images/summer20/17934/The_Crocodiles/3.gif"
+          ]
+        },
+        {
+          "project-name": "CovidShare",
+          "description": "Our project is an interactive COVID-19 database. The goal of the web application is to serve as both a formal and informal resource guide for COVID-19. In this web application we will provide information and statistics about the disease, as well as provide a platform for those who have had the disease and want to inform others about their experience.",
+          "tas": ["Megan Wolf"],
+          "members": [
+            "Timothy Krause",
+            "Mini Luo",
+            "Moises  Rodan",
+            "Erik Rosa",
+            "Adrian Wright"
+          ],
+          "images": [
+            "images/summer20/17934/CovidShare/1.gif",
+            "images/summer20/17934/CovidShare/2.gif",
+            "images/summer20/17934/CovidShare/3.gif"
+          ]
+        },
+        {
+          "project-name": "Homeroom Professor",
+          "description": "This is a volunteer service for faculty in colleges to be able to tutor elementary, middle, and high school students. This is in response to the pandemic in which all schools are online. This service will help parents and teachers, provide opportunity for students to interact with professors from college, and allow people in higher education to give back and be viewed as role models to encourage students that they can be anything they want to be.",
+          "tas": ["Megan Wolf"],
+          "members": [
+            "Tyler Allen",
+            "Frank Camargo",
+            "Daniel Labes",
+            "Ammar Syed"
+          ],
+          "images": [
+            "images/summer20/17935/SwampBuddies/1.gif",
+            "images/summer20/17935/SwampBuddies/2.gif",
+            "images/summer20/17935/SwampBuddies/3.gif"
+          ]
+        },
+        {
+          "project-name": "VoterCon",
+          "description": "An application that allows voters of all different political ideologies and backgrounds to get polling location information and compare candidate policies and ideologies.",
+          "tas": ["Megan Wolf"],
+          "members": [
+            "Daniel Fernandes",
+            "Carlson Joseph",
+            "Robert Quito",
+            "Dylan VanStaden",
+            "Ty Van Roy"
+          ],
+          "images": [
+            "images/summer20/17935/WebHeads/1.gif",
+            "images/summer20/17935/WebHeads/2.gif",
+            "images/summer20/17935/WebHeads/3.gif"
           ]
         }
       ]
