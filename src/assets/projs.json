@@ -864,12 +864,11 @@
             "images/summer20/17934/Napper/1.gif",
             "images/summer20/17934/Napper/2.gif",
             "images/summer20/17934/Napper/3.gif"
-
           ]
         },
         {
           "project-name": "Home Order",
-          "description":"This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
+          "description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
           "tas": ["Megan Wolf"],
           "members": [
             "Siyu Chen",
@@ -967,7 +966,6 @@
             "images/summer20/17935/VPTeam/2.gif",
             "images/summer20/17935/VPTeam/3.gif"
           ]
-
         },
         {
           "project-name": "Activist Agenda",
@@ -1006,7 +1004,7 @@
         {
           "project-name": "Pin & Protest",
           "description": "Crowdsourced protest tracker where locations of protests (violent and non-violent) are displayed on a map. It helps people trying to avoid violent protests or join in peaceful ones. Users are central to the implementation. Those witnessing protests can report them on the web app so that others can see their location. There are also protest-specific news feeds where people can upload pictures or updates therefore giving them the possibility to focus on a particular protest and filter out others.",
-          "tas":["Megan Wolf"],
+          "tas": ["Megan Wolf"],
           "members": [
             "Cole Fisher",
             "Pratik Gajjar",
@@ -1014,7 +1012,7 @@
             "Alexander Mead",
             "Isabella  Rodriguez"
           ],
-          "images":[
+          "images": [
             "images/summer20/17934/The_Crocodiles/1.gif",
             "images/summer20/17934/The_Crocodiles/2.gif",
             "images/summer20/17934/The_Crocodiles/3.gif"
@@ -1069,6 +1067,19 @@
             "images/summer20/17935/WebHeads/2.gif",
             "images/summer20/17935/WebHeads/3.gif"
           ]
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2020",
+      "professor": "Dr. Sanethia Thomas",
+      "projects": [
+        {
+          "project-name": "name",
+          "description": "desc",
+          "tas": ["name"],
+          "members": ["name"],
+          "images": ["path"]
         }
       ]
     }
