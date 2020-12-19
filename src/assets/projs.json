@@ -1457,6 +1457,1327 @@
 						"images/fall20/11349/Alberts_Audit/2.gif",
 						"images/fall20/11349/Alberts_Audit/3.gif"
 					]
+				},
+				{
+					"project-name": "Gonzalo Law",
+					"description": "This web application services Gonzalo Law Firm and allows clients to monitor their case progress, upload files, monitor upcoming appointments, view lawyers working on their case and pay invoices.",
+					"tas": ["Dakota Rennemann", "Jon Conlin"],
+					"members": [
+						"Michael Altomare",
+						"Nicolas Betancur",
+						"Joseph Dorsey",
+						"Brandon Payne"
+					],
+					"images": [
+						"images/spring20/3/S20_3_leftovers_1.gif",
+						"images/spring20/3/S20_3_leftovers_2.gif",
+						"images/spring20/3/S20_3_leftovers_3.gif"
+					]
+				},
+				{
+					"project-name": "Gonzalo Law",
+					"description": "This web application services Gonzalo Law Firm and allows clients to monitor their case progress, upload files, monitor upcoming appointments, view lawyers working on their case and pay invoices.",
+					"tas": ["Dakota Rennemann", "Jon Conlin"],
+					"members": [
+						"Pablo Estrada",
+						"Edward Mensah",
+						"Herman Perera",
+						"Hutchinson VanDyke",
+						"Nathaniel Stull",
+						"Tyler Metzger"
+					],
+					"images": [
+						"images/spring20/3/S20_P3_TeamEggs_1.gif",
+						"images/spring20/3/S20_P3_TeamEggs_2.gif",
+						"images/spring20/3/S20_P3_TeamEggs_3.gif"
+					]
+				},
+				{
+					"project-name": "Gonzalo Law",
+					"description": "This web application services Gonzalo Law Firm and allows clients to monitor their case progress, upload files, monitor upcoming appointments, view lawyers working on their case and pay invoices.",
+					"tas": ["Dakota Rennemann", "Jon Conlin"],
+					"members": [
+						"Daniel Alvarez",
+						"Connor Bolick",
+						"Andres Holguin",
+						"Luke Jones",
+						"Anna Lanzino",
+						"Yashiya Sylvester"
+					],
+					"images": [
+						"images/spring20/3/S20_3_redplusyellow_1.gif",
+						"images/spring20/3/S20_3_redplusyellow_2.gif",
+						"images/spring20/3/S20_3_redplusyellow_3.gif"
+					]
+				},
+				{
+					"project-name": "Gonzalo Law",
+					"description": "This web application services Gonzalo Law Firm and allows clients to monitor their case progress, upload files, monitor upcoming appointments, view lawyers working on their case and pay invoices.",
+					"tas": ["Dakota Rennemann", "Jon Conlin"],
+					"members": [
+						"Austin Kuyrkendall",
+						"Rohan Saini",
+						"Raul Salazar",
+						"Camilo Catasus",
+						"Sarah Wheeler",
+						"Luis Gruber"
+					],
+					"images": [
+						"images/spring20/3/S20_3_NoShow_1.gif",
+						"images/spring20/3/S20_3_NoShow_2.gif",
+						"images/spring20/3/S20_3_NoShow_3.gif"
+					]
+				},
+				{
+					"project-name": "Gonzalo Law",
+					"description": "This web application services Gonzalo Law Firm and allows clients to monitor their case progress, upload files, monitor upcoming appointments, view lawyers working on their case and pay invoices.",
+					"tas": ["Dakota Rennemann", "Jon Conlin"],
+					"members": [
+						"Siyu Chen",
+						"Jack Zheng",
+						"Adriel Mohammed",
+						"Skylar McCain"
+					],
+					"images": [
+						"images/spring20/3/S20_3_Help_1.gif",
+						"images/spring20/3/S20_3_Help_2.gif",
+						"images/spring20/3/S20_3_Help_3.gif"
+					]
+				},
+				{
+					"project-name": "Heavenly Writing",
+					"description": "An astrological wellness web application where clients receive their horoscopes every 2.5 days, when the moon phase changes. The horoscopes are dependent on the user’s ascendant sign, the current moon phase, and the moon sign of the user. When the user subscribes they can receive their horoscopes a via text, email, or through the site.",
+					"tas": ["Dakota Rennemann", "Jon Conlin"],
+					"members": [
+						"Kaitlyn O’Hern",
+						"Andrew Kennedy",
+						"Ryan O’Keefe",
+						"Michael McAllister",
+						"Chris Schaefer",
+						"Andrew Kim",
+						"Amogh Agarwal",
+						"Song Li"
+					],
+					"images": [
+						"images/spring20/4/S20_4_TeamAzul_1.gif",
+						"images/spring20/4/S20_4_TeamAzul_2.gif",
+						"images/spring20/4/S20_4_TeamAzul_3.gif"
+					]
+				},
+				{
+					"project-name": "Heavenly Writing",
+					"description": "An astrological wellness web application where clients receive their horoscopes every 2.5 days, when the moon phase changes. The horoscopes are dependent on the user’s ascendant sign, the current moon phase, and the moon sign of the user. When the user subscribes they can receive their horoscopes a via text, email, or through the site.  ",
+					"tas": ["Dakota Rennemann", "Jon Conlin"],
+					"members": [
+						"Jack Wittmayer",
+						"Joseph Cortez",
+						"Kenneth Schultz",
+						"Marcin Karcz",
+						"Melinda Chhu",
+						"Nickolas Phen",
+						"Ziyad Morsi"
+					],
+					"images": [
+						"images/spring20/4/S20_4_GreenTeam_1.gif",
+						"images/spring20/4/S20_4_GreenTeam_2.gif",
+						"images/spring20/4/S20_4_GreenTeam_3.gif"
+					]
+				},
+				{
+					"project-name": "Heavenly Writing",
+					"description": "An astrological wellness web application where clients receive their horoscopes every 2.5 days, when the moon phase changes. The horoscopes are dependent on the user’s ascendant sign, the current moon phase, and the moon sign of the user. When the user subscribes they can receive their horoscopes a via text, email, or through the site.  ",
+					"tas": ["Dakota Rennemann", "Jon Conlin"],
+					"members": [
+						"Shaun Fidler",
+						"Kiara Kubo",
+						"Mark Drewry",
+						"Maxwell Rosenzweig",
+						"Oliver Qiu",
+						"Rovaldy Applyrs",
+						"Spencer Dupree"
+					],
+					"images": [
+						"images/spring20/4/S20_4_MVP_1.gif",
+						"images/spring20/4/S20_4_MVP_2.gif",
+						"images/spring20/4/S20_4_MVP_3.gif"
+					]
+				},
+				{
+					"project-name": "Heavenly Writing",
+					"description": "An astrological wellness web application where clients receive their horoscopes every 2.5 days, when the moon phase changes. The horoscopes are dependent on the user’s ascendant sign, the current moon phase, and the moon sign of the user. When the user subscribes they can receive their horoscopes a via text, email, or through the site.  ",
+					"tas": ["Dakota Rennemann", "Jon Conlin"],
+					"members": [
+						"James Boultinghouse",
+						"Josh Chan",
+						"Paul Wei",
+						"Amaya Jimenez",
+						"Logan Welsh"
+					],
+					"images": [
+						"images/spring20/4/S20_4_DFC_1.gif",
+						"images/spring20/4/S20_4_DFC_2.gif",
+						"images/spring20/4/S20_4_DFC_3.gif"
+					]
+				},
+				{
+					"project-name": "Attractions Salon",
+					"description": "Hair salon web application. This website is a platform for potential and current clients of Attractions Salon to request appointments, pay in advance, and access various information about the salon. This information includes basic salon information--location, hours, and salon menu.",
+					"tas": ["Paola Solari", "Bao Nguyen"],
+					"members": [
+						"Adithya Haridas",
+						"Dylan Hawley",
+						"Jessica O’Dell",
+						"Adrian Salazar",
+						"Adam Opyrchal",
+						"Caleb Wong",
+						"Kasey Kaufmann"
+					],
+					"images": [
+						"images/spring20/5/S20_5_Bootcamp5_1.gif",
+						"images/spring20/5/S20_5_Bootcamp5_2.gif",
+						"images/spring20/5/S20_5_Bootcamp5_3.gif"
+					]
+				},
+				{
+					"project-name": "Attractions Salon",
+					"description": "Hair salon web application. This website is a platform for potential and current clients of Attractions Salon to request appointments, pay in advance, and access various information about the salon. This information includes basic salon information--location, hours, and salon menu.",
+					"tas": ["Paola Solari", "Bao Nguyen"],
+					"members": [
+						"Charles Charlestin",
+						"Gabriel Rodriguez Torres",
+						"Luke Antoljak",
+						"Jewel Posniak",
+						"Enzo Egues Dominguez",
+						"Sophie Lesher",
+						"Brian Koehler"
+					],
+					"images": [
+						"images/spring20/5/S20_5_CodeMonkeys_1.gif",
+						"images/spring20/5/S20_5_CodeMonkeys_2.gif",
+						"images/spring20/5/S20_5_CodeMonkeys_3.gif"
+					]
+				},
+				{
+					"project-name": "Attractions Salon",
+					"description": "Hair salon web application. This website is a platform for potential and current clients of Attractions Salon to request appointments, pay in advance, and access various information about the salon. This information includes basic salon information--location, hours, and salon menu.",
+					"tas": ["Paola Solari", "Bao Nguyen"],
+					"members": [
+						"Aaliyah Richlen",
+						"Addison Biaggi",
+						"Gary Wu",
+						"Noah Zinn",
+						"Randolph Maynes",
+						"Santoshkrishna Tirumala",
+						"Soham Kale"
+					],
+					"images": [
+						"images/spring20/5/S20_5_Thunderbolt_1.gif",
+						"images/spring20/5/S20_5_Thunderbolt_2.gif",
+						"images/spring20/5/S20_5_Thunderbolt_3.gif"
+					]
+				},
+				{
+					"project-name": "Attractions Salon",
+					"description": "Hair salon web application. This website is a platform for potential and current clients of Attractions Salon to request appointments, pay in advance, and access various information about the salon. This information includes basic salon information--location, hours, and salon menu.",
+					"tas": ["Paola Solari", "Bao Nguyen"],
+					"members": [
+						"Lauren Newman",
+						"Christopher Miller",
+						"Dhruv Patel",
+						"Tommy Tu",
+						"Alen James",
+						"Matthew Ruiz"
+					],
+					"images": [
+						"images/spring20/5/S20_5_Swee_1.gif",
+						"images/spring20/5/S20_5_Swee_2.gif",
+						"images/spring20/5/S20_5_Swee_3.gif"
+					]
+				},
+				{
+					"project-name": "Consider Herbs",
+					"description": "Herbal and holistic life web application. The purpose of this web app is to provide users with herb-based recipes and remedies for common ailments on the body. User can interact with the body model to get specific information about their ailments. Users can also access the forum where they can read and write posts and comment on posts, schedule consultations, sign up for courses and make purchases.",
+					"tas": ["Paola Solari", "Daniel Garzon Moreno"],
+					"members": [
+						"Sumanth Aluri",
+						"Nathan Andreo",
+						"Keanu Budham",
+						"Olga Cabrera Hernandez",
+						"Grey Johnson",
+						"Arham Khan",
+						"Cosima West"
+					],
+					"images": [
+						"images/spring20/6/S20_6_NonTraditionalists_1.gif",
+						"images/spring20/6/S20_6_NonTraditionalists_2.gif",
+						"images/spring20/6/S20_6_NonTraditionalists_3.gif"
+					]
+				},
+				{
+					"project-name": "Consider Herbs",
+					"description": "Herbal and holistic life web application. The purpose of this web app is to provide users with herb-based recipes and remedies for common ailments on the body. User can interact with the body model to get specific information about their ailments. Users can also access the forum where they can read and write posts and comment on posts, schedule consultations, sign up for courses and make purchases.",
+					"tas": ["Paola Solari", "Daniel Garzon Moreno"],
+					"members": [
+						"Zlata Itkin",
+						"Vinicius Martinson",
+						"Vinicius Martinson",
+						"Davis Rash",
+						"Cole Frishman",
+						"Zlata Itkin",
+						"Manuel Cordero",
+						"Andrew Bricero",
+						"Jeremy Tinana"
+					],
+					"images": [
+						"images/spring20/6/S20_6_ShortOnTime_1.gif",
+						"images/spring20/6/S20_6_ShortOnTime_2.gif",
+						"images/spring20/6/S20_6_ShortOnTime_3.gif"
+					]
+				},
+				{
+					"project-name": "Consider Herbs",
+					"description": "Herbal and holistic life web application. The purpose of this web app is to provide users with herb-based recipes and remedies for common ailments on the body. User can interact with the body model to get specific information about their ailments. Users can also access the forum where they can read and write posts and comment on posts, schedule consultations, sign up for courses and make purchases.",
+					"tas": ["Paola Solari", "Daniel Garzon Moreno"],
+					"members": [
+						"Derek Leonhardt",
+						"Oluwaseyi Oluwaleimu",
+						"Christina Carlson",
+						"Hosung Lee",
+						"Paul Lundgren",
+						"Srecko Markovic"
+					],
+					"images": [
+						"images/spring20/6/S20_6_HomeopathicHomies_1.gif",
+						"images/spring20/6/S20_6_HomeopathicHomies_2.gif",
+						"images/spring20/6/S20_6_HomeopathicHomies_3.gif"
+					]
+				},
+				{
+					"project-name": "Consider Herbs",
+					"description": "Herbal and holistic life web application. The purpose of this web app is to provide users with herb-based recipes and remedies for common ailments on the body. User can interact with the body model to get specific information about their ailments. Users can also access the forum where they can read and write posts and comment on posts, schedule consultations, sign up for courses and make purchases.",
+					"tas": ["Paola Solari", "Daniel Garzon Moreno"],
+					"members": [
+						"Eric De Rezende",
+						"Anna Villena",
+						"Gavin Gui",
+						"Benji Labonte",
+						"Djoni Austin",
+						"Rafael Gonzalez"
+					],
+					"images": [
+						"images/spring20/6/S20_P6_HerbalMed_1.gif",
+						"images/spring20/6/S20_P6_HerbalMed_2.gif",
+						"images/spring20/6/S20_P6_HerbalMed_3.gif"
+					]
+				},
+				{
+					"project-name": "Neuro Navigation",
+					"description": "Patient appointment and navigation web application. The system allows admins of the clinic to create and manage a database of patients as well as appointments for those patients. Admins can set up automatic reminders for their patients as well as send specific texts to patients. Patients can view and manage their appointments as well as view helpful directions from their current location to clinic parking, and then to the clinic.",
+					"tas": ["Bao Nguyen", "Daniel Garzon Moreno"],
+					"members": [
+						"Wesley Finch",
+						"Alan Nguyen",
+						"Christie Ruales",
+						"Rohan Samanta",
+						"Andrew Sowinski",
+						"Rohil Tuli",
+						"Megan Wolf"
+					],
+					"images": [
+						"images/spring20/7/S20_7_Group4_1.gif",
+						"images/spring20/7/S20_7_Group4_2.gif",
+						"images/spring20/7/S20_7_Group4_3.gif"
+					]
+				},
+				{
+					"project-name": "Neuro Navigation",
+					"description": "Patient appointment and navigation web application. The system allows admins of the clinic to create and manage a database of patients as well as appointments for those patients. Admins can set up automatic reminders for their patients as well as send specific texts to patients. Patients can view and manage their appointments as well as view helpful directions from their current location to clinic parking, and then to the clinic.",
+					"tas": ["Bao Nguyen", "Daniel Garzon Moreno"],
+					"members": [
+						"Laurel Vernon",
+						"Jaeyong Sin",
+						"Olivia Dunbar",
+						"Ezra Lee",
+						"Sabrina Snider",
+						"Tyler Mueller",
+						"Prerna Arora"
+					],
+					"images": [
+						"images/spring20/7/S20_7_Braniacs_1.gif",
+						"images/spring20/7/S20_7_Braniacs_2.gif",
+						"images/spring20/7/S20_7_Braniacs_3.gif"
+					]
+				},
+				{
+					"project-name": "Neuro Navigation",
+					"description": "Patient appointment and navigation web application. The system allows admins of the clinic to create and manage a database of patients as well as appointments for those patients. Admins can set up automatic reminders for their patients as well as send specific texts to patients. Patients can view and manage their appointments as well as view helpful directions from their current location to clinic parking, and then to the clinic.",
+					"tas": ["Bao Nguyen", "Daniel Garzon Moreno"],
+					"members": [
+						"Jordi Bardia",
+						"Andrew Gil",
+						"Jasmine Liu",
+						"Alec Shears",
+						"Shada Thykandy",
+						"Ailish Tierney",
+						"Saw Luke Loo Wah"
+					],
+					"images": [
+						"images/spring20/7/S20_7_HealthTech_1.gif",
+						"images/spring20/7/S20_7_HealthTech_2.gif",
+						"images/spring20/7/S20_7_HealthTech_3.gif"
+					]
+				},
+				{
+					"project-name": "Neuro Navigation",
+					"description": "Patient appointment and navigation web application. The system allows admins of the clinic to create and manage a database of patients as well as appointments for those patients. Admins can set up automatic reminders for their patients as well as send specific texts to patients. Patients can view and manage their appointments as well as view helpful directions from their current location to clinic parking, and then to the clinic.",
+					"tas": ["Bao Nguyen", "Daniel Garzon Moreno"],
+					"members": [
+						"Jason Fernandez",
+						"Samia Gilani",
+						"Peyton Marinelli",
+						"Alyssa Marotta",
+						"Darren Wang",
+						"Bradon Zhang"
+					],
+					"images": [
+						"images/spring20/7/S20_7_Neuro6_1.gif",
+						"images/spring20/7/S20_7_Neuro6_2.gif",
+						"images/spring20/7/S20_7_Neuro6_3.gif"
+					]
+				},
+				{
+					"project-name": "DC Rock Fitness",
+					"description": "Personal trainer workout plan web application.  This is a web  application that  facilitates interaction between  a personal trainer and  the  clients. Through the web application, the personal trainer will have the ability to deliver workout plans and nutritional information that is customized for each client.",
+					"tas": ["Melissa Perez", "Fernando Rivera"],
+					"members": [
+						"Geneva Anderson",
+						"Norland Batista",
+						"Connor Catlett",
+						"Christopher Clarke",
+						"Zoe Frongillo",
+						"Jovanny Vera"
+					],
+					"images": [
+						"images/spring20/8/S20_8_TeamA_1.gif",
+						"images/spring20/8/S20_8_TeamA_2.gif",
+						"images/spring20/8/S20_8_TeamA_3.gif"
+					]
+				},
+				{
+					"project-name": "DC Rock Fitness",
+					"description": "Personal trainer workout plan web application.  This is a web  application that  facilitates interaction between  a personal trainer and  the  clients. Through the web application, the personal trainer will have the ability to deliver workout plans and nutritional information that is customized for each client.",
+					"tas": ["Melissa Perez", "Fernando Rivera"],
+					"members": [
+						"Hunter Young",
+						"Zachary Jackson",
+						"Gianfranco Cortes",
+						"Munish Tanwar",
+						"Ajay Patel",
+						"Nate Strand",
+						"Christopher Heydolph"
+					],
+					"images": [
+						"images/spring20/8/S20_8_runEscape_1.gif",
+						"images/spring20/8/S20_8_runEscape_2.gif",
+						"images/spring20/8/S20_8_runEscape_3.gif"
+					]
+				},
+				{
+					"project-name": "DC Rock Fitness",
+					"description": "Personal trainer workout plan web application.  This is a web  application that  facilitates interaction between  a personal trainer and  the  clients. Through the web application, the personal trainer will have the ability to deliver workout plans and nutritional information that is customized for each client.",
+					"tas": ["Melissa Perez", "Fernando Rivera"],
+					"members": [
+						"Ryan Aponte",
+						"Ziyang Fang",
+						"Donald Hartman",
+						"Marco Kalnay",
+						"Max Krieger",
+						"Jing Low",
+						"Ricardo Posadah"
+					],
+					"images": [
+						"images/spring20/8/S20_8_create_1.gif",
+						"images/spring20/8/S20_8_create_2.gif",
+						"images/spring20/8/S20_8_create_3.gif"
+					]
+				},
+				{
+					"project-name": "DC Rock Fitness",
+					"description": "Personal trainer workout plan web application.  This is a web  application that  facilitates interaction between  a personal trainer and  the  clients. Through the web application, the personal trainer will have the ability to deliver workout plans and nutritional information that is customized for each client.",
+					"tas": ["Melissa Perez", "Fernando Rivera"],
+					"members": [
+						"Derek Mackey",
+						"Connor Meacham",
+						"Eric Navar",
+						"Benjamin Rheault",
+						"Rachel Romaine",
+						"David Sadowsky",
+						"Edilberto Torres"
+					],
+					"images": [
+						"images/spring20/8/S20_8_UnicornTurtleGang_1.gif",
+						"images/spring20/8/S20_8_UnicornTurtleGang_2.gif",
+						"images/spring20/8/S20_8_UnicornTurtleGang_3.gif"
+					]
+				},
+				{
+					"project-name": "Teach. Leave. Live.",
+					"description": "An educator's resource web application. The purpose of this web application is to provide a platform for teachers to learn from each other and provide tools to help teachers in the classroom. The platform allows teachers to sign up for a weekly newsletter, take courses through an LMS system, access blog content and participate in a discussion board.",
+					"tas": ["Shaila Patel", "Fernando Rivera"],
+					"members": [
+						"Spencer Bass",
+						"Amanda Aribe",
+						"Brian Barker",
+						"Simon Frank",
+						"Juyeong (Daniel) Park",
+						"Omer Amir"
+					],
+					"images": [
+						"images/spring20/9/S20_9_SuperFriends_1.gif",
+						"images/spring20/9/S20_9_SuperFriends_2.gif",
+						"images/spring20/9/S20_9_SuperFriends_3.gif"
+					]
+				},
+				{
+					"project-name": "Teach. Leave. Live.",
+					"description": "An educator's resource web application. The purpose of this web application is to provide a platform for teachers to learn from each other and provide tools to help teachers in the classroom. The platform allows teachers to sign up for a weekly newsletter, take courses through an LMS system, access blog content and participate in a discussion board.",
+					"tas": ["Shaila Patel", "Fernando Rivera"],
+					"members": [
+						"Natascha Kempfe",
+						"Ryan Widgeon",
+						"Matthew Lamperski",
+						"Connor Bullock",
+						"Dylan Booth",
+						"Michael Hoffman",
+						"Noah Rieck"
+					],
+					"images": [
+						"images/spring20/9/S20_9_DevOps_1.gif",
+						"images/spring20/9/S20_9_DevOps_2.gif",
+						"images/spring20/9/S20_9_DevOps_3.gif"
+					]
+				},
+				{
+					"project-name": "Teach. Leave. Live.",
+					"description": "An educator's resource web application. The purpose of this web application is to provide a platform for teachers to learn from each other and provide tools to help teachers in the classroom. The platform allows teachers to sign up for a weekly newsletter, take courses through an LMS system, access blog content and participate in a discussion board.",
+					"tas": ["Shaila Patel", "Fernando Rivera"],
+					"members": [
+						"Daniel D'Alessandro",
+						"Thomas Domas",
+						"Martin Lasprilla",
+						"Andrew Rodrigues",
+						"Ciara Sadaka",
+						"Brandon Wand",
+						"Andrew Watson"
+					],
+					"images": [
+						"images/spring20/9/S20_9_WeAreNumber4s_1.gif",
+						"images/spring20/9/S20_9_WeAreNumber4s_2.gif",
+						"images/spring20/9/S20_9_WeAreNumber4s_3.gif"
+					]
+				},
+				{
+					"project-name": "Teach. Leave. Live.",
+					"description": "An educator's resource web application. The purpose of this web application is to provide a platform for teachers to learn from each other and provide tools to help teachers in the classroom. The platform allows teachers to sign up for a weekly newsletter, take courses through an LMS system, access blog content and participate in a discussion board.",
+					"tas": ["Shaila Patel", "Fernando Rivera"],
+					"members": [
+						"Patrick Bower",
+						"Kyle Cheng",
+						"Marissa Garcia",
+						"Alejandro Lopez",
+						"Kevin Nguyen",
+						"Agnieszka Tomasik",
+						"Brandon Wojtaszak"
+					],
+					"images": [
+						"images/spring20/9/S20_P9_DreamTeam_1.gif",
+						"images/spring20/9/S20_P9_DreamTeam_2.gif",
+						"images/spring20/9/S20_P9_DreamTeam_3.gif"
+					]
+				},
+				{
+					"project-name": "City Traffic",
+					"description": "A multi city traffic condition and accident web application. The main objective of the web application is to encourage safe driving by reinforcing common road rules and displaying data on traffic accidents per city to foster a competitive spirit for safe driving. Users will be able to see “competing” cities and work towards making their city the one with the safest drivers and least number of traffic accidents.",
+					"tas": ["Alex Prascak", "Michael Nunn"],
+					"members": [
+						"Ryan Ahmed",
+						"David Gutierrez",
+						"Riad Becirevic",
+						"Gabriel Coto",
+						"John Hook",
+						"Nathan Schwartz"
+					],
+					"images": [
+						"images/spring20/10/S20_10_Codewire_1.gif",
+						"images/spring20/10/S20_10_Codewire_2.gif",
+						"images/spring20/10/S20_10_Codewire_3.gif"
+					]
+				},
+				{
+					"project-name": "City Traffic",
+					"description": "A multi city traffic condition and accident web application. The main objective of the web application is to encourage safe driving by reinforcing common road rules and displaying data on traffic accidents per city to foster a competitive spirit for safe driving. Users will be able to see “competing” cities and work towards making their city the one with the safest drivers and least number of traffic accidents.",
+					"tas": ["Alex Prascak", "Michael Nunn"],
+					"members": [
+						"Jose Bouza",
+						"Bryan Delgado",
+						"Alexis Dougherty",
+						"Dillon McGovern",
+						"Vince Salapuddin",
+						"Geoffrey Simon",
+						"David Wang"
+					],
+					"images": [
+						"images/spring20/10/S20_10_Coders_1.gif",
+						"images/spring20/10/S20_10_Coders_2.gif",
+						"images/spring20/10/S20_10_Coders_3.gif",
+						"images/spring20/10/S20_10_Coders_4.gif"
+					]
+				},
+				{
+					"project-name": "City Traffic",
+					"description": "A multi city traffic condition and accident web application. The main objective of the web application is to encourage safe driving by reinforcing common road rules and displaying data on traffic accidents per city to foster a competitive spirit for safe driving. Users will be able to see “competing” cities and work towards making their city the one with the safest drivers and least number of traffic accidents.",
+					"tas": ["Alex Prascak", "Michael Nunn"],
+					"members": [
+						"Adam Van Belkum",
+						"Brock Major",
+						"Elijah Springer",
+						"Ethan Sodikromo",
+						"Grant Boicheff",
+						"Kareem Joudeh",
+						"Matthew Petela"
+					],
+					"images": [
+						"images/spring20/10/S20_10_ATeam_1.gif",
+						"images/spring20/10/S20_10_ATeam_2.gif",
+						"images/spring20/10/S20_10_ATeam_3.gif"
+					]
+				},
+				{
+					"project-name": "City Traffic",
+					"description": "A multi city traffic condition and accident web application. The main objective of the web application is to encourage safe driving by reinforcing common road rules and displaying data on traffic accidents per city to foster a competitive spirit for safe driving. Users will be able to see “competing” cities and work towards making their city the one with the safest drivers and least number of traffic accidents.",
+					"tas": ["Alex Prascak", "Michael Nunn"],
+					"members": [
+						"Joshua Zimmerman",
+						"Joshua Gerstenfeld",
+						"Cameron White",
+						"Aaron Gonzalez",
+						"Cameron Self",
+						"Garrick Sewsankar",
+						"Julia Mckay"
+					],
+					"images": [
+						"images/spring20/10/S20_10_teamDoubleName_1.gif",
+						"images/spring20/10/S20_10_teamDoubleName_2.gif",
+						"images/spring20/10/S20_10_teamDoubleName_3.gif"
+					]
+				},
+				{
+					"project-name": "Surgeon Tools",
+					"description": "A rapid identification of surgical tools web application. the purpose of creating a web application to provide rapid access to photos of surgical instruments using metadata. It allows for quick retrieval of medical tools through keyword search and image identification. Additionally, the system shall allow for analysis of retrieval times for identification of tools taking unusually long to retrieve.",
+					"tas": ["Alex Prascak", "Michael Nunn"],
+					"members": [
+						"Antonio Antonian",
+						"Jiahao Fan",
+						"Cassandra Patterson",
+						"Yaswanth Potluri",
+						"Benjamin Simon",
+						"Tyler Toper",
+						"Trevor Vente"
+					],
+					"images": [
+						"images/spring20/11/S20_11_Coders_Unite_1.gif",
+						"images/spring20/11/S20_11_Coders_Unite_2.gif",
+						"images/spring20/11/S20_11_Coders_Unite_3.gif"
+					]
+				},
+				{
+					"project-name": "Surgeon Tools",
+					"description": "An rapid identification of surgical tools web application. the purpose of creating a web application to provide rapid access to photos of surgical instruments using metadata. It allows for quick retrieval of medical tools through keyword search and image identification. Additionally, the system shall allow for analysis of retrieval times for identification of tools taking unusually long to retrieve.",
+					"tas": ["Alex Prascak", "Michael Nunn"],
+					"members": [
+						"Robert Casanova",
+						"Zach Cowan",
+						"Willy Deng",
+						"Drew Gill",
+						"Arun Jairam",
+						"Nick Orrick",
+						"Alex Towriss"
+					],
+					"images": [
+						"images/spring20/11/S20_11_Group2_1.gif",
+						"images/spring20/11/S20_11_Group2_2.gif",
+						"images/spring20/11/S20_11_Group2_3.gif"
+					]
+				},
+				{
+					"project-name": "Surgeon Tools",
+					"description": "An rapid identification of surgical tools web application. the purpose of creating a web application to provide rapid access to photos of surgical instruments using metadata. It allows for quick retrieval of medical tools through keyword search and image identification. Additionally, the system shall allow for analysis of retrieval times for identification of tools taking unusually long to retrieve.",
+					"tas": ["Alex Prascak", "Michael Nunn"],
+					"members": [
+						"Christopher Cooper",
+						"Raymond Figueroa",
+						"Wyatt Townsend",
+						"Jeremy Triplett",
+						"Griffin West",
+						"Michael Wollenhaup",
+						"Lutong Zhang"
+					],
+					"images": [
+						"images/spring20/11/S20_11_Doctor\\'sCoder_1.gif",
+						"images/spring20/11/S20_11_Doctor\\'sCoder_2.gif",
+						"images/spring20/11/S20_11_Doctor\\'sCoder_3.gif"
+					]
+				},
+				{
+					"project-name": "Surgeon Tools",
+					"description": "An rapid identification of surgical tools web application. the purpose of creating a web application to provide rapid access to photos of surgical instruments using metadata. It allows for quick retrieval of medical tools through keyword search and image identification. Additionally, the system shall allow for analysis of retrieval times for identification of tools taking unusually long to retrieve.",
+					"tas": ["Alex Prascak", "Michael Nunn"],
+					"members": [
+						"Mohammed Immam",
+						"Zane Zudans",
+						"Carlos Morales-Diaz",
+						"Vishvak Seenichamy",
+						"Alexis Vega",
+						"Ahsan Rohan"
+					],
+					"images": [
+						"images/spring20/11/S20_11_MedDevelopers_1.gif",
+						"images/spring20/11/S20_11_MedDevelopers_2.gif",
+						"images/spring20/11/S20_11_MedDevelopers_3.gif"
+					]
+				},
+				{
+					"project-name": "Career Clusters",
+					"description": "A career finder web application",
+					"tas": ["Shaila Patel", "Melissa Perez"],
+					"members": [
+						"Valerie Prater",
+						"Jose Bautista",
+						"Moise Jean",
+						"Luis Aparicio"
+					],
+					"images": [
+						"images/spring20/online/S20_online_Group1_1.gif",
+						"images/spring20/online/S20_online_Group1_2.gif",
+						"images/spring20/online/S20_online_Group1_3.gif"
+					]
+				},
+				{
+					"project-name": "Career Clusters",
+					"description": "A career finder web application",
+					"tas": ["Shaila Patel", "Melissa Perez"],
+					"members": [
+						"Ashley Adames",
+						"Noah Cline",
+						"Luis Venereo",
+						"Kyler Katz"
+					],
+					"images": [
+						"images/spring20/online/S20_online_2_1.gif",
+						"images/spring20/online/S20_online_2_2.gif",
+						"images/spring20/online/S20_online_2_3.gif"
+					]
+				},
+				{
+					"project-name": "Career Clusters",
+					"description": "A career finder web application",
+					"tas": ["Shaila Patel", "Melissa Perez"],
+					"members": ["Stephen McDonald", "Javier Perez", "Joshua Main-Smith"],
+					"images": [
+						"images/spring20/online/S20_online_3_1.gif",
+						"images/spring20/online/S20_online_3_2.gif",
+						"images/spring20/online/S20_online_3_3.gif"
+					]
+				},
+				{
+					"project-name": "Career Clusters",
+					"description": "A career finder web application",
+					"tas": ["Shaila Patel", "Melissa Perez"],
+					"members": [
+						"Christian de Guzman",
+						"Travis Groesbeck",
+						"Kelsey Dewey"
+					],
+					"images": [
+						"images/spring20/online/S20_online_4_1.gif",
+						"images/spring20/online/S20_online_4_2.gif",
+						"images/spring20/online/S20_online_4_3.gif"
+					]
+				},
+				{
+					"project-name": "Career Clusters",
+					"description": "A career finder web application",
+					"tas": ["Shaila Patel", "Melissa Perez"],
+					"members": [
+						"David Hellmer",
+						"Justin Charles Calma",
+						"Rachana Podaralla"
+					],
+					"images": [
+						"images/spring20/online/S20_online_5_1.gif",
+						"images/spring20/online/S20_online_5_2.gif",
+						"images/spring20/online/S20_online_5_3.gif"
+					]
+				},
+				{
+					"project-name": "Career Clusters",
+					"description": "A career finder web application",
+					"tas": ["Shaila Patel", "Melissa Perez"],
+					"members": ["Brian Hicks", "Robert Caplin", "Brian Snow"],
+					"images": [
+						"images/spring20/online/S20_online_6_1.gif",
+						"images/spring20/online/S20_online_6_2.gif",
+						"images/spring20/online/S20_online_6_3.gif"
+					]
+				},
+				{
+					"project-name": "Career Clusters",
+					"description": "A career finder web application",
+					"tas": ["Shaila Patel", "Melissa Perez"],
+					"members": [
+						"Jesus Gonzalez",
+						"Gabe Fernandez",
+						"Jonathan Rudich",
+						"Kevin Nance"
+					],
+					"images": [
+						"images/spring20/online/7_1.gif",
+						"images/spring20/online/7_2.gif",
+						"images/spring20/online/7_3.gif"
+					]
+				}
+			]
+		},
+		{
+			"semester": "Summer 2020",
+			"professor": "Dr. Sanethia Thomas",
+			"projects": [
+				{
+					"project-name": "Home Order",
+					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
+					"tas": ["Jack Zheng"],
+					"members": [
+						"Sriram Selvakumar",
+						"Grant Wise",
+						"Katrina Barredo",
+						"Bricson Linares",
+						"Nathaniel Edgar"
+					],
+					"images": [
+						"images/summer20/17929/Coronavirus_Stallions/1.gif",
+						"images/summer20/17929/Coronavirus_Stallions/2.gif",
+						"images/summer20/17929/Coronavirus_Stallions/3.gif"
+					]
+				},
+				{
+					"project-name": "Home Order",
+					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
+					"tas": ["Jack Zheng"],
+					"members": [
+						"Beau Bakken",
+						"Nicholas Laughlin",
+						"Michael Klein",
+						"Erica Hetrick",
+						"Minato Myers"
+					],
+					"images": [
+						"images/summer20/17929/GatorDelivery/1.gif",
+						"images/summer20/17929/GatorDelivery/2.gif",
+						"images/summer20/17929/GatorDelivery/3.gif"
+					]
+				},
+				{
+					"project-name": "Home Order",
+					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
+					"tas": ["Jack Zheng"],
+					"members": [
+						"Richard Clarke",
+						"Joseph Fauls",
+						"Eddie Gibbons",
+						"Lucas Liseth",
+						"Zayra Rojo-Benitez"
+					],
+					"images": [
+						"images/summer20/17933/CASASTACK/1.gif",
+						"images/summer20/17933/CASASTACK/2.gif",
+						"images/summer20/17933/CASASTACK/3.gif"
+					]
+				},
+				{
+					"project-name": "Home Order",
+					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
+					"tas": ["Megan Wolf"],
+					"members": [
+						"Kyle Ginter",
+						"Nicolas Molano",
+						"Joe Seidel",
+						"Noah Smith",
+						"Martin Tolxdorf"
+					],
+					"images": [
+						"images/summer20/17934/Napper/1.gif",
+						"images/summer20/17934/Napper/2.gif",
+						"images/summer20/17934/Napper/3.gif"
+					]
+				},
+				{
+					"project-name": "Home Order",
+					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
+					"tas": ["Megan Wolf"],
+					"members": [
+						"Siyu Chen",
+						"Hudhayfah Ilyas",
+						"Andrew Pereiro",
+						"Sam Reina",
+						"Xuanhao Shi"
+					],
+					"images": [
+						"images/summer20/17934/MangoDB/1.gif",
+						"images/summer20/17934/MangoDB/2.gif",
+						"images/summer20/17934/MangoDB/3.gif"
+					]
+				},
+				{
+					"project-name": "Home Order",
+					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
+					"tas": ["Megan Wolf"],
+					"members": [
+						"Carson Hamel",
+						"Ashley Kang",
+						"Omar Nasir",
+						"Anthony Neher",
+						"Mark Van Ree"
+					],
+					"images": [
+						"images/summer20/17935/Spark/1.gif",
+						"images/summer20/17935/Spark/2.gif",
+						"images/summer20/17935/Spark/3.gif"
+					]
+				},
+				{
+					"project-name": "Voter Pass",
+					"description": "In an effort to limit long lines and to facilitate social distancing, this solution borrows from Disney’s FastPass to facilitate voting processes. It can be implemented nationwide quickly, easily, securely and with very little new technology.",
+					"tas": ["Jack Zheng"],
+					"members": [
+						"Colin Dunkley",
+						"Nicholas Miller",
+						"Varun Puri",
+						"Kyle Sousa",
+						"Grace Wilcox"
+					],
+					"images": [
+						"images/summer20/17929/BallotBusters/1.gif",
+						"images/summer20/17929/BallotBusters/2.gif",
+						"images/summer20/17929/BallotBusters/3.gif"
+					]
+				},
+				{
+					"project-name": "Voter Pass",
+					"description": "In an effort to limit long lines and to facilitate social distancing, this solution borrows from Disney’s FastPass to facilitate voting processes. It can be implemented nationwide quickly, easily, securely and with very little new technology.",
+					"tas": ["Jack Zheng"],
+					"members": [
+						"Navid Ali",
+						"Cyan Perez",
+						"Jonathan Prevost",
+						"Yuchen Xiong"
+					],
+					"images": [
+						"images/summer20/17929/TrevorForget/1.gif",
+						"images/summer20/17929/TrevorForget/2.gif",
+						"images/summer20/17929/TrevorForget/3.gif"
+					]
+				},
+				{
+					"project-name": "Voter Pass",
+					"description": "In an effort to limit long lines and to facilitate social distancing, this solution borrows from Disney’s FastPass to facilitate voting processes. It can be implemented nationwide quickly, easily, securely and with very little new technology.",
+					"tas": ["Jack Zheng"],
+					"members": [
+						"Kyle Bradley",
+						"Justin Chen",
+						"Christian Ortega",
+						"Catherine Swerdloff",
+						"Luis Torre"
+					],
+					"images": [
+						"images/summer20/17933/Team_Four/1.gif",
+						"images/summer20/17933/Team_Four/2.gif",
+						"images/summer20/17933/Team_Four/3.gif"
+					]
+				},
+				{
+					"project-name": "Voter Pass",
+					"description": "In an effort to limit long lines and to facilitate social distancing, this solution borrows from Disney’s FastPass to facilitate voting processes. It can be implemented nationwide quickly, easily, securely and with very little new technology.",
+					"tas": ["Megan Wolf"],
+					"members": [
+						"Thomas Burns",
+						"Daniela Fragoso Diaz",
+						"Zack Galpern",
+						"Cooper Martin",
+						"Jacob Sparks"
+					],
+					"images": [
+						"images/summer20/17935/VPTeam/1.gif",
+						"images/summer20/17935/VPTeam/2.gif",
+						"images/summer20/17935/VPTeam/3.gif"
+					]
+				},
+				{
+					"project-name": "Activist Agenda",
+					"description": "A distance-policing method for conducting traffic stops.",
+					"tas": ["Jack Zheng"],
+					"members": [
+						"Nicole Ajoy",
+						"Xavier Esteve",
+						"Tyson Freeman",
+						"John Gray",
+						"Laurence Mullen"
+					],
+					"images": [
+						"images/summer20/17933/Vox_Populi/1.gif",
+						"images/summer20/17933/Vox_Populi/2.gif",
+						"images/summer20/17933/Vox_Populi/3.gif"
+					]
+				},
+				{
+					"project-name": "DashChat",
+					"description": "A distance-policing method for conducting traffic stops.",
+					"tas": ["Jack Zheng"],
+					"members": [
+						"Bryan Marin",
+						"Lee Caputo",
+						"Ayden Dunn",
+						"Jerry Tran",
+						"Akshita Kandlikar"
+					],
+					"images": [
+						"images/summer20/17933/The_Crusty_Crabs/1.gif",
+						"images/summer20/17933/The_Crusty_Crabs/2.gif",
+						"images/summer20/17933/The_Crusty_Crabs/3.gif"
+					]
+				},
+				{
+					"project-name": "Pin & Protest",
+					"description": "Crowdsourced protest tracker where locations of protests (violent and non-violent) are displayed on a map. It helps people trying to avoid violent protests or join in peaceful ones. Users are central to the implementation. Those witnessing protests can report them on the web app so that others can see their location. There are also protest-specific news feeds where people can upload pictures or updates therefore giving them the possibility to focus on a particular protest and filter out others.",
+					"tas": ["Megan Wolf"],
+					"members": [
+						"Cole Fisher",
+						"Pratik Gajjar",
+						"Ismail Hilali",
+						"Alexander Mead",
+						"Isabella  Rodriguez"
+					],
+					"images": [
+						"images/summer20/17934/The_Crocodiles/1.gif",
+						"images/summer20/17934/The_Crocodiles/2.gif",
+						"images/summer20/17934/The_Crocodiles/3.gif"
+					]
+				},
+				{
+					"project-name": "CovidShare",
+					"description": "Our project is an interactive COVID-19 database. The goal of the web application is to serve as both a formal and informal resource guide for COVID-19. In this web application we will provide information and statistics about the disease, as well as provide a platform for those who have had the disease and want to inform others about their experience.",
+					"tas": ["Megan Wolf"],
+					"members": [
+						"Timothy Krause",
+						"Mini Luo",
+						"Moises  Rodan",
+						"Erik Rosa",
+						"Adrian Wright"
+					],
+					"images": [
+						"images/summer20/17934/CovidShare/1.gif",
+						"images/summer20/17934/CovidShare/2.gif",
+						"images/summer20/17934/CovidShare/3.gif"
+					]
+				},
+				{
+					"project-name": "Homeroom Professor",
+					"description": "This is a volunteer service for faculty in colleges to be able to tutor elementary, middle, and high school students. This is in response to the pandemic in which all schools are online. This service will help parents and teachers, provide opportunity for students to interact with professors from college, and allow people in higher education to give back and be viewed as role models to encourage students that they can be anything they want to be.",
+					"tas": ["Megan Wolf"],
+					"members": [
+						"Tyler Allen",
+						"Frank Camargo",
+						"Daniel Labes",
+						"Ammar Syed"
+					],
+					"images": [
+						"images/summer20/17935/SwampBuddies/1.gif",
+						"images/summer20/17935/SwampBuddies/2.gif",
+						"images/summer20/17935/SwampBuddies/3.gif"
+					]
+				},
+				{
+					"project-name": "VoterCon",
+					"description": "An application that allows voters of all different political ideologies and backgrounds to get polling location information and compare candidate policies and ideologies.",
+					"tas": ["Megan Wolf"],
+					"members": [
+						"Daniel Fernandes",
+						"Carlson Joseph",
+						"Robert Quito",
+						"Dylan VanStaden",
+						"Ty Van Roy"
+					],
+					"images": [
+						"images/summer20/17935/WebHeads/1.gif",
+						"images/summer20/17935/WebHeads/2.gif",
+						"images/summer20/17935/WebHeads/3.gif"
+					]
+				}
+			]
+		},
+		{
+			"semester": "Fall 2020",
+			"professor": "Dr. Sanethia Thomas",
+			"projects": [
+				{
+					"project-name": "Laundr E-Commerce",
+					"description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
+					"tas": ["Eric De Rezende"],
+					"members": [
+						"Jared Herbert",
+						"Alec Kruk",
+						"Valentina Casteline",
+						"Ammar Abdullah",
+						"Cameron Burrows"
+					],
+					"images": [
+						"images/fall20/11350/Group_1/1.gif",
+						"images/fall20/11350/Group_1/2.gif",
+						"images/fall20/11350/Group_1/3.gif"
+					]
+				},
+				{
+					"project-name": "Digital Twin Marine",
+					"description": "A web app to be a place where our clients can securely access their VR models and any additional data.",
+					"tas": ["Paola Solari"],
+					"members": ["Joshua Aird", "Deanna Gran", "Amer Khalifa", "Jose Jon"],
+					"images": [
+						"images/fall20/11350/404/1.gif",
+						"images/fall20/11350/404/2.gif",
+						"images/fall20/11350/404/3.gif"
+					]
+				},
+				{
+					"project-name": "Protest Parking",
+					"description": "We propose to build an interface where protest-goers can securely log in to record when they enter and exit a private parking lot to create a non-hassle parking system for lot owners, who would be able to record how much money each car owes.",
+					"tas": ["Jack Zheng"],
+					"members": [
+						"Anurag Akkiraju",
+						"Maeloni Pompilio",
+						"Jeffery Luo",
+						"Christian Murary",
+						"Nicholas Salazar"
+					],
+					"images": [
+						"images/fall20/11350/Team_3/1.gif",
+						"images/fall20/11350/Team_3/2.gif",
+						"images/fall20/11350/Team_3/3.gif"
+					]
+				},
+				{
+					"project-name": "Laundr Game",
+					"description": "An 8-bit laundry game that would function as a cute secret bonus game on a 404 or incorrect path page on our site. Like the Google Chrome dinosaur game when there's no wifi.",
+					"tas": ["Grey Johnson"],
+					"members": [
+						"Devin Bartlett",
+						"Raghu Radhakrishnan",
+						"Keith Levengood",
+						"Paige Applegate",
+						"Perry Masterson"
+					],
+					"images": [
+						"images/fall20/11350/Cowardly_Dogs/1.gif",
+						"images/fall20/11350/Cowardly_Dogs/2.gif",
+						"images/fall20/11350/Cowardly_Dogs/3.gif"
+					]
+				},
+				{
+					"project-name": "PlagueScore",
+					"description": "User generated review platform for assessing businesses and public spaces adherence to Covid-19 guidelines.",
+					"tas": ["Tyler Metzger"],
+					"members": [
+						"Stefan Hengarter",
+						"Michael Mezzina",
+						"Carlos Cornejo",
+						"Diana Osorio",
+						"Beau Bassett-Audain"
+					],
+					"images": [
+						"images/fall20/11350/Bandwidth_Bandits/1.gif",
+						"images/fall20/11350/Bandwidth_Bandits/2.gif",
+						"images/fall20/11350/Bandwidth_Bandits/3.gif"
+					]
+				},
+				{
+					"project-name": "Sandvik",
+					"description": "Web app for autonomous drilling.",
+					"tas": ["Fernando Rivera"],
+					"members": [
+						"John Hoang",
+						"Justin Lapidus",
+						"Agustin Rojas",
+						"Kevin Cheng",
+						"Leonardo Maicelo"
+					],
+					"images": [
+						"images/fall20/11350/JJALK/1.gif",
+						"images/fall20/11350/JJALK/2.gif",
+						"images/fall20/11350/JJALK/3.gif"
+					]
+				},
+				{
+					"project-name": "Imprint Genius",
+					"description": "Similar to Shopify. Client facing dashboard. Clients can get updates on invoice, top selling item, what type of features.",
+					"tas": ["Tyler Metzger"],
+					"members": [
+						"Jonathan Riego",
+						"Eric Ho",
+						"Alexis Todd",
+						"Mahan Mahtabfar"
+					],
+					"images": [
+						"images/fall20/11352/MAGE/1.gif",
+						"images/fall20/11352/MAGE/2.gif",
+						"images/fall20/11352/MAGE/3.gif"
+					]
+				},
+				{
+					"project-name": "Imprint Genius",
+					"description": "Similar to Shopify. Client facing dashboard. Clients can get updates on invoice, top selling item, what type of features.",
+					"tas": ["Tyler Metzger"],
+					"members": [
+						"Christian Walk",
+						"Samuel Marrero",
+						"Fabio Suarez",
+						"Karla Alonso"
+					],
+					"images": [
+						"images/fall20/11352/swam_py/1.gif",
+						"images/fall20/11352/swam_py/2.gif",
+						"images/fall20/11352/swam_py/3.gif"
+					]
+				},
+				{
+					"project-name": "Agora",
+					"description": "With Agora, we will provide a platform where users can submit advertisements for fact-checking and discussion in a corresponding comment section.",
+					"tas": ["Paola Solari"],
+					"members": [
+						"Cameron Morrongiello",
+						"Steven Siegel",
+						"Julia Prieto",
+						"Abdullah Yuksel",
+						"Luis Ardon"
+					],
+					"images": []
+				},
+				{
+					"project-name": "Business Search",
+					"description": "Allows consumers to more easily find local minority owned businesses.",
+					"tas": ["Destinee Gant"],
+					"members": [
+						"Justin Schwartz",
+						"Allison Denham",
+						"Huy Do",
+						"Isaiah Linares"
+					],
+					"images": [
+						"images/fall20/11352/Agilitas/1.gif",
+						"images/fall20/11352/Agilitas/2.gif",
+						"images/fall20/11352/Agilitas/3.gif"
+					]
+				},
+				{
+					"project-name": "Laundr E-Commerce",
+					"description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
+					"tas": ["Eric De Rezende"],
+					"members": [
+						"Jason Gomes",
+						"Paulina Liwanag",
+						"Sagar Patel",
+						"Jack Tian",
+						"Ash Vyas"
+					],
+					"images": [
+						"images/fall20/11352/JJSAP/1.gif",
+						"images/fall20/11352/JJSAP/2.gif",
+						"images/fall20/11352/JJSAP/3.gif"
+					]
+				},
+				{
+					"project-name": "Laundr E-Commerce",
+					"description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
+					"tas": ["Eric De Rezende"],
+					"members": [
+						"William Nebinger",
+						"Brando Mora",
+						"Andrea Relova",
+						"Wesley Petry"
+					],
+					"images": [
+						"images/fall20/11352/MegaBite/1.gif",
+						"images/fall20/11352/MegaBite/2.gif",
+						"images/fall20/11352/MegaBite/3.gif"
+					]
+				},
+				{
+					"project-name": "DRIPMaP",
+					"description": "A webtool that will allow users to communicate and coordinate disaster response and identify/flag damage and active hazards using an interactive map.",
+					"tas": ["Tyler Metzger"],
+					"members": ["Nickan Hussaini", "Joel John", "Hamish Pierpont"],
+					"images": [
+						"images/fall20/11353/DRIPMaP/1.gif",
+						"images/fall20/11353/DRIPMaP/2.gif",
+						"images/fall20/11353/DRIPMaP/3.gif"
+					]
+				},
+				{
+					"project-name": "Weathr.io",
+					"description": "Weathr.io will be an interactive web app/SMS client that enables users to access pooled disaster information from their current area, all in one place.",
+					"tas": ["Grey Johnson"],
+					"members": [
+						"Antoine Ferguson",
+						"Colin Adams",
+						"John Dillon",
+						"Tianrui Li",
+						"Victoria Mei"
+					],
+					"images": [
+						"images/fall20/11353/Golden_Eagles/1.gif",
+						"images/fall20/11353/Golden_Eagles/2.gif",
+						"images/fall20/11353/Golden_Eagles/3.gif"
+					]
+				},
+				{
+					"project-name": "Green 4 Lyfe",
+					"description": "Web application that allows users to create profiles that develop templates for sustainable living based on their location and preferences.",
+					"tas": ["Paola Solari"],
+					"members": [
+						"Samuel Adams",
+						"Cassandra Garzia",
+						"Robert Quito",
+						"Kendrick Sellers",
+						"Matthew Graham"
+					],
+					"images": [
+						"images/fall20/11354/Scrumbags/1.gif",
+						"images/fall20/11354/Scrumbags/2.gif",
+						"images/fall20/11354/Scrumbags/3.gif"
+					]
+				},
+				{
+					"project-name": "Laundr Dashboard",
+					"description": "An admin portal to display information from our database regarding orders, subscriptions, users, etc.",
+					"tas": ["Anna Villena"],
+					"members": [
+						"Hannah Soliman",
+						"Tyler Burt",
+						"Tiffany Scott",
+						"Evan Shapiro"
+					],
+					"images": [
+						"images/fall20/11354/402/1.gif",
+						"images/fall20/11354/402/2.gif",
+						"images/fall20/11354/402/3.gif"
+					]
 				}
 			]
 		}
