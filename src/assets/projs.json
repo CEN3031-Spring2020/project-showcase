@@ -1075,11 +1075,255 @@
       "professor": "Dr. Sanethia Thomas",
       "projects": [
         {
-          "project-name": "name",
-          "description": "desc",
-          "tas": ["name"],
-          "members": ["name"],
-          "images": ["path"]
+          "project-name": "Laundr E-Commerce",
+          "description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
+          "tas": ["Eric De Rezende"],
+          "members": [
+            "Jared Herbert",
+            "Alec Kruk",
+            "Valentina Casteline",
+            "Ammar Abdullah",
+            "Cameron Burrows"
+          ],
+          "images": [
+            "images/fall20/11350/Group_1/1.gif",
+            "images/fall20/11350/Group_1/2.gif",
+            "images/fall20/11350/Group_1/3.gif"
+          ]
+        },
+        {
+          "project-name": "Digital Twin Marine",
+          "description": "A web app to be a place where our clients can securely access their VR models and any additional data.",
+          "tas": ["Paola Solari"],
+          "members": ["Joshua Aird", "Deanna Gran", "Amer Khalifa", "Jose Jon"],
+          "images": [
+            "images/fall20/11350/404/1.gif",
+            "images/fall20/11350/404/2.gif",
+            "images/fall20/11350/404/3.gif"
+          ]
+        },
+        {
+          "project-name": "Protest Parking",
+          "description": "We propose to build an interface where protest-goers can securely log in to record when they enter and exit a private parking lot to create a non-hassle parking system for lot owners, who would be able to record how much money each car owes.",
+          "tas": ["Jack Zheng"],
+          "members": [
+            "Anurag Akkiraju",
+            "Maeloni Pompilio",
+            "Jeffery Luo",
+            "Christian Murary",
+            "Nicholas Salazar"
+          ],
+          "images": [
+            "images/fall20/11350/Team_3/1.gif",
+            "images/fall20/11350/Team_3/2.gif",
+            "images/fall20/11350/Team_3/3.gif"
+          ]
+        },
+        {
+          "project-name": "Laundr Game",
+          "description": "An 8-bit laundry game that would function as a cute secret bonus game on a 404 or incorrect path page on our site. Like the Google Chrome dinosaur game when there's no wifi.",
+          "tas": ["Grey Johnson"],
+          "members": [
+            "Devin Bartlett",
+            "Raghu Radhakrishnan",
+            "Keith Levengood",
+            "Paige Applegate",
+            "Perry Masterson"
+          ],
+          "images": [
+            "images/fall20/11350/Cowardly_Dogs/1.gif",
+            "images/fall20/11350/Cowardly_Dogs/2.gif",
+            "images/fall20/11350/Cowardly_Dogs/3.gif"
+          ]
+        },
+        {
+          "project-name": "PlagueScore",
+          "description": "User generated review platform for assessing businesses and public spaces adherence to Covid-19 guidelines.",
+          "tas": ["Tyler Metzger"],
+          "members": [
+            "Stefan Hengarter",
+            "Michael Mezzina",
+            "Carlos Cornejo",
+            "Diana Osorio",
+            "Beau Bassett-Audain"
+          ],
+          "images": [
+            "images/fall20/11350/Bandwidth_Bandits/1.gif",
+            "images/fall20/11350/Bandwidth_Bandits/2.gif",
+            "images/fall20/11350/Bandwidth_Bandits/3.gif"
+          ]
+        },
+        {
+          "project-name": "Sandvik",
+          "description": "Web app for autonomous drilling.",
+          "tas": ["Fernando Rivera"],
+          "members": [
+            "John Hoang",
+            "Justin Lapidus",
+            "Agustin Rojas",
+            "Kevin Cheng",
+            "Leonardo Maicelo"
+          ],
+          "images": [
+            "images/fall20/11350/JJALK/1.gif",
+            "images/fall20/11350/JJALK/2.gif",
+            "images/fall20/11350/JJALK/3.gif"
+          ]
+        },
+        {
+          "project-name": "Imprint Genius",
+          "description": "Similar to Shopify. Client facing dashboard. Clients can get updates on invoice, top selling item, what type of features.",
+          "tas": ["Tyler Metzger"],
+          "members": [
+            "Jonathan Riego",
+            "Eric Ho",
+            "Alexis Todd",
+            "Mahan Mahtabfar"
+          ],
+          "images": [
+            "images/fall20/11352/MAGE/1.gif",
+            "images/fall20/11352/MAGE/2.gif",
+            "images/fall20/11352/MAGE/3.gif"
+          ]
+        },
+        {
+          "project-name": "Imprint Genius",
+          "description": "Similar to Shopify. Client facing dashboard. Clients can get updates on invoice, top selling item, what type of features.",
+          "tas": ["Tyler Metzger"],
+          "members": [
+            "Christian Walk",
+            "Samuel Marrero",
+            "Fabio Suarez",
+            "Karla Alonso"
+          ],
+          "images": [
+            "images/fall20/11352/swam_py/1.gif",
+            "images/fall20/11352/swam_py/2.gif",
+            "images/fall20/11352/swam_py/3.gif"
+          ]
+        },
+        {
+          "project-name": "Agora",
+          "description": "With Agora, we will provide a platform where users can submit advertisements for fact-checking and discussion in a corresponding comment section.",
+          "tas": ["Paola Solari"],
+          "members": [
+            "Cameron Morrongiello",
+            "Steven Siegel",
+            "Julia Prieto",
+            "Abdullah Yuksel",
+            "Luis Ardon"
+          ],
+          "images": []
+        },
+        {
+          "project-name": "Business Search",
+          "description": "Allows consumers to more easily find local minority owned businesses.",
+          "tas": ["Destinee Gant"],
+          "members": [
+            "Justin Schwartz",
+            "Allison Denham",
+            "Huy Do",
+            "Isaiah Linares"
+          ],
+          "images": [
+            "images/fall20/11352/Agilitas/1.gif",
+            "images/fall20/11352/Agilitas/2.gif",
+            "images/fall20/11352/Agilitas/3.gif"
+          ]
+        },
+        {
+          "project-name": "Laundr E-Commerce",
+          "description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
+          "tas": ["Eric De Rezende"],
+          "members": [
+            "Jason Gomes",
+            "Paulina Liwanag",
+            "Sagar Patel",
+            "Jack Tian",
+            "Ash Vyas"
+          ],
+          "images": [
+            "images/fall20/11352/JJSAP/1.gif",
+            "images/fall20/11352/JJSAP/2.gif",
+            "images/fall20/11352/JJSAP/3.gif"
+          ]
+        },
+        {
+          "project-name": "Laundr E-Commerce",
+          "description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
+          "tas": ["Eric De Rezende"],
+          "members": [
+            "William Nebinger",
+            "Brando Mora",
+            "Andrea Relova",
+            "Wesley Petry"
+          ],
+          "images": [
+            "images/fall20/11352/MegaBite/1.gif",
+            "images/fall20/11352/MegaBite/2.gif",
+            "images/fall20/11352/MegaBite/3.gif"
+          ]
+        },
+        {
+          "project-name": "DRIPMaP",
+          "description": "A webtool that will allow users to communicate and coordinate disaster response and identify/flag damage and active hazards using an interactive map.",
+          "tas": ["Tyler Metzger"],
+          "members": ["Nickan Hussaini", "Joel John", "Hamish Pierpont"],
+          "images": [
+            "images/fall20/11353/DRIPMaP/1.gif",
+            "images/fall20/11353/DRIPMaP/2.gif",
+            "images/fall20/11353/DRIPMaP/3.gif"
+          ]
+        },
+        {
+          "project-name": "Weathr.io",
+          "description": "Weathr.io will be an interactive web app/SMS client that enables users to access pooled disaster information from their current area, all in one place.",
+          "tas": ["Grey Johnson"],
+          "members": [
+            "Antoine Ferguson",
+            "Colin Adams",
+            "John Dillon",
+            "Tianrui Li",
+            "Victoria Mei"
+          ],
+          "images": [
+            "images/fall20/11353/Golden_Eagles/1.gif",
+            "images/fall20/11353/Golden_Eagles/2.gif",
+            "images/fall20/11353/Golden_Eagles/3.gif"
+          ]
+        },
+        {
+          "project-name": "Green 4 Lyfe",
+          "description": "Web application that allows users to create profiles that develop templates for sustainable living based on their location and preferences.",
+          "tas": ["Paola Solari"],
+          "members": [
+            "Samuel Adams",
+            "Cassandra Garzia",
+            "Robert Quito",
+            "Kendrick Sellers",
+            "Matthew Graham"
+          ],
+          "images": [
+            "images/fall20/11354/Scrumbags/1.gif",
+            "images/fall20/11354/Scrumbags/2.gif",
+            "images/fall20/11354/Scrumbags/3.gif"
+          ]
+        },
+        {
+          "project-name": "Laundr Dashboard",
+          "description": "An admin portal to display information from our database regarding orders, subscriptions, users, etc.",
+          "tas": ["Anna Villena"],
+          "members": [
+            "Hannah Soliman",
+            "Tyler Burt",
+            "Tiffany Scott",
+            "Evan Shapiro"
+          ],
+          "images": [
+            "images/fall20/11354/402/1.gif",
+            "images/fall20/11354/402/2.gif",
+            "images/fall20/11354/402/3.gif"
+          ]
         }
       ]
     }
