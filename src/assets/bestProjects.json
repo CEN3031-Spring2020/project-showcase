@@ -4,9 +4,129 @@
   "projects": {
     "project1": {
       "id": 1,
-      "name": "Too Be Announced!",
-      "description": "Stay Tuned for the results!",
-      "images": []
+      "name": "Digital Twin Marine",
+      "description": "A web app to be a place where our clients can securely access their VR models and any additional data.",
+      "images": [
+        "images/fall20/11350/404/1.gif",
+        "images/fall20/11350/404/2.gif",
+        "images/fall20/11350/404/3.gif"
+      ]
+    },
+    "project2": {
+      "id": 2,
+      "name": "Food Bank System",
+      "description": "We are creating a web application that will assist individuals to donate to food banks around where they live and individuals in need to access food banks easily and effectively. This application will show individuals with a login what a food bank needs with donations. Furthermore, it will show individuals in need what certain food banks have in their inventory and will be able to reserve food items like an online store.",
+      "images": [
+        "images/fall20/11320/GatorDevs/1.gif",
+        "images/fall20/11320/GatorDevs/2.gif",
+        "images/fall20/11320/GatorDevs/3.gif"
+      ]
+    },
+    "project3": {
+      "id": 3,
+      "name": "Digital Twin Marine",
+      "description": "A web app to be a place where our clients can securely access their VR models and any additional data.",
+      "images": [
+        "images/fall20/11320/Scrum_Lords/1.gif",
+        "images/fall20/11320/Scrum_Lords/2.gif",
+        "images/fall20/11320/Scrum_Lords/3.gif"
+      ]
+    },
+    "project4": {
+      "id": 4,
+      "name": "Laundr E-Commerce",
+      "description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
+      "images": ["images/fall20/11321/Git_Happens/1.gif"]
+    },
+    "project5": {
+      "id": 5,
+      "name": "Sandvik",
+      "description": "Web app for autonomous drilling.",
+      "images": [
+        "images/fall20/11348/this_is_not_a_drill/1.gif",
+        "images/fall20/11348/this_is_not_a_drill/2.gif",
+        "images/fall20/11348/this_is_not_a_drill/3.gif"
+      ]
+    },
+    "project6": {
+      "id": 6,
+      "name": "Laundr Game",
+      "description": "An 8-bit laundry game that would function as a cute secret bonus game on a 404 or incorrect path page on our site. Like the Google Chrome dinosaur game when there's no wifi.",
+      "images": [
+        "images/fall20/11349/Chompjs/1.gif",
+        "images/fall20/11349/Chompjs/2.gif",
+        "images/fall20/11349/Chompjs/3.gif"
+      ]
+    },
+    "project7": {
+      "id": 7,
+      "name": "Laundr Dashboard",
+      "description": "An admin portal to display information from our database regarding orders, subscriptions, users, etc.",
+      "images": [
+        "images/fall20/11349/L4undrmat/1.gif",
+        "images/fall20/11349/L4undrmat/2.gif",
+        "images/fall20/11349/L4undrmat/3.gif"
+      ]
+    },
+    "project8": {
+      "id": 8,
+      "name": "A gator’s guide to wellness",
+      "description": "A gators guide to wellness is a web application that helps to guide UFstudents with picking classes and staying physically and mentallybalanced. Tips on mental illness and depression will be provided inaddition to a what if schedule tester to determine how strenuous asemester would be.",
+      "images": [
+        "images/fall20/11349/Alberts_Audit/1.gif",
+        "images/fall20/11349/Alberts_Audit/2.gif",
+        "images/fall20/11349/Alberts_Audit/3.gif"
+      ]
+    },
+    "project9": {
+      "id": 9,
+      "name": "Imprint Genius",
+      "description": "Similar to Shopify. Client facing dashboard. Clients can get updates on invoice, top selling item, what type of features.",
+      "images": [
+        "images/fall20/11352/swam_py/1.gif",
+        "images/fall20/11352/swam_py/2.gif",
+        "images/fall20/11352/swam_py/3.gif"
+      ]
+    },
+    "project10": {
+      "id": 10,
+      "name": "Laundr Dashboard",
+      "description": "An admin portal to display information from our database regarding orders, subscriptions, users, etc.",
+      "images": [
+        "images/fall20/11354/402/1.gif",
+        "images/fall20/11354/402/2.gif",
+        "images/fall20/11354/402/3.gif"
+      ]
+    },
+    "project11": {
+      "id": 11,
+      "name": "Lucere Labs",
+      "description": "A phone app to assist in the detection, collection, and analysis of bioluminescent chemicals.",
+      "images": [
+        "images/fall20_online/5/Fall20_Online_RuntimeWarriors_1.gif",
+        "images/fall20_online/5/Fall20_Online_RuntimeWarriors_2.gif",
+        "images/fall20_online/5/Fall20_Online_RuntimeWarriors_3.gif"
+      ]
+    },
+    "project12": {
+      "id": 12,
+      "name": "NappyHour",
+      "description": "A phone and web app to schedule appointments and recieve alerts from NappyTime.",
+      "images": [
+        "images/fall20_online/10/Summer20_11355_AsyncTeam_1.gif",
+        "images/fall20_online/10/Summer20_11355_AsyncTeam_2.gif",
+        "images/fall20_online/10/Summer20_11355_AsyncTeam_3.gif"
+      ]
+    },
+    "project13": {
+      "id": 13,
+      "name": "ABC Classroom",
+      "description": "A web app with a child friendly UI that helps children manage their studies outside of the classroom.",
+      "images": [
+        "images/fall20_online/12/Fall20_11355_IterGators_1-1.gif",
+        "images/fall20_online/12/Fall20_11355_IterGators_2-1.gif",
+        "images/fall20_online/12/Fall20_11355_IterGators_3-1.gif"
+      ]
     }
   }
 }
