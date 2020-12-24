@@ -1075,6 +1075,257 @@
 			"professor": "Dr. Sanethia Thomas",
 			"projects": [
 				{
+					"project-name": "Laundr E-Commerce",
+					"description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
+					"tas": ["Eric De Rezende"],
+					"members": [
+						"Jared Herbert",
+						"Alec Kruk",
+						"Valentina Casteline",
+						"Ammar Abdullah",
+						"Cameron Burrows"
+					],
+					"images": [
+						"images/fall20/11350/Group_1/1.gif",
+						"images/fall20/11350/Group_1/2.gif",
+						"images/fall20/11350/Group_1/3.gif"
+					]
+				},
+				{
+					"project-name": "Digital Twin Marine",
+					"description": "A web app to be a place where our clients can securely access their VR models and any additional data.",
+					"tas": ["Paola Solari"],
+					"members": ["Joshua Aird", "Deanna Gran", "Amer Khalifa", "Jose Jon"],
+					"images": [
+						"images/fall20/11350/404/1.gif",
+						"images/fall20/11350/404/2.gif",
+						"images/fall20/11350/404/3.gif"
+					]
+				},
+				{
+					"project-name": "Protest Parking",
+					"description": "We propose to build an interface where protest-goers can securely log in to record when they enter and exit a private parking lot to create a non-hassle parking system for lot owners, who would be able to record how much money each car owes.",
+					"tas": ["Jack Zheng"],
+					"members": [
+						"Anurag Akkiraju",
+						"Maeloni Pompilio",
+						"Jeffery Luo",
+						"Christian Murary",
+						"Nicholas Salazar"
+					],
+					"images": [
+						"images/fall20/11350/Team_3/1.gif",
+						"images/fall20/11350/Team_3/2.gif",
+						"images/fall20/11350/Team_3/3.gif"
+					]
+				},
+				{
+					"project-name": "Laundr Game",
+					"description": "An 8-bit laundry game that would function as a cute secret bonus game on a 404 or incorrect path page on our site. Like the Google Chrome dinosaur game when there's no wifi.",
+					"tas": ["Grey Johnson"],
+					"members": [
+						"Devin Bartlett",
+						"Raghu Radhakrishnan",
+						"Keith Levengood",
+						"Paige Applegate",
+						"Perry Masterson"
+					],
+					"images": [
+						"images/fall20/11350/Cowardly_Dogs/1.gif",
+						"images/fall20/11350/Cowardly_Dogs/2.gif",
+						"images/fall20/11350/Cowardly_Dogs/3.gif"
+					]
+				},
+				{
+					"project-name": "PlagueScore",
+					"description": "User generated review platform for assessing businesses and public spaces adherence to Covid-19 guidelines.",
+					"tas": ["Tyler Metzger"],
+					"members": [
+						"Stefan Hengarter",
+						"Michael Mezzina",
+						"Carlos Cornejo",
+						"Diana Osorio",
+						"Beau Bassett-Audain"
+					],
+					"images": [
+						"images/fall20/11350/Bandwidth_Bandits/1.gif",
+						"images/fall20/11350/Bandwidth_Bandits/2.gif",
+						"images/fall20/11350/Bandwidth_Bandits/3.gif"
+					]
+				},
+				{
+					"project-name": "Sandvik",
+					"description": "Web app for autonomous drilling.",
+					"tas": ["Fernando Rivera"],
+					"members": [
+						"John Hoang",
+						"Justin Lapidus",
+						"Agustin Rojas",
+						"Kevin Cheng",
+						"Leonardo Maicelo"
+					],
+					"images": [
+						"images/fall20/11350/JJALK/1.gif",
+						"images/fall20/11350/JJALK/2.gif",
+						"images/fall20/11350/JJALK/3.gif"
+					]
+				},
+				{
+					"project-name": "Imprint Genius",
+					"description": "Similar to Shopify. Client facing dashboard. Clients can get updates on invoice, top selling item, what type of features.",
+					"tas": ["Tyler Metzger"],
+					"members": [
+						"Jonathan Riego",
+						"Eric Ho",
+						"Alexis Todd",
+						"Mahan Mahtabfar"
+					],
+					"images": [
+						"images/fall20/11352/MAGE/1.gif",
+						"images/fall20/11352/MAGE/2.gif",
+						"images/fall20/11352/MAGE/3.gif"
+					]
+				},
+				{
+					"project-name": "Imprint Genius",
+					"description": "Similar to Shopify. Client facing dashboard. Clients can get updates on invoice, top selling item, what type of features.",
+					"tas": ["Tyler Metzger"],
+					"members": [
+						"Christian Walk",
+						"Samuel Marrero",
+						"Fabio Suarez",
+						"Karla Alonso"
+					],
+					"images": [
+						"images/fall20/11352/swam_py/1.gif",
+						"images/fall20/11352/swam_py/2.gif",
+						"images/fall20/11352/swam_py/3.gif"
+					]
+				},
+				{
+					"project-name": "Agora",
+					"description": "With Agora, we will provide a platform where users can submit advertisements for fact-checking and discussion in a corresponding comment section.",
+					"tas": ["Paola Solari"],
+					"members": [
+						"Cameron Morrongiello",
+						"Steven Siegel",
+						"Julia Prieto",
+						"Abdullah Yuksel",
+						"Luis Ardon"
+					],
+					"images": []
+				},
+				{
+					"project-name": "Business Search",
+					"description": "Allows consumers to more easily find local minority owned businesses.",
+					"tas": ["Destinee Gant"],
+					"members": [
+						"Justin Schwartz",
+						"Allison Denham",
+						"Huy Do",
+						"Isaiah Linares"
+					],
+					"images": [
+						"images/fall20/11352/Agilitas/1.gif",
+						"images/fall20/11352/Agilitas/2.gif",
+						"images/fall20/11352/Agilitas/3.gif"
+					]
+				},
+				{
+					"project-name": "Laundr E-Commerce",
+					"description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
+					"tas": ["Eric De Rezende"],
+					"members": [
+						"Jason Gomes",
+						"Paulina Liwanag",
+						"Sagar Patel",
+						"Jack Tian",
+						"Ash Vyas"
+					],
+					"images": [
+						"images/fall20/11352/JJSAP/1.gif",
+						"images/fall20/11352/JJSAP/2.gif",
+						"images/fall20/11352/JJSAP/3.gif"
+					]
+				},
+				{
+					"project-name": "Laundr E-Commerce",
+					"description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
+					"tas": ["Eric De Rezende"],
+					"members": [
+						"William Nebinger",
+						"Brando Mora",
+						"Andrea Relova",
+						"Wesley Petry"
+					],
+					"images": [
+						"images/fall20/11352/MegaBite/1.gif",
+						"images/fall20/11352/MegaBite/2.gif",
+						"images/fall20/11352/MegaBite/3.gif"
+					]
+				},
+				{
+					"project-name": "DRIPMaP",
+					"description": "A webtool that will allow users to communicate and coordinate disaster response and identify/flag damage and active hazards using an interactive map.",
+					"tas": ["Tyler Metzger"],
+					"members": ["Nickan Hussaini", "Joel John", "Hamish Pierpont"],
+					"images": [
+						"images/fall20/11353/DRIPMaP/1.gif",
+						"images/fall20/11353/DRIPMaP/2.gif",
+						"images/fall20/11353/DRIPMaP/3.gif"
+					]
+				},
+				{
+					"project-name": "Weathr.io",
+					"description": "Weathr.io will be an interactive web app/SMS client that enables users to access pooled disaster information from their current area, all in one place.",
+					"tas": ["Grey Johnson"],
+					"members": [
+						"Antoine Ferguson",
+						"Colin Adams",
+						"John Dillon",
+						"Tianrui Li",
+						"Victoria Mei"
+					],
+					"images": [
+						"images/fall20/11353/Golden_Eagles/1.gif",
+						"images/fall20/11353/Golden_Eagles/2.gif",
+						"images/fall20/11353/Golden_Eagles/3.gif"
+					]
+				},
+				{
+					"project-name": "Green 4 Lyfe",
+					"description": "Web application that allows users to create profiles that develop templates for sustainable living based on their location and preferences.",
+					"tas": ["Paola Solari"],
+					"members": [
+						"Samuel Adams",
+						"Cassandra Garzia",
+						"Robert Quito",
+						"Kendrick Sellers",
+						"Matthew Graham"
+					],
+					"images": [
+						"images/fall20/11354/Scrumbags/1.gif",
+						"images/fall20/11354/Scrumbags/2.gif",
+						"images/fall20/11354/Scrumbags/3.gif"
+					]
+				},
+				{
+					"project-name": "Laundr Dashboard",
+					"description": "An admin portal to display information from our database regarding orders, subscriptions, users, etc.",
+					"tas": ["Anna Villena"],
+					"members": [
+						"Hannah Soliman",
+						"Tyler Burt",
+						"Tiffany Scott",
+						"Evan Shapiro"
+					],
+					"images": [
+						"images/fall20/11354/402/1.gif",
+						"images/fall20/11354/402/2.gif",
+						"images/fall20/11354/402/3.gif"
+					]
+				},
+				{
 					"project-name": "Maskr",
 					"description": "Reporting and notification system to aggregate and visualize the frequency ofpeople not wearing masks, grouped by geography.",
 					"tas": ["Tyler Metzger"],
@@ -2249,534 +2500,168 @@
 			]
 		},
 		{
-			"semester": "Summer 2020",
+			"semester": "Fall 2020 - Online",
 			"professor": "Dr. Sanethia Thomas",
 			"projects": [
 				{
-					"project-name": "Home Order",
-					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
-					"tas": ["Jack Zheng"],
-					"members": [
-						"Sriram Selvakumar",
-						"Grant Wise",
-						"Katrina Barredo",
-						"Bricson Linares",
-						"Nathaniel Edgar"
-					],
-					"images": [
-						"images/summer20/17929/Coronavirus_Stallions/1.gif",
-						"images/summer20/17929/Coronavirus_Stallions/2.gif",
-						"images/summer20/17929/Coronavirus_Stallions/3.gif"
-					]
-				},
-				{
-					"project-name": "Home Order",
-					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
-					"tas": ["Jack Zheng"],
-					"members": [
-						"Beau Bakken",
-						"Nicholas Laughlin",
-						"Michael Klein",
-						"Erica Hetrick",
-						"Minato Myers"
-					],
-					"images": [
-						"images/summer20/17929/GatorDelivery/1.gif",
-						"images/summer20/17929/GatorDelivery/2.gif",
-						"images/summer20/17929/GatorDelivery/3.gif"
-					]
-				},
-				{
-					"project-name": "Home Order",
-					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
-					"tas": ["Jack Zheng"],
-					"members": [
-						"Richard Clarke",
-						"Joseph Fauls",
-						"Eddie Gibbons",
-						"Lucas Liseth",
-						"Zayra Rojo-Benitez"
-					],
-					"images": [
-						"images/summer20/17933/CASASTACK/1.gif",
-						"images/summer20/17933/CASASTACK/2.gif",
-						"images/summer20/17933/CASASTACK/3.gif"
-					]
-				},
-				{
-					"project-name": "Home Order",
-					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
-					"tas": ["Megan Wolf"],
-					"members": [
-						"Kyle Ginter",
-						"Nicolas Molano",
-						"Joe Seidel",
-						"Noah Smith",
-						"Martin Tolxdorf"
-					],
-					"images": [
-						"images/summer20/17934/Napper/1.gif",
-						"images/summer20/17934/Napper/2.gif",
-						"images/summer20/17934/Napper/3.gif"
-					]
-				},
-				{
-					"project-name": "Home Order",
-					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
-					"tas": ["Megan Wolf"],
-					"members": [
-						"Siyu Chen",
-						"Hudhayfah Ilyas",
-						"Andrew Pereiro",
-						"Sam Reina",
-						"Xuanhao Shi"
-					],
-					"images": [
-						"images/summer20/17934/MangoDB/1.gif",
-						"images/summer20/17934/MangoDB/2.gif",
-						"images/summer20/17934/MangoDB/3.gif"
-					]
-				},
-				{
-					"project-name": "Home Order",
-					"description": "This is a shopping website/app for the local community to request products and services to be delivered to their door steps. This will allow the users to shop instantly without leaving their homes. The client-side interface will allow them to input their name, phone number, address, the store to be shopped at near them, and the items to be purchased. There will be a timer to track the pick-up and delivery of their merchandise and functionality to control and assign orders to workers near the requested locations.",
-					"tas": ["Megan Wolf"],
-					"members": [
-						"Carson Hamel",
-						"Ashley Kang",
-						"Omar Nasir",
-						"Anthony Neher",
-						"Mark Van Ree"
-					],
-					"images": [
-						"images/summer20/17935/Spark/1.gif",
-						"images/summer20/17935/Spark/2.gif",
-						"images/summer20/17935/Spark/3.gif"
-					]
-				},
-				{
-					"project-name": "Voter Pass",
-					"description": "In an effort to limit long lines and to facilitate social distancing, this solution borrows from Disney’s FastPass to facilitate voting processes. It can be implemented nationwide quickly, easily, securely and with very little new technology.",
-					"tas": ["Jack Zheng"],
-					"members": [
-						"Colin Dunkley",
-						"Nicholas Miller",
-						"Varun Puri",
-						"Kyle Sousa",
-						"Grace Wilcox"
-					],
-					"images": [
-						"images/summer20/17929/BallotBusters/1.gif",
-						"images/summer20/17929/BallotBusters/2.gif",
-						"images/summer20/17929/BallotBusters/3.gif"
-					]
-				},
-				{
-					"project-name": "Voter Pass",
-					"description": "In an effort to limit long lines and to facilitate social distancing, this solution borrows from Disney’s FastPass to facilitate voting processes. It can be implemented nationwide quickly, easily, securely and with very little new technology.",
-					"tas": ["Jack Zheng"],
-					"members": [
-						"Navid Ali",
-						"Cyan Perez",
-						"Jonathan Prevost",
-						"Yuchen Xiong"
-					],
-					"images": [
-						"images/summer20/17929/TrevorForget/1.gif",
-						"images/summer20/17929/TrevorForget/2.gif",
-						"images/summer20/17929/TrevorForget/3.gif"
-					]
-				},
-				{
-					"project-name": "Voter Pass",
-					"description": "In an effort to limit long lines and to facilitate social distancing, this solution borrows from Disney’s FastPass to facilitate voting processes. It can be implemented nationwide quickly, easily, securely and with very little new technology.",
-					"tas": ["Jack Zheng"],
-					"members": [
-						"Kyle Bradley",
-						"Justin Chen",
-						"Christian Ortega",
-						"Catherine Swerdloff",
-						"Luis Torre"
-					],
-					"images": [
-						"images/summer20/17933/Team_Four/1.gif",
-						"images/summer20/17933/Team_Four/2.gif",
-						"images/summer20/17933/Team_Four/3.gif"
-					]
-				},
-				{
-					"project-name": "Voter Pass",
-					"description": "In an effort to limit long lines and to facilitate social distancing, this solution borrows from Disney’s FastPass to facilitate voting processes. It can be implemented nationwide quickly, easily, securely and with very little new technology.",
-					"tas": ["Megan Wolf"],
-					"members": [
-						"Thomas Burns",
-						"Daniela Fragoso Diaz",
-						"Zack Galpern",
-						"Cooper Martin",
-						"Jacob Sparks"
-					],
-					"images": [
-						"images/summer20/17935/VPTeam/1.gif",
-						"images/summer20/17935/VPTeam/2.gif",
-						"images/summer20/17935/VPTeam/3.gif"
-					]
-				},
-				{
-					"project-name": "Activist Agenda",
-					"description": "A distance-policing method for conducting traffic stops.",
-					"tas": ["Jack Zheng"],
-					"members": [
-						"Nicole Ajoy",
-						"Xavier Esteve",
-						"Tyson Freeman",
-						"John Gray",
-						"Laurence Mullen"
-					],
-					"images": [
-						"images/summer20/17933/Vox_Populi/1.gif",
-						"images/summer20/17933/Vox_Populi/2.gif",
-						"images/summer20/17933/Vox_Populi/3.gif"
-					]
-				},
-				{
-					"project-name": "DashChat",
-					"description": "A distance-policing method for conducting traffic stops.",
-					"tas": ["Jack Zheng"],
-					"members": [
-						"Bryan Marin",
-						"Lee Caputo",
-						"Ayden Dunn",
-						"Jerry Tran",
-						"Akshita Kandlikar"
-					],
-					"images": [
-						"images/summer20/17933/The_Crusty_Crabs/1.gif",
-						"images/summer20/17933/The_Crusty_Crabs/2.gif",
-						"images/summer20/17933/The_Crusty_Crabs/3.gif"
-					]
-				},
-				{
-					"project-name": "Pin & Protest",
-					"description": "Crowdsourced protest tracker where locations of protests (violent and non-violent) are displayed on a map. It helps people trying to avoid violent protests or join in peaceful ones. Users are central to the implementation. Those witnessing protests can report them on the web app so that others can see their location. There are also protest-specific news feeds where people can upload pictures or updates therefore giving them the possibility to focus on a particular protest and filter out others.",
-					"tas": ["Megan Wolf"],
-					"members": [
-						"Cole Fisher",
-						"Pratik Gajjar",
-						"Ismail Hilali",
-						"Alexander Mead",
-						"Isabella  Rodriguez"
-					],
-					"images": [
-						"images/summer20/17934/The_Crocodiles/1.gif",
-						"images/summer20/17934/The_Crocodiles/2.gif",
-						"images/summer20/17934/The_Crocodiles/3.gif"
-					]
-				},
-				{
-					"project-name": "CovidShare",
-					"description": "Our project is an interactive COVID-19 database. The goal of the web application is to serve as both a formal and informal resource guide for COVID-19. In this web application we will provide information and statistics about the disease, as well as provide a platform for those who have had the disease and want to inform others about their experience.",
-					"tas": ["Megan Wolf"],
-					"members": [
-						"Timothy Krause",
-						"Mini Luo",
-						"Moises  Rodan",
-						"Erik Rosa",
-						"Adrian Wright"
-					],
-					"images": [
-						"images/summer20/17934/CovidShare/1.gif",
-						"images/summer20/17934/CovidShare/2.gif",
-						"images/summer20/17934/CovidShare/3.gif"
-					]
-				},
-				{
-					"project-name": "Homeroom Professor",
-					"description": "This is a volunteer service for faculty in colleges to be able to tutor elementary, middle, and high school students. This is in response to the pandemic in which all schools are online. This service will help parents and teachers, provide opportunity for students to interact with professors from college, and allow people in higher education to give back and be viewed as role models to encourage students that they can be anything they want to be.",
-					"tas": ["Megan Wolf"],
-					"members": [
-						"Tyler Allen",
-						"Frank Camargo",
-						"Daniel Labes",
-						"Ammar Syed"
-					],
-					"images": [
-						"images/summer20/17935/SwampBuddies/1.gif",
-						"images/summer20/17935/SwampBuddies/2.gif",
-						"images/summer20/17935/SwampBuddies/3.gif"
-					]
-				},
-				{
-					"project-name": "VoterCon",
-					"description": "An application that allows voters of all different political ideologies and backgrounds to get polling location information and compare candidate policies and ideologies.",
-					"tas": ["Megan Wolf"],
-					"members": [
-						"Daniel Fernandes",
-						"Carlson Joseph",
-						"Robert Quito",
-						"Dylan VanStaden",
-						"Ty Van Roy"
-					],
-					"images": [
-						"images/summer20/17935/WebHeads/1.gif",
-						"images/summer20/17935/WebHeads/2.gif",
-						"images/summer20/17935/WebHeads/3.gif"
-					]
-				}
-			]
-		},
-		{
-			"semester": "Fall 2020",
-			"professor": "Dr. Sanethia Thomas",
-			"projects": [
-				{
-					"project-name": "Laundr E-Commerce",
-					"description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
-					"tas": ["Eric De Rezende"],
-					"members": [
-						"Jared Herbert",
-						"Alec Kruk",
-						"Valentina Casteline",
-						"Ammar Abdullah",
-						"Cameron Burrows"
-					],
-					"images": [
-						"images/fall20/11350/Group_1/1.gif",
-						"images/fall20/11350/Group_1/2.gif",
-						"images/fall20/11350/Group_1/3.gif"
-					]
-				},
-				{
-					"project-name": "Digital Twin Marine",
-					"description": "A web app to be a place where our clients can securely access their VR models and any additional data.",
-					"tas": ["Paola Solari"],
-					"members": ["Joshua Aird", "Deanna Gran", "Amer Khalifa", "Jose Jon"],
-					"images": [
-						"images/fall20/11350/404/1.gif",
-						"images/fall20/11350/404/2.gif",
-						"images/fall20/11350/404/3.gif"
-					]
-				},
-				{
-					"project-name": "Protest Parking",
-					"description": "We propose to build an interface where protest-goers can securely log in to record when they enter and exit a private parking lot to create a non-hassle parking system for lot owners, who would be able to record how much money each car owes.",
-					"tas": ["Jack Zheng"],
-					"members": [
-						"Anurag Akkiraju",
-						"Maeloni Pompilio",
-						"Jeffery Luo",
-						"Christian Murary",
-						"Nicholas Salazar"
-					],
-					"images": [
-						"images/fall20/11350/Team_3/1.gif",
-						"images/fall20/11350/Team_3/2.gif",
-						"images/fall20/11350/Team_3/3.gif"
-					]
-				},
-				{
-					"project-name": "Laundr Game",
-					"description": "An 8-bit laundry game that would function as a cute secret bonus game on a 404 or incorrect path page on our site. Like the Google Chrome dinosaur game when there's no wifi.",
-					"tas": ["Grey Johnson"],
-					"members": [
-						"Devin Bartlett",
-						"Raghu Radhakrishnan",
-						"Keith Levengood",
-						"Paige Applegate",
-						"Perry Masterson"
-					],
-					"images": [
-						"images/fall20/11350/Cowardly_Dogs/1.gif",
-						"images/fall20/11350/Cowardly_Dogs/2.gif",
-						"images/fall20/11350/Cowardly_Dogs/3.gif"
-					]
-				},
-				{
-					"project-name": "PlagueScore",
-					"description": "User generated review platform for assessing businesses and public spaces adherence to Covid-19 guidelines.",
-					"tas": ["Tyler Metzger"],
-					"members": [
-						"Stefan Hengarter",
-						"Michael Mezzina",
-						"Carlos Cornejo",
-						"Diana Osorio",
-						"Beau Bassett-Audain"
-					],
-					"images": [
-						"images/fall20/11350/Bandwidth_Bandits/1.gif",
-						"images/fall20/11350/Bandwidth_Bandits/2.gif",
-						"images/fall20/11350/Bandwidth_Bandits/3.gif"
-					]
-				},
-				{
-					"project-name": "Sandvik",
-					"description": "Web app for autonomous drilling.",
-					"tas": ["Fernando Rivera"],
-					"members": [
-						"John Hoang",
-						"Justin Lapidus",
-						"Agustin Rojas",
-						"Kevin Cheng",
-						"Leonardo Maicelo"
-					],
-					"images": [
-						"images/fall20/11350/JJALK/1.gif",
-						"images/fall20/11350/JJALK/2.gif",
-						"images/fall20/11350/JJALK/3.gif"
-					]
-				},
-				{
-					"project-name": "Imprint Genius",
-					"description": "Similar to Shopify. Client facing dashboard. Clients can get updates on invoice, top selling item, what type of features.",
-					"tas": ["Tyler Metzger"],
-					"members": [
-						"Jonathan Riego",
-						"Eric Ho",
-						"Alexis Todd",
-						"Mahan Mahtabfar"
-					],
-					"images": [
-						"images/fall20/11352/MAGE/1.gif",
-						"images/fall20/11352/MAGE/2.gif",
-						"images/fall20/11352/MAGE/3.gif"
-					]
-				},
-				{
-					"project-name": "Imprint Genius",
-					"description": "Similar to Shopify. Client facing dashboard. Clients can get updates on invoice, top selling item, what type of features.",
-					"tas": ["Tyler Metzger"],
-					"members": [
-						"Christian Walk",
-						"Samuel Marrero",
-						"Fabio Suarez",
-						"Karla Alonso"
-					],
-					"images": [
-						"images/fall20/11352/swam_py/1.gif",
-						"images/fall20/11352/swam_py/2.gif",
-						"images/fall20/11352/swam_py/3.gif"
-					]
-				},
-				{
-					"project-name": "Agora",
-					"description": "With Agora, we will provide a platform where users can submit advertisements for fact-checking and discussion in a corresponding comment section.",
-					"tas": ["Paola Solari"],
-					"members": [
-						"Cameron Morrongiello",
-						"Steven Siegel",
-						"Julia Prieto",
-						"Abdullah Yuksel",
-						"Luis Ardon"
-					],
-					"images": []
-				},
-				{
-					"project-name": "Business Search",
-					"description": "Allows consumers to more easily find local minority owned businesses.",
+					"project-name": "StoryPlay - A",
+					"description": "An online app with a simple and intuitive ui that helps children explore STEM fields through play and interaction.",
 					"tas": ["Destinee Gant"],
 					"members": [
-						"Justin Schwartz",
-						"Allison Denham",
-						"Huy Do",
-						"Isaiah Linares"
+						"Marshall Aiken",
+						"Oliver Dahl",
+						"Corey Smith",
+						"Fabiha Sayed"
 					],
 					"images": [
-						"images/fall20/11352/Agilitas/1.gif",
-						"images/fall20/11352/Agilitas/2.gif",
-						"images/fall20/11352/Agilitas/3.gif"
+						"images/fall20_online/1/Fall20_Group1StoryPlay_1.gif",
+						"images/fall20_online/1/Fall20_Group1StoryPlay_2.gif",
+						"images/fall20_online/1/Fall20_Group1StoryPlay_3.gif"
 					]
 				},
 				{
-					"project-name": "Laundr E-Commerce",
-					"description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
-					"tas": ["Eric De Rezende"],
+					"project-name": "NappyHour - A",
+					"description": "An phone app to schedule appointments and recieve alerts from NappyTime.",
+					"tas": ["Destinee Gant"],
 					"members": [
-						"Jason Gomes",
-						"Paulina Liwanag",
-						"Sagar Patel",
-						"Jack Tian",
-						"Ash Vyas"
+						"Emmanuel Garcia Peguero",
+						"Benjamin Avi Weiss",
+						"Berlin Sankar",
+						"Octavio Ochoa"
 					],
 					"images": [
-						"images/fall20/11352/JJSAP/1.gif",
-						"images/fall20/11352/JJSAP/2.gif",
-						"images/fall20/11352/JJSAP/3.gif"
+						"images/fall20_online/2/Fall20_online_group2_1.gif",
+						"images/fall20_online/2/Fall20_online_group2_2.gif",
+						"images/fall20_online/2/Fall20_online_group2_3.gif"
 					]
 				},
 				{
-					"project-name": "Laundr E-Commerce",
-					"description": "An e-commerce store that models our current one, featuring our new laundry detergent.",
-					"tas": ["Eric De Rezende"],
+					"project-name": "Bealls",
+					"description": "A user assistance chatbot that is integrated into a clean mock of the Bealls site.",
+					"tas": ["Destinee Gant"],
 					"members": [
-						"William Nebinger",
-						"Brando Mora",
-						"Andrea Relova",
-						"Wesley Petry"
+						"Eric Lehmann",
+						"Madeleine Godette",
+						"Simon Tobon",
+						"Owen Farthing"
 					],
 					"images": [
-						"images/fall20/11352/MegaBite/1.gif",
-						"images/fall20/11352/MegaBite/2.gif",
-						"images/fall20/11352/MegaBite/3.gif"
+						"images/fall20_online/4/Fall20_ForWhomTheBeallTolls_1.gif",
+						"images/fall20_online/4/Fall20_ForWhomTheBeallTolls_2.gif",
+						"images/fall20_online/4/Fall20_ForWhomTheBeallTolls_3.gif"
 					]
 				},
 				{
-					"project-name": "DRIPMaP",
-					"description": "A webtool that will allow users to communicate and coordinate disaster response and identify/flag damage and active hazards using an interactive map.",
-					"tas": ["Tyler Metzger"],
-					"members": ["Nickan Hussaini", "Joel John", "Hamish Pierpont"],
+					"project-name": "Lucere Labs - A",
+					"description": "A phone app to assist in the detection, collection, and analysis of bioluminescent chemicals.",
+					"tas": ["Destinee Gant"],
+					"members": [
+						"Ciprian Silivestru",
+						"Jonah Kornberg",
+						"Vanessa Orantes",
+						"Jose Lopez"
+					],
 					"images": [
-						"images/fall20/11353/DRIPMaP/1.gif",
-						"images/fall20/11353/DRIPMaP/2.gif",
-						"images/fall20/11353/DRIPMaP/3.gif"
+						"images/fall20_online/5/Fall20_Online_RuntimeWarriors_1.gif",
+						"images/fall20_online/5/Fall20_Online_RuntimeWarriors_2.gif",
+						"images/fall20_online/5/Fall20_Online_RuntimeWarriors_3.gif"
 					]
 				},
 				{
-					"project-name": "Weathr.io",
-					"description": "Weathr.io will be an interactive web app/SMS client that enables users to access pooled disaster information from their current area, all in one place.",
+					"project-name": "VolunteerNation",
+					"description": "An online app that puts those in need and volunteers together with a focus on safety.",
+					"tas": ["Destinee Gant"],
+					"members": [
+						"Vincente Squitiro",
+						"Jacob Menke",
+						"Mohamed Mohamed",
+						"Monica Lewis",
+						"John Welsh"
+					],
+					"images": [
+						"images/fall20_online/6/Fall20_online_VolunteerNation_1.gif",
+						"images/fall20_online/6/Fall20_online_VolunteerNation_2.gif",
+						"images/fall20_online/6/Fall20_online_VolunteerNation_3.gif"
+					]
+				},
+				{
+					"project-name": "Covid on Flight",
+					"description": "An online app that allows users to register and recieve notifications when they have been in contact with at-risk individuals on flights.",
 					"tas": ["Grey Johnson"],
 					"members": [
-						"Antoine Ferguson",
-						"Colin Adams",
-						"John Dillon",
-						"Tianrui Li",
-						"Victoria Mei"
+						"Sadie Crawford",
+						"Gary Jones",
+						"Chase Lee",
+						"Ricardo Netto",
+						"Stephen Smith"
 					],
 					"images": [
-						"images/fall20/11353/Golden_Eagles/1.gif",
-						"images/fall20/11353/Golden_Eagles/2.gif",
-						"images/fall20/11353/Golden_Eagles/3.gif"
+						"images/fall20_online/7/Summer20_11355_AwesomeBand_1.gif",
+						"images/fall20_online/7/Summer20_11355_AwesomeBand_2.gif",
+						"images/fall20_online/7/Summer20_11355_AwesomeBand_3.gif"
 					]
 				},
 				{
-					"project-name": "Green 4 Lyfe",
-					"description": "Web application that allows users to create profiles that develop templates for sustainable living based on their location and preferences.",
-					"tas": ["Paola Solari"],
+					"project-name": "Lucere Labs - B",
+					"description": "A phone app to assist in the detection, collection, and analysis of bioluminescent chemicals.",
+					"tas": ["Destinee Gant"],
 					"members": [
-						"Samuel Adams",
-						"Cassandra Garzia",
-						"Robert Quito",
-						"Kendrick Sellers",
-						"Matthew Graham"
+						"Sean Howard",
+						"Deanna Lark",
+						"Jeremy Palavecino",
+						"Cory Robertson"
 					],
 					"images": [
-						"images/fall20/11354/Scrumbags/1.gif",
-						"images/fall20/11354/Scrumbags/2.gif",
-						"images/fall20/11354/Scrumbags/3.gif"
+						"images/fall20_online/8/gif1.gif",
+						"images/fall20_online/8/gif2.gif",
+						"images/fall20_online/8/gif3.gif"
 					]
 				},
 				{
-					"project-name": "Laundr Dashboard",
-					"description": "An admin portal to display information from our database regarding orders, subscriptions, users, etc.",
-					"tas": ["Anna Villena"],
+					"project-name": "StoryPlay - B",
+					"description": "An online app with a simple and intuitive ui that helps children explore STEM fields through play and interaction.",
+					"tas": ["Destinee Gant"],
 					"members": [
-						"Hannah Soliman",
-						"Tyler Burt",
-						"Tiffany Scott",
-						"Evan Shapiro"
+						"Joshua Gooderham",
+						"Sean Hand",
+						"Kevin Karch"
 					],
 					"images": [
-						"images/fall20/11354/402/1.gif",
-						"images/fall20/11354/402/2.gif",
-						"images/fall20/11354/402/3.gif"
+						"images/fall20_online/9/Fall20_Online_StoryPlay_1.gif",
+						"images/fall20_online/9/Fall20_Online_StoryPlay_1.gif",
+						"images/fall20_online/9/Fall20_Online_StoryPlay_1.gif"
+					]
+				},
+				{
+					"project-name": "NappyHour - B",
+					"description": "An phone and web app to schedule appointments and recieve alerts from NappyTime.",
+					"tas": ["Destinee Gant"],
+					"members": [
+						"Diego Ferrer",
+						"Sean Kovacs",
+						"Marcos Rivera",
+						"Kevin Ryan"
+					],
+					"images": [
+						"images/fall20_online/10/Summer20_11355_AsyncTeam_1.gif",
+						"images/fall20_online/10/Summer20_11355_AsyncTeam_2.gif",
+						"images/fall20_online/10/Summer20_11355_AsyncTeam_3.gif"
+					]
+				},
+				{
+					"project-name": "ABC Classroom",
+					"description": "A web app with a child friendly UI that helps children manage their studies outside of the classroom.",
+					"tas": ["Grey Johnson"],
+					"members": [
+						"Alina Mitchell",
+						"Craig Boger",
+						"Abraham Yang",
+						"Malyssa Calarco"
+					],
+					"images": [
+						"images/fall20_online/12/Fall20_11355_IterGators_1-1.gif",
+						"images/fall20_online/12/Fall20_11355_IterGators_2-1.gif",
+						"images/fall20_online/12/Fall20_11355_IterGators_3-1.gif"
 					]
 				}
 			]
