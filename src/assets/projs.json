@@ -2504,7 +2504,7 @@
 			"professor": "Dr. Sanethia Thomas",
 			"projects": [
 				{
-					"project-name": "StoryPlay - A",
+					"project-name": "StoryPlay",
 					"description": "An online app with a simple and intuitive ui that helps children explore STEM fields through play and interaction.",
 					"tas": ["Destinee Gant"],
 					"members": [
@@ -2520,7 +2520,7 @@
 					]
 				},
 				{
-					"project-name": "NappyHour - A",
+					"project-name": "NappyHour",
 					"description": "An phone app to schedule appointments and recieve alerts from NappyTime.",
 					"tas": ["Destinee Gant"],
 					"members": [
@@ -2552,7 +2552,7 @@
 					]
 				},
 				{
-					"project-name": "Lucere Labs - A",
+					"project-name": "Lucere Labs",
 					"description": "A phone app to assist in the detection, collection, and analysis of bioluminescent chemicals.",
 					"tas": ["Destinee Gant"],
 					"members": [
@@ -2602,7 +2602,7 @@
 					]
 				},
 				{
-					"project-name": "Lucere Labs - B",
+					"project-name": "Lucere Labs",
 					"description": "A phone app to assist in the detection, collection, and analysis of bioluminescent chemicals.",
 					"tas": ["Destinee Gant"],
 					"members": [
@@ -2618,7 +2618,7 @@
 					]
 				},
 				{
-					"project-name": "StoryPlay - B",
+					"project-name": "StoryPlay",
 					"description": "An online app with a simple and intuitive ui that helps children explore STEM fields through play and interaction.",
 					"tas": ["Destinee Gant"],
 					"members": [
@@ -2633,7 +2633,7 @@
 					]
 				},
 				{
-					"project-name": "NappyHour - B",
+					"project-name": "NappyHour",
 					"description": "A phone and web app to schedule appointments and recieve alerts from NappyTime.",
 					"tas": ["Destinee Gant"],
 					"members": [
