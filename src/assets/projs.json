@@ -2665,6 +2665,507 @@
 					]
 				}
 			]
+		},
+		{
+			"semester": "Spring 2021",
+			"professor": "Dr. Sanethia Thomas",
+			"projects": [
+				{
+						"project-name": "Animex",
+						"description": "Animex is a platform that combines the organization of forums with real-time chat about your favorite shows",
+						"tas": ["Paulina Liwanag", "Destinee Gant"],
+						"members": ["Lisa Touchton", "Sagan Sutherland", "Nicole Telesz","Adam Slavny"],
+						"images": ["images/spring21/Spring21_9_5_1.gif", "images/spring21/Spring21_9_5_2.gif", "images/spring21/Spring21_9_5_3.gif"]
+				}
+				,{
+					"project-name": "GitHub Leaderboard",
+					"description": "Compete on productivity in GitHub repos!",
+					"tas": ["Dahlia", "Alex"],
+					"members": ["Alex Diep", "Andrew Wingham", "Gitaek Lee", "Jackson Taylor"],
+					"images": ["images/spring21/use_github.gif", "images/spring21/manage_participants.gif", "images/spring21/create_leaderboard.gif"]
+				}
+				
+				,{
+						"project-name": "AED Professional Development Submissions Portal" ,
+						"description": "Portal for AED members: view events, submit proof of attending, comment wall",
+						"tas": ["Grey Johnson"],
+						"members": ["Lara Copas", "Zachary Kerr", "Alexander Dawson", "Turner Shultz", "David Malevsky"],
+						"images": ["images/spring21/Spring21_period4_TheEpic_1.gif", "images/spring21/Spring21_period4_TheEpic_2.gif", "images/spring21/Spring21_period4_TheEpic_3.gif"]
+				}
+				
+				,{
+						"project-name": "Entrepreneurship Overhaul",
+						"description": "We are creating a new club website for the entrepreneurship collective so they have a way to organize and centralize all their information about various aspects of the club such as meeting times, members, and etc.",
+						"tas": ["Alex", "Dahlia"],
+						"members": ["Anthony Khmarin", "Brady Ogle", "Josh Abraham", "Justin Ho"],
+						"images": ["images/spring21/navbar.gif", "images/spring21/calendar.gif", "images/spring21/gallery.gif"]
+				}
+				,{
+						"project-name": "Bull Market",
+						"description": "A website providing information about Student Investment Club including meetings, featuring previous presentations, announcements, executive board members, and links to social media platforms, FAQ section.",
+						"tas": ["Grey Johnson"],
+						"members": ["Emily Arnold", "Colin Kubisiak", "James Horn", "Steven Rosenthal"],
+						"images": ["images/spring21/Spring21_5_Bull_Market_1.gif", "images/spring21/Spring21_5_Bull_Market_2.gif", "images/spring21/Spring21_5_Bull_Market_3.gif"]
+				}
+				,{
+						"project-name": "Gatorloop Inventory Management System",
+						"description": "This is a web app where Gatorloop team members can check-in and checkout inventory and place new purchase orders.",
+						"tas": ["Grey Johnson"],
+						"members": ["Edward Zhang", "Broderick Golden", "Roberto Edde", "Nicole Liang", "Kyle Fohrman"],
+						"images": ["images/spring21/Spring21_p4_GooglingGators_1.gif", "images/spring21/Spring21_p4_GooglingGators_2.gif", "images/spring21/Spring21_p4_GooglingGators_3.gif"]
+				}
+				,{
+						"project-name": "SSDynamic Website",
+						"description": "A new Dynamic Website for the Society of Software Developers which included Calendar and Blogging Functionality.",
+						"tas": ["Tyler Metzger", "Fernando Rivera"],
+						"members": ["Derek Perdomo", "Robert Obendorf", "Caijun Qin"],
+						"images": ["images/spring21/Spring21_7_TremendousTuple_1.gif", "images/spring21/Spring21_7_TremendousTuple_2.gif", "images/spring21/Spring21_7_TremendousTuple_3.gif"]
+				}
+				,{
+						"project-name": "UF SASE Website",
+						"description": "We created a website for the UF Society of Asian Scientists and Engineers. This website allows club members to get announcements, read highlight articles, and find out about new events. We also built out an admin dashboard so that the board members can view the Mailchimp mailing list and view/edit/delete users, articles, events, and announcements. The website also includes login and signup functionality.",
+						"tas": ["Grey Johnson"],
+						"members": ["Amber Fisher", "Carlos de Guzman", "Joshua Bautista", "Joshua Fu"],
+						"images": ["images/spring21/Spring21_P5_JJAC_1.gif", "images/spring21/Spring21_P5_JJAC_2.gif", "images/spring21/Spring21_P5_JJAC_3.gif"]
+				}
+				,{
+					"project-name": "Gator Gathering",
+					"description": "A game where you control an alligator collecting items and defending against enemies",
+					"tas": ["Jack Zheng"],
+					"members": ["Thaddeus Muchnok", "Ethan Graff", "Daniel Brodbeck", "Derek Musial"],
+					"images": ["images/spring21/Spring21_11_Firebenders_1.gif", "images/spring21/Spring21_11_Firebenders_2.gif", "images/spring21/Spring21_11_Firebenders_3.gif"]
+				}
+				,{
+						"project-name": "Gator Chess Club Website and Chess Opening Tool",
+						"description": "A website for the Gator Chess Club that contains club information and a tool to practice chess openings.",
+						"tas": ["Tyler Metzger", "Fernando Rivera"],
+						"members": ["Dalton Cravens", "Andrew Penton", "Emily Namm", "Jordan Marquis"],
+						"images": ["images/spring21/Spring21_6_TeamJADE_1.gif", "images/spring21/Spring21_6_TeamJADE_2.gif", "images/spring21/Spring21_6_TeamJADE_3.gif"]
+				}
+				,{
+						"project-name": "DCPA UF APP",
+						"description": "Mobile app for the DCP Ambassadors that is compatible with both iOS and Android platforms. This app can be used by ambassadors as well as potential students who would like to join the College of Design, Construction, and Planning. ",
+						"tas": ["Fernando Rivera", "Tyler Metzger"],
+						"members": ["Juan Gonzalez", "Miguel Caputo", "Colin Naehr", "Russell Abedeen"],
+						"images": ["images/spring21/Spring21_7_PineApple_1.gif", "images/spring21/Spring21_7_PineApple_2.gif", "images/spring21/Spring21_7_PineApple_3.gif"]
+				}
+				,{
+						"project-name": "CASA-Website",
+						"description": "This website is a landing page for the club, Cuban American Student Association. It features information about the club, upcoming events, club leadership, and places for visitors to access club social media sites.",
+						"tas": ["Paulina Liawang", "Destinee Gant"],
+						"members": ["Nicholas Verdugo", "Julio Montes de Oca", "Vianne Zhang", "Sam Fleischer"],
+						"images": ["images/spring21/Spring21_P8_SoftwareDev(il)s_1.gif", "images/spring21/Spring21_P8_SoftwareDev(il)s_2.gif", "images/spring21/Spring21_P8_SoftwareDev(il)s_3.gif"]
+				}
+				,{
+						"project-name": "Skator",
+						"description": "A mobile game developed for the UF Skateboarding Club by P10T3",
+						"tas": ["Alexander Webber", "Jack Zheng"],
+						"members": ["Jackson Avery", "Ian Baldwin", "Lucas Cancio","Riley Rodriguez"],
+						"images": ["images/spring21/Spring21_P10T3_HastyGamedevs_1.gif", "images/spring21/Spring21_P10T3_HastyGamedevs_2.gif", "images/spring21/Spring21_P10T3_HastyGamedevs_3.gif"]
+				}
+				,{
+					"project-name": "Space Systems Design Club Website",
+					"description": "A functional club website for the Space Systems Design Club at UF.",
+					"tas": ["Alex Webber", "Jack Zheng"],
+					"members": ["Nicolas Santiago", "Elizabeth Churinov", "Lukas Vaiciunas", "Nicolas Cancio"],
+					"images":["images/spring21/Spring21_period10_HomegrownAlligators_1.gif", "images/spring21/Spring21_period10_HomegrownAlligators_2.gif", "images/spring21/Spring21_period10_HomegrownAlligators_3.gif"]
+				}
+				,{
+						"project-name": "CEN3031 Web Application",
+						"description": "A class website made for CEN3031 that stores students' projects in a project showcase page, as well as groups students after taking the pairing survey. Also includes a resource page for helpful resources about software engineering.",
+						"tas": ["Grey Johnson"],
+						"members": ["Christopher Schmidt", "Will Kirby", "Vikram Roy", "Dillan Maraj"],
+						"images": ["images/spring21/Spring21_5_2_1.gif", "images/spring21/Spring21_5_2_2.gif", "images/spring21/Spring21_5_2_3.gif"]
+				}
+				,{
+						"project-name": "Engineering Exercise",
+						"description": "Website for UF Theta Tau Health and Fitness.",
+						"tas": ["Alexander Webber", "Dahlia La Pommeray"],
+						"members": ["Benjamin Rodriguez", "Thomas Hancock", "Sydney Opyrchal"],
+						"images": ["images/spring21/Spring21_period2_EngineeringExercise_1.gif", "images/spring21/Spring21_period2_EngineeringExercise_2.gif", "images/spring21/Spring21_period2_EngineeringExercise_3.gif"]
+				}
+				,{
+						"project-name": "Magic the Gatoring",
+						"description": "Website for the Magic the Gatoring club",
+						"tas": ["Jack Zheng"],
+						"members": ["Ryan Feldbush", "Ryan Dupuis", "Xiaowei Jiang"],
+						"images": ["images/spring21/Spring21_11_RyanAndCo_1.gif", "images/spring21/Spring21_11_RyanAndCo_2.gif", "images/spring21/Spring21_11_RyanAndCo_3.gif"]
+				}
+				,{
+						"project-name": "UF Wakeboard Club Website",
+						"description": "A website that accurately and nicely showcases the club and mission. It is meant to attract new members to help the club grow from one consolidated location.",
+						"tas": ["Grey Johnson"],
+						"members": ["Gabriella Neris", "Matthew Clausen", "Samuel Liechty", "David Smith"],
+						"images": ["images/spring21/Spring21_P4T3_TeamMonday_1.gif", "images/spring21/Spring21_P4T3_TeamMonday_2.gif", "images/spring21/Spring21_P4T3_TeamMonday_3.gif"]
+				}
+				,{
+						"project-name": "Creative Practice Website",
+						"description": "A website for Creative Practice, a medical school student organization that preforms plays for children at Shands. It features an: - About Us Page: Displays general club information and pictures - A Performances Page: Displays past club performances - A Calendar Page: Shows the club calendar and club events posted on the calendar - A Contact Us Page: Allows the user to send an email to the club administrators directly through the website",
+						"tas": ["Dahlia La Pommeray", "Alexander Webber"],
+						"members": ["Michael Ivanov", "Sebastian Faur�", "Valeria Martinez", "Mitchell Robert"],
+						"images": ["images/spring21/Spring21_2_2_HackingGators_1.gif", "images/spring21/Spring21_2_2_HackingGators_2.gif", "images/spring21/Spring21_2_2_HackingGators_3.gif"]
+				}
+				,{    
+						"project-name": "Society of Undergraduate Surgeons Website",
+						"description": "Website to showcase the ideals, events, and general club information.",
+						"tas": ["Grey Johnson"],
+						"members": ["Reinier Cruz Carnero", "Xuanting Liu", "Chason Pratt" , "Taylor Fredrick"],
+						"images": ["images/spring21/Spring21_period4_team4_1.gif", "images/spring21/Spring21_period4_team4_2.gif", "images/spring21/Spring21_period4_team4_3.gif"]
+				}
+				,{
+						"project-name": "Gator TPED Website",
+						"description": "A website with post functionality and calendar for UF Gator Theme Park & Engineering Design",
+						"tas": ["Paola Solari"],
+						"members": ["Richard Bailey", "Matthew Lorelle", "Annabella Vilomar", "Blake Gray"],
+						"images": ["images/spring21/Spring21_P2T1_Island of SoftwareVentures_1.gif", "images/spring21/Spring21_P2T1_Island of SoftwareVentures_2.gif", "images/spring21/Spring21_P2T1_Island of SoftwareVentures_3.gif"]
+				}
+				,{
+						"project-name": "Chess Tournament Conduction System",
+						"description": "A website for Gator Chess Club to manage in-person chess tournaments.",
+						"tas": ["Paulina Liwanag", "Destinee Gant"],
+						"members": ["Praveen Anbu", "Dylan Tarlowe", "Aayush Shah", "Kristian Haseley"],
+						"images": ["images/spring21/AddingPlayer.gif", "images/spring21/CreatingTournament.gif", "images/spring21/UpdatingScores.gif"]
+				}
+				,{
+						"project-name": "Gators of the Coast",
+						"description": "Pair-A-Dice Boardgaming Club Website",
+						"tas": ["Jack Zheng", "Alex Webber"],
+						"members": ["Marissa Manley", "Jacob Bleser", "Ethan Haengel", "Juan Pablo Lancheros"],
+						"images": ["images/spring21/Spring21_10_Gators_Of_The_Coast_1.gif", "images/spring21/Spring21_10_Gators_Of_The_Coast_2.gif", "images/spring21/Spring21_10_Gators_Of_The_Coast_3.gif"]
+				}
+				,{
+						"project-name": "UF Club Sailing Team Website",
+						"description": "Interactive website with how to join section, contact information, and calendar",
+						"tas": ["Grey Johnson"],
+						"members": ["Gabriella Gonzalez", "London Torres", "Andrew Lopez", "Bryce Hostetler"],
+						"images": ["images/spring21/Spring21_P5T3_GLAB_1.gif", "images/spring21/Spring21_P5T3_GLAB_2.gif", "images/spring21/Spring21_P5T3_GLAB_3.gif"]
+				}
+				,{
+						"project-name": "GDA Website",
+						"description": "A dedicated website for the UF Game Developers' Association. The site features a homepage with featured and newly released games, a games page to host games made by club members, an events page to keep club members up-to-date, club resources, and login functionality.",
+						"tas": ["Tyler Metzger", "Fernando Rivera"],
+						"members": ["Katie Platt", "Grecia Tragodara", "Adam Krouk", "Gregory Drummond", "Jaheim Barrett"],
+						"images": ["images/spring21/Spring21_period6_group1_1.gif", "images/spring21/Spring21_period6_group1_2.gif", "images/spring21/Spring21_period6_group1_3.gif"]
+				}
+				,{
+						"project-name": "Dream Team Engineering Web Application",
+						"description": "A web application for DTE members to keep track of points and upcoming events",
+						"tas": ["Paola Solari"],
+						"members": ["Joseph Brody", "Veronica Sandoval", "James Nguyen", "Sunny Yu"],
+						"images": ["images/spring21/Spring21_P4_2T3_1.gif", "images/spring21/Spring21_P4_2T3_2.gif", "images/spring21/Spring21_P4_2T3_3.gif"]
+				}
+				
+				,{
+						"project-name": "Skate'n Roll Website",
+						"description": "UF club website with a homepage, gallery, calendar, contact form, and admin page",
+						"tas": ["Paola Solari"],
+						"members": ["Dawson Eggleston", "Ricardo Sanchez Cereijo", "Alejandro Kirsch", "Maxwell Rodriguez"],
+						"images": ["images/spring21/Spring21_2_CTRLSHIFTESC_1.gif", "images/spring21/Spring21_2_CTRLSHIFTESC_2.gif", "images/spring21/Spring21_2_CTRLSHIFTESC_2.gif"]
+				}
+				,{
+						"project-name": "Tone Def Website",
+						"description": "A new and functional website for the clubs current and future needs",
+						"tas": ["Grey Johnson"],
+						"members": ["Luke Rouleau", "Calvin Yang", "Alejandro Jacobo", "Joe Liquori", "Liam Stokes"],
+						"images": ["images/spring21/Spring21_5_ToneDeafDev_1.gif", "images/spring21/Spring21_5_ToneDeafDev_2.gif", "images/spring21/Spring21_5_ToneDeafDev_3.gif"]
+				}
+				,{
+						"project-name": "Kanzen Dashboard",
+						"description": "A web scraping and data visualization application for anime search analytics.",
+						"tas": ["Destinee Gant", "Paulina Liwanag"],
+						"members": ["Nipuna Weerapperuma", "Ryan Porter", "Beckett Hoefling", "Liam Le"],
+						"images": ["images/spring21/Spring21_8_KanzenAnalytics_1.gif", "images/spring21/Spring21_8_KanzenAnalytics_2.gif", "images/spring21/Spring21_8_KanzenAnalytics_3.gif"]
+				}
+				,{
+						"project-name": "League Game Tracker",
+						"description": "A fully functional way to store team and player information to be used with tournament organization and recording.",
+						"tas": ["Jack Zheng"],
+						"members": ["Giovanni Saltini", "Carlos Flechilla", "Levi Stevenson"],
+						"images": ["images/spring21/Spring21_11_leaguetracker_1.gif", "images/spring21/Spring21_11_leaguetracker_2.gif", "images/spring21/Spring21_11_leaguetracker_3.gif"]
+				}
+				,{
+						"project-name": "Out Of Bounds",
+						"description": "Website for UF Club Tennis",
+						"tas": ["Dahlia La Pommeray", "Alexander Webber"],
+						"members": ["David Peguero", "Kara Evans", "Jahdiel Suarez", "Michael Smith"],
+						"images": ["images/spring21/Spring21_P2_2_Team1_1.gif", "images/spring21/Spring21_P2_2_Team1_2.gif", "images/spring21/Spring21_P2_2_Team1_3.gif"]
+				}
+				,{
+						"project-name": "Table Tennis Club",
+						"description": "A website created for the UF Table Tennis Club to host information and run tournaments on.",
+						"tas": ["Jack Zheng", "Alexander Webber"],
+						"members": ["Augusto Cohn", "Noah Hirschfield", "Frank Albella", "Gabriel Arias-Marin"],
+						"images": ["images/spring21/Spring21_10_2_1.gif", "images/spring21/Spring21_10_2_2.gif", "images/spring21/Spring21_10_2_3.gif"]
+				}
+				,{
+						"project-name": "UF Surf Club Website",
+						"description": "This website is a hub for all things related to surf club. It can be used to view social medias, stay up to date on announcements, view photos, access a feed of calendar events, and view the weather and surf conditions at local beaches!",
+						"tas": ["Paola S."],
+						"members": ["Samantha Gilman", "Joseph Sanders", "Joseph Madden", "Connor Fuchs"],
+						"images": ["images/spring21/image1.gif", "images/spring21/image2.gif", "images/spring21/image3.gif"]
+				}
+				,{
+					"project-name": "Webify",
+					"description": "Created a MERN website for Filipino Student Associaton",
+					"tas": [
+						"Dahlia La Pommeray",
+						"Alexander Webber"
+					],
+					"members": [
+						"Christopher James Fernandez",
+						"Dustin MacLaughlin",
+						"Daniela Trevino",
+						"Huijuan Bao",
+						"Carlos Echenique"
+					],
+					"images": [
+						"images/spring21/Spring21_3_Webify_1.gif",
+						"images/spring21/Spring21_3_Webify_2.gif",
+						"images/spring21/Spring21_3_Webify_3.gif"
+					]
+				}
+				,{
+						"project-name": "FLC Profiles",
+						"description": "A website to help FLC showcase professional profiles for their council of freshmen each year.",
+						"tas": ["Tyler Metzger", "Fernando Rivera"],
+						"members": ["Ekin Atay", "Daniel Lewis", "Ariel Weitzenfeld", "Alex Liu"],
+						"images": ["images/spring21/Spring21_P6_Smartinis_1.gif", "images/spring21/Spring21_P6_Smartinis_2.gif", "images/spring21/Spring21_P6_Smartinis_3.gif"]
+				}
+				,{
+						"project-name": "CSABay",
+						"description": "A website similar to Craigslist where people can post selling, buying, or subleasing information.",
+						"tas": ["Tyler Metzger", "Fernando Rivera"],
+						"members": ["Lindsay Dobrie", "Shida Yang", "Sophia Morin", "Sebastian Martinez"],
+						"images": ["images/spring21/Spring21_P6_DYMM_1.gif", "images/spring21/Spring21_P6_DYMM_2.gif", "images/spring21/Spring21_P6_DYMM_3.gif"]
+				}
+				,{
+						"project-name": "Hooked to the Book Club Site",
+						"description": "An informative and functional site for the UF Hooked to the Book Club.",
+						"tas": ["Tyler Metzger", "Fernando Rivera"],
+						"members": ["Dustin Karp", "Matthew Cohen", "Isabel Mitre"],
+						"images": ["images/spring21/Spring21_6_NodeItAlls_1.gif", "images/spring21/Spring21_6_NodeItAlls_2.gif", "images/spring21/Spring21_6_NodeItAlls_3.gif"]
+				}
+				,{
+						"project-name": "P7T5 - To the Moon",
+						"description": "A website for the Black Students in Business. It is meant to inform prospective membebers as well as keeping current members up to date.",
+						"tas": ["Tyler Metzger", "Fernando Rivera"],
+						"members": ["Sean Smith", "Nathan Hilton", "Toni Earle-Randell", "Alexander Ng"],
+						"images": ["images/spring21/Spring21_P7T5_ToTheMoon_1.gif", "images/spring21/Spring21_P7T5_ToTheMoon_2.gif.gif", "images/spring21/Spring21_P7T5_ToTheMoon_3.gif.gif"]
+				}
+				,{
+						"project-name": "Vietnamese Student Organization's Website",
+						"description": "A website for the Vietnamese Student Organization (VSO) at UF. Users can navigate through different pages and login/register accounts. VSO Board can edit members' points when logged in.",
+						"tas": ["Paulina", "Destinee"],
+						"members": ["Julia Le", "Parker Esco", "Fahd Sakas", "Kunyao Wang"],
+						"images": ["images/spring21/Spring21_8_PhlyPlatypi_1", "images/spring21/Spring21_8_PhlyPlatypi_2.gif", "images/spring21/Spring21_8_PhlyPlatypi_3.gif"]
+				}
+				,{
+						"project-name": "TrailGator Club Website",
+						"description": "The purpose of this project is to create a user-friendly website for the Florida TrailGator Club at the University of Florida. This will allow the executive board members to manage events and members who are in the club in an easy manner. They currently need a website where they can organize all the members� information and easily communicate with them if any unforeseen cancellations occur or if there is an update on an event. The website we created shall provide an ease of access to a common calendar and as admin, ability to create or delete events.",
+						"tas": ["Paulina Liwanag", "Destinee Gant"],
+						"members": ["Paul Gibbons", "Dustin Heuser", "Carson Jones", "Carson Passero", "Kavitha Vudatha"],
+						"images": ["images/spring21/Spring21_P9T3_TechnoTrailblazers_1.gif", "images/spring21/Spring21_P9T3_TechnoTrailblazers_2.gif", "images/spring21/Spring21_P9T3_TechnoTrailblazers_3.gif"]
+				}
+				,{
+						"project-name": "USC | ELC Website (Group P4_2T6)",
+						"description": "A website for the members of Epsilon Lambda Chi. Includes member accounts, locked calendars, alumni databases, and member pages",
+						"tas": ["Paola Solari"],
+						"members": ["Dominik Andrzejczyn", "Vichaphat Pornchatrat", "Joshua Ryals", "Jaime Toranzo"],
+						"images": ["images/spring21/Spring21_periodNum_groupName_1.gif", "images/spring21/Spring21_periodNum_groupName_2.gif", "images/spring21/Spring21_periodNum_groupName_3.gif"]
+				}
+				,{
+						"project-name": "The Myth of Sisyphus",
+						"description": "The Myth of Sisyphus is a strategic roguelike game where the player participates in turned based combat against random enemies to progress.",
+						"tas": ["Jack Zheng"],
+						"members": ["Eric Weisfeld", "Angelica Avila", "Gustavo Villoldo", "Keyur Patel"],
+						"images": ["images/spring21/Spring21_P11_T2_1.gif", "images/spring21/Spring21_P11_T2_2.gif", "images/spring21/Spring21_P11_T2_3.gif"]
+				}
+				,{
+					"project-name": "ASL for VetMed",
+					"description": "A website for veterinary students that aims to serve as a study aid for teaching vet-med specific terminology in ASL.",
+					"tas": ["Destinee Grant", "Paulina Liwanag"],
+					"members": ["Liam Cohen", "Leslie Harvey", "Nathan Lee", "Thaira Sommer", "Jake Watson"],
+					"images": ["images/spring21/Spring21_8_AnimalsSuperiorLiberty_1.gif", "images/spring21/Spring21_8_AnimalsSuperiorLiberty_2.gif", "images/spring21/Spring21_8_AnimalsSuperiorLiberty_3.gif"]
+				}
+				,{
+						"project-name": "Alpha Omicron Pi website",
+						"description": "A tool to learn more about the organization for future members; viewing information, getting in contact, learning about events",
+						"tas": ["Fernando Rivera", "Tyler Metzger"],
+						"members": ["Katerina Petruzzelli", "Neil Kotun", "Aditi Anna", "Javier Patterson", "Gregory Garrett"],
+						"images": ["images/spring21/Spring21_period7_Heat_1.gif", "images/spring21/Spring21_period7_Heat_2.gif", "images/spring21/Spring21_period7_Heat_3.gif"]
+				}
+				,{
+						"project-name": "VJAM",
+						"description": "The Crohn's and Colitis Care Consortium website is a resource for students and anyone looking for help dealing with Crohn's or Colitis. The website offers multiple resources including documents, books, websites, and contact information. Users are allowed to ask personal questions on the discussion board and can receive feedback from registered physicians. Overall the goal of the website is to help those with these diseases by providing public resources in an organized manner.",
+						"tas": ["Destinee", "Paulina"],
+						"members": ["Michael Mendel", "Jack Gonzales", "Vida Tonkova", "Austin Jacobs"],
+						"images": ["images/spring21/Spring21_9_VJAM_1.gif", "images/spring21/Spring21_9_VJAM_2.gif", "images/spring21/Spring21_9_VJAM_3.gif"]
+				}
+				,{
+						"project-name": "Gator Humans vs Zombies Club Website",
+						"description": "A website for the Gator Humans vs Zombies Club at UF. This website serves many uses, such as Game Creation, Player Registration, In-Game Action Logging, Item Registration, Updates, Player Stat Tracking, Live Game Leaderboard, and more.",
+						"tas": ["Paola Solari"],
+						"members": ["Alexandra Dibble", "Jakob Melendez", "Gabriel Turmail", "Liam Young"],
+						"images": ["images/spring21/Spring21_8_runtime-terror_1.gif", "images/spring21/Spring21_8_runtime-terror_2.gif", "images/spring21/Spring21_8_runtime-terror_3.gif"]
+				}
+				,{
+						"project-name": "GBV Club Website",
+						"description": "Created a MERN stack website for the UF Gators Beach Volleyball Club",
+						"tas": ["Paola Solari"],
+						"members": ["Nicholas Jackson", "Kevin Vega Gonzalez", "Maria-Lia Passaglia"],
+						"images": ["images/spring21/Spring21_p2_ctrlf_1.gif", "images/spring21/Spring21_p2_ctrlf_2.gif", "images/spring21/Spring21_p2_ctrlf_3.gif"]
+				}
+				,{
+						"project-name": "Society of Women Engineers Attendance Tracker",
+						"description": "This is a website application that tracks active members of SWE. It uses a calendar to allow users to sign into events while also allowing adminstrators to view all member data and event data throughout the club.",
+						"tas": ["Paola Solari"],
+						"members": ["Emily Kelsey", "Max DiRocco", "Nicholas Reno", "Christopher Henesy"],
+						"images": ["images/spring21/Spring21_P4_2T1_1.gif", "images/spring21/Spring21_P4_2T1_2.gif", "images/spring21/Spring21_P4_2T1_3.gif"]
+				}
+				,{
+						"project-name": "DSA Website",
+						"description": "The purpose of our project is to develop a high-quality informational website for the UF Dominican Student Association (DSA @ UF) to supplement the organization�s current presence on the web with a dedicated hub hosting important club-related information, news, affiliations, contact information, etc. ",
+						"tas": ["Destinee Gant","Paulina Liwanag"],
+						"members": ["Matthew Iglesias", "Noah Meininger", "Julia Nguyen", "Americos Perez"],
+						"images": ["images/spring21/Spring21_8_DSADevelopers_1.gif", "images/spring21/Spring21_8_DSADevelopers_2.gif", "images/spring21/Spring21_8_DSADevelopers_3.gif"]
+				}
+				,{
+						"project-name": "Heal Central",
+						"description": "This project is a website for Health Educated Asian Leaders (HEAL) that aims to centralize online information about their club. Specific features on the web app include various informative pages, an event signup form, and a calendar.",
+						"tas": ["Grey Johnson", "Paola Solari"],
+						"members": ["Kattrina Erillo", "Olivia Feller", "Cameron Kozlin", "Dongni Alcantara"],
+						"images": ["images/spring21/Spring21_4_P4T2_1.gif", "images/spring21/Spring21_4_P4T2_2.gif", "images/spring21/Spring21_4_P4T2_3.gif"]
+				}
+				,{
+						"project-name": "WECE Maker's Garage Manager",
+						"description": "This is a website which will manage the WECE Maker's Garage. It will do so by limiting and keeping track of the current capacity and occupancy of the garage, listing hours it is open, listing who's currently supervising the garage, etc.",
+						"tas": ["Paola Solari"],
+						"members": ["Nicholas Gongee", "Allie Saari", "Nicolas Morita", "Andrew Brown"],
+						"images": ["images/spring21/Spring21_2_4_1.gif", "images/spring21/Spring21_2_4_2.gif", "images/spring21/Spring21_2_4_3.gif"]
+				}
+				,{
+						"project-name": "Florida TrailGator Website",
+						"description": "The website will serve as a center for general club information and information about upcoming events, as well as provide more interaction to the club members through the voting system and interactive hike map.",
+						"tas": ["Tyler Metzger", "Fernando Rivera"],
+						"members": ["Antonio Romero", "Viraj Desai", "Trevor Richardson", "Poliana Martins de Santana", "Cesar Arguello"],
+						"images": ["images/spring21/Spring21_7_HikingHackers_1.gif", "images/spring21/Spring21_7_HikingHackers_2.gif", "images/spring21/Spring21_7_HikingHackers_3.gif"]
+				}
+				,{
+						"project-name": "Gator Judo Website",
+						"description": "An announcement feed for the Judo club that automatically connects to their facebook group, allowing announcements from facebook to automatically go onto the announcement feed.",
+						"tas": ["Alex Webber", "Dahlia La Pommeray"],
+						"members": ["Alex Martin", "Alex Prokop", "Ethan Angerhofer", "Yelaine Linares"],
+						"images": ["images/spring21/Spring21_2_Aye_1.gif", "images/spring21/Spring21_2_Aye_2.gif", "images/spring21/Spring21_2_Aye_3.gif"]
+				}
+				
+				
+				,{
+						"project-name": "CEN3031 Project Showcase",
+						"description": "The CEN3031 project showcase allows students to register/login to accounts and upload final project submissions. The projects are then displayed on the homepage of the website for people to see.",
+						"tas": ["Tyler Metzger"],
+						"members": ["Steven Amberman, Arthuir Guimaraes, Daniel Shin"],
+						"images": ["images/spring21/Spring21_periodNum_groupName_1.gif", "images/spring21/Spring21_periodNum_groupName_2.gif", "images/spring21/Spring21_periodNum_groupName_3.gif"]
+				}
+				,{
+					"project-name": "Project Gatorette",
+					"description": "Project Gatorette is an informational website for the University of Florida Gatorettes. Users are provided with details on who the team is, who the members of the team are, and the social media platforms the Gatorettes can be found on.", 
+					"tas": ["Dahlia La Pommeray", "Alex Webber"],
+					"members": ["Katriana O'Hara", "Lucas Weaver", "Zabeer Hossain", "Shruthi Krishnapuram"],
+					"images": ["images/spring21/Spring21_P2_2_SLZK_1.gif", "images/spring21/Spring21_P2_2_SLZK_2.gif", "images/spring21/Spring21_P2_2_SLZK_3.gif"]
+				}
+				,{
+						"project-name": "This Doesn't Make CENse",
+						"description": "A trip recommending application for Outdoor Adventure Recreation where users can add and search for trips to embark on.",
+						"tas": ["Tyler Metzger", "Fernando Rivera"],
+						"members": ["Alexander Skladanek", "Chirag Narang", "Nancy Chen", "Nikolas Urcuyo", "Zachary Krol"],
+						"images": ["images/spring21/Spring21_P6T2_This Doesn't Make CENse_1.gif", "images/spring21/Spring21_P6T2_This Doesn't Make CENse_2.gif", "images/spring21/Spring21_P6T2_This Doesn't Make CENse_3.gif"]
+				}
+				
+				
+				,{
+						"project-name": "Golf Club Hub",
+						"description": "A website for the UF Golf Club so members can know what events are coming up and new members have a place to join easily.",
+						"tas": ["Paulina Liwanag", "Destinee Gant"],
+						"members": ["Chandler Fox", "Brendan Fisher", "Jin Lin", "Aditya Nair"],
+						"images": ["images/spring21/Spring21_P9_TheBogies_1.gif", "images/spring21/Spring21_P9_TheBogies_2.gif", "images/spring21/Spring21_P9_TheBogies_3.gif"]
+				}
+				,{
+						"project-name": "The ACE of Spades",
+						"description": "We built a slack bot for the Association of Computer Engineers (ACE) to help them create and club events.",
+						"tas": ["Jack Zheng", "Alex Webber"],
+						"members": ["Christopher Wilson", "Sunjay Kolakeri", "Noah Gorgevski-Sharpe"],
+						"images": ["images/spring21/Spring21_10_TheACEofSpades.gif"]
+				}
+				,{
+						"project-name": "University of Florida Pre-Dental Society Website",
+						"description": "A website for the UF Pre-Dental Society to use as a tool for communication with current members in regards to upcoming events, activities, and standing as well as an outreach method for attracting and letting potential members know about the club.",
+						"tas": ["Grey Johnson"],
+						"members": ["Robert McAdam", "Christopher Brugal", "Diana Feng", "Nathan Allen"],
+						"images": ["images/spring21/Spring21_period5_teamUntitled_1.gif", "images/spring21/Spring21_period5_teamUntitled_2.gif", "images/spring21/Spring21_period5_teamUntitled_3.gif"]
+				}
+				,{
+						"project-name": "Eventally",
+						"description": "A web application for an engineering organization called WECE (Women in Electrical and Computer Engineering), which helps members keep track of their upcoming events and earned event points.",
+						"tas": ["Dahlia", "Alex"],
+						"members": ["Yenessa Avalos-Maldonado", "Kamil Caputis", "Jovencey StFleur"],
+						"images": ["images/spring21/events_points_pages.gif", "images/spring21/signin_logout.gif", "images/spring21/signup.gif"]
+				},
+				{
+						"project-name": "Webify",
+						"description": "Created a MERN website for Filipino Student Associaton",
+						"tas": [
+							"Dahlia La Pommeray",
+							"Alexander Webber"
+						],
+						"members": [
+							"Christopher James Fernandez",
+							"Dustin MacLaughlin",
+							"Daniela Trevino",
+							"Huijuan Bao",
+							"Carlos Echenique"
+						],
+						"images": [
+							"images/spring21/Spring21_3_Webify_1.gif",
+							"images/spring21/Spring21_3_Webify_2.gif",
+							"images/spring21/Spring21_3_Webify_3.gif"
+						]
+					},
+					{
+						"project-name": "Entrepreneurship Overhaul",
+						"description": "We are creating a new club website for the entrepreneurship collective so they have a way to organize and centralize all their information about various aspects of the club such as meeting times, members, and etc.",
+						"tas": ["Alex", "Dahlia"],
+						"members": ["Anthony Khmarin", "Brady Ogle", "Josh Abraham", "Justin Ho"],
+						"images": ["images/spring21/navbar.gif", "images/spring21/calendar.gif", "images/spring21/gallery.gif"]
+				},
+				{
+						"project-name": "Esac Dashboard",
+						"description": " Design, develop, and deliver an online dashboard for Engineering Student Advisory Council for Undergraduates (ESAC) allowing tracking tasks, reflections, and other general capabilities.",
+						"tas": ["Alex Webber", "Dahlia La Pommeray"],
+						"members": ["Maanasi Vadlamani", "Haroon Syed", "Merrick Ryman", "Joe Gravelle"],
+						"images": ["images/spring21/Spring21_P3_EsacDashboard_1.gif", "images/spring21/Spring21_P3_EsacDashboard_2.gif", "images/spring21/Spring21_P3_EsacDashboard_3.gif"]
+				},
+				{
+						"project-name": "2021 UF MIL Website Redesign",
+						"description": "We aim to create an updated website for UF’s Machine Intelligence Lab. The primary goal is to use technologies that enable the client to easily update website content without needing to directly modify any code.",
+						"tas": ["Dahlia La Pommeray", "Alex Webber"],
+						"members": ["Matthew I.", "Frank Olivera", "Douglas Shu", "Daniela Villalva"],
+						"images": ["images/spring21/Spring21_P3_T5_1.gif", "images/spring21/Spring21_P3_T5_2.gif", "images/spring21/Spring21_P3_T5_3.gif"]
+				},
+				{
+						"project-name": "Innovation Portal",
+						"description": "A web application where innovation ambassadors can post and log into events.",
+						"tas": ["Dahlia La Pommeray", "Alexander Webber"],
+						"members": ["Lukian Bogdanets", "Kevin Tram", "Sean Kullmann", "Tianwei Xie"],
+						"images": ["images/spring21/Spring21_P3T4_InnovationPortal_1.gif", "images/spring21/Spring21_P3T4_InnovationPortal_2.gif", "images/spring21/Spring21_P3T4_InnovationPortal_3.gif"]
+				},
+				{
+						"project-name": "Eventally",
+						"description": "A web application for an engineering organization called WECE (Women in Electrical and Computer Engineering), which helps members keep track of their upcoming events and earned event points.",
+						"tas": ["Dahlia", "Alex"],
+						"members": ["Yenessa Avalos-Maldonado", "Kamil Caputis", "Jovencey StFleur"],
+						"images": ["images/spring21/events_points_pages.gif", "images/spring21/signin_logout.gif", "images/spring21/signup.gif"]
+				}
+				]
 		}
 	]
 }
